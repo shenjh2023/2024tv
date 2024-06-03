@@ -1,5 +1,5 @@
 {
-          "spider": "https://d.kstore.space/download/3527/fan.txt",
+          "spider": "https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fan.txt",
           
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   
@@ -55,8 +55,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://d.kstore.space/download/3527/影搜.json",
-      "jar":"https://d.kstore.space/download/3527/custom_spider.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/影搜.json",
+      "jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/custom_spider.jar"
     },
    
 {
@@ -68,7 +68,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-       "jar":"https://d.kstore.space/download/3527/custom_spider.jar"
+       "jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/custom_spider.jar"
     },
     
  {"key":"荐片",
@@ -98,7 +98,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://v.ikanbot.com",
-       "jar":"https://d.kstore.space/download/3527/custom_spider.jar"
+       "jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/custom_spider.jar"
     },
     
    
@@ -815,22 +815,22 @@
         },
    
 
-    {"key":"AvTime","name":"🔞AvTime","type":3,"api":"csp_AvTime","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"Eighteen","name":"🔞Eighteen","type":3,"api":"csp_Eighteen","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"Gxqvlj","name":"🔞Gxqvlj","type":3,"api":"csp_Gxqvlj","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"Taohuazu","name":"🔞Taohuazu","type":3,"api":"csp_Taohuazu","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"Zuise","name":"🔞Zuise","type":3,"api":"csp_Zuise","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"JavBus","name":"🔞JavBus","type":3,"api":"csp_JavBus","filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.6},"timeout":60,"ext":"https://www.cdnbus.shop","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"JavDb","name":"🔞JavDb","type":3,"api":"csp_JavDb","filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.6},"timeout":60,"ext":"http://javdb365.com","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"Hanime","name":"🔞Hanime","type":3,"api":"csp_Hanime","jar":"https://d.kstore.space/download/3527/pg.jar"},
+    {"key":"AvTime","name":"🔞AvTime","type":3,"api":"csp_AvTime","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"Eighteen","name":"🔞Eighteen","type":3,"api":"csp_Eighteen","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"Gxqvlj","name":"🔞Gxqvlj","type":3,"api":"csp_Gxqvlj","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"Taohuazu","name":"🔞Taohuazu","type":3,"api":"csp_Taohuazu","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"Zuise","name":"🔞Zuise","type":3,"api":"csp_Zuise","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"JavBus","name":"🔞JavBus","type":3,"api":"csp_JavBus","filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.6},"timeout":60,"ext":"https://www.cdnbus.shop","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"JavDb","name":"🔞JavDb","type":3,"api":"csp_JavDb","filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.6},"timeout":60,"ext":"http://javdb365.com","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"Hanime","name":"🔞Hanime","type":3,"api":"csp_Hanime","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
          
-        {"key":"Miss","name":"Miss|fq","type":3,"api":"csp_Miss","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"Cable","name":"Cable|fq","type":3,"api":"csp_Cable","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"Doll","name":"Doll|fq","type":3,"api":"csp_Doll","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"top888","name":"top888|fq","type":3,"api":"csp_Top888","style":{"type":"rect","ratio":1.6},"jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"SeHuaTang","name":"SeHuaTang|fq","type":3,"api":"csp_SeHuaTang","jar":"https://d.kstore.space/download/3527/pg.jar"},
-    {"key":"Jable","name":"Jable|fq","type":3,"api":"csp_Jable","jar":"https://d.kstore.space/download/3527/pg.jar"},
+        {"key":"Miss","name":"Miss|fq","type":3,"api":"csp_Miss","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"Cable","name":"Cable|fq","type":3,"api":"csp_Cable","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"Doll","name":"Doll|fq","type":3,"api":"csp_Doll","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"top888","name":"top888|fq","type":3,"api":"csp_Top888","style":{"type":"rect","ratio":1.6},"jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"SeHuaTang","name":"SeHuaTang|fq","type":3,"api":"csp_SeHuaTang","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    {"key":"Jable","name":"Jable|fq","type":3,"api":"csp_Jable","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
         
 
 

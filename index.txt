@@ -2,7 +2,7 @@
     "urls":[  //资源来源于网络，若有冒犯，私信删除！ 
 
 {
-"url":"https://d.kstore.space/download/3527/fast.txt",
+"url":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fast.txt",
        "name":"秒播-自用"
       },	
       
@@ -109,7 +109,7 @@
       },
       
       {
-        "url":"https://d.kstore.space/download/3527/S267.txt",
+        "url":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/S267.txt",
        "name": "秒用专线"
       }
       
