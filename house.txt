@@ -1,0 +1,12 @@
+{"storeHouse": [
+{"sourceName":"主源","sourceUrl":"https://d.kstore.space/download/3527/index.txt"},
+{"sourceName":"绿茶","sourceUrl":"https://d.kstore.space/download/3527/99.txt"},
+{"sourceName":"公子仓","sourceUrl":"http://gzc.hk3.345123.xyz/cangku.json"},
+{"sourceName":"龙哥影仓","sourceUrl":"https://gitee.com/sqlonglong/dragon-dragon-dragon/raw/master/DC.txt"},
+{"sourceName":"奇奇线路","sourceUrl":"http://z.qiqiv.cn/123.txt"},
+{"sourceName":"无敌仓","sourceUrl":"https://d.kstore.space/download/5147/无敌仓duoxianlu.json"},
+{"sourceName":"讴歌主仓","sourceUrl":"http://xn--313-mf3g9f.y.nxog.top/nxog/ou1.php?b=欧歌313"},
+{"sourceName":"讴歌备1","sourceUrl":"http://1.t.nxog.top/nxog/ou1.php?b=欧歌"},
+{"sourceName":"讴歌备2","sourceUrl":"http://1.a.欧.我爱你/nxog/ou1.php?b=欧歌"},
+{"sourceName":"拾光仓","sourceUrl":"https://raw.gitmirror.com/xmbjm/xmbjm/main/xmbjmdc.json"}
+]}
