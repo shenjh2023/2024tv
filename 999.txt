@@ -1,0 +1,10 @@
+{
+    "urls": [
+ 
+       {"url": "https://d.kstore.space/download/3527/S267.txt","name": "影院"},
+       {"url": "https://tv.lan2wan.top/candymuj18.json ","name": "影院1"},
+       
+       {"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json","name": "影院4"}
+      
+    ]
+}
