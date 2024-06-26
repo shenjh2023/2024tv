@@ -7,12 +7,12 @@
       },	
       
       {
-        "url":"http://xn--313-mf3g9f.y.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌313",
+        "url":"http://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
        "name": "讴歌线路"
       },
 
 {
-        "url":"https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json",
+        "url":"https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
        "name": "pg线路"
       },
             
@@ -27,7 +27,7 @@
       },  
 
  {
-"url":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+"url":"http://ygbh.live/box.php",
        "name":"月光宝盒"
       },
 
@@ -63,22 +63,22 @@
       },
 
 {
-        "url":"http://我不是.肥猫.live/接口禁止贩卖",
+        "url":"http://肥猫.com",
        "name": "肥猫极速"
       },
  
 
       
-      {        "url":"http://u6v.cn/6vX55k",
+      {        "url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/2e02e908-df48-4d0d-896c-b784e116f4c5.bmp",
        "name":"T4高清"
       },
       
 
-{        "url":"https://wds.ecsxs.com/231726.css",
-       "name":"春盈"
+{        "url":"http://tvbox.王二小放牛娃.xyz",
+       "name":"王二小放牛"
       },
       
-      {        "url":"http://www.liuyunw.com:88/img",
+      {        "url":"http://dp.sxtv.top:88/img",
        "name":"神仙影视"
       },
       
@@ -87,18 +87,18 @@
       },
   
 {
-"url":"https://pan.shangui.cc/f/4LBAF0/ali.json",
-       "name":"阿里业余需token"
+"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
+       "name":"柚子影视"
       },
     
       {
-        "url":"https://pastebin.com/raw/5NHaxyGR",
-       "name":"道长线路"
+        "url":"https://yubox.xyz/xc.json",
+       "name":"王玉线路"
       },
       
       {
-        "url":"http://8.210.232.168/xc.json",
-       "name":"王玉线路"
+        "url":"http://我不是.摸鱼儿.top",
+       "name":"摸鱼线路"
       },
       
       
@@ -109,7 +109,7 @@
       },
       
       {
-        "url":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/S267.txt",
+        "url":"https://d.kstore.space/download/3527/S267.txt",
        "name": "秒用专线"
       }
       

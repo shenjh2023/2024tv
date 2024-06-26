@@ -47,9 +47,9 @@
       }
     },
  
-{
+    {
       "key": "csp_XYQHiker_影搜",
-      "name": "📀影搜(香)",
+      "name": "📀影搜(XYQH)",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -80,14 +80,14 @@
 "quickSearch":1,
 "filterable":1,
 "ext":"http://api2.rinhome.com",
- "jar":"http://xn--313-mf3g9f.y.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;72882de184eefbff3f3ae24e062e01d9"},
+ "jar":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"},
 
 {"key":"csp_ipianba",
-"name":"❤️片吧┃讴",
+"name":"❤️片吧┃影视",
 "type":3,
 "api":"csp_XBPQ",
-"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"},    
- "jar":"http://xn--313-mf3g9f.y.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;72882de184eefbff3f3ae24e062e01d9"},
+"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"},
+ "jar":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"},
    
  {
       "key": "csp_Ikanbot",
@@ -736,9 +736,9 @@
   
   "lives": [
     {
-      "name": "SAO0",
+      "name": "秒播",
       "type": 0,
-      "url": "https://d.kstore.space/download/3701/%E5%8D%A7%E6%A7%BDTV%E4%BA%8C.txt  ",
+      "url": "https://www.huichunniao.cn/xh/lib/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",

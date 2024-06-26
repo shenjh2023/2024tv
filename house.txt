@@ -1,5 +1,6 @@
 {"storeHouse": [
-{"sourceName":"主源","sourceUrl":"https://d.kstore.space/download/3527/index.txt"},
+{"sourceName":"主源","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
+{"sourceName":"备源","sourceUrl":"https://d.kstore.space/download/3527/index.txt"},
 {"sourceName":"绿茶","sourceUrl":"https://d.kstore.space/download/3527/99.txt"},
 {"sourceName":"公子仓","sourceUrl":"http://gzc.hk3.345123.xyz/cangku.json"},
 {"sourceName":"龙哥影仓","sourceUrl":"https://gitee.com/sqlonglong/dragon-dragon-dragon/raw/master/DC.txt"},
