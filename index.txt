@@ -5,6 +5,10 @@
 "url":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fast.txt",
        "name":"秒播-自用"
       },	
+ {
+"url":"https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fast.txt",
+       "name":"秒播-备用"
+      },	
       
       {
         "url":"http://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
@@ -109,7 +113,7 @@
       },
       
       {
-        "url":"https://d.kstore.space/download/3527/S267.txt",
+        "url":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/S267.txt",
        "name": "秒用专线"
       }
       

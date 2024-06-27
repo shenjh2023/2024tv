@@ -47,9 +47,9 @@
       }
     },
  
-{
+    {
       "key": "csp_XYQHiker_影搜",
-      "name": "📀影搜(香)",
+      "name": "📀影搜(XYQH)",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -80,14 +80,14 @@
 "quickSearch":1,
 "filterable":1,
 "ext":"http://api2.rinhome.com",
- "jar":"http://xn--313-mf3g9f.y.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;72882de184eefbff3f3ae24e062e01d9"},
+ "jar":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"},
 
 {"key":"csp_ipianba",
-"name":"❤️片吧┃讴",
+"name":"❤️片吧┃影视",
 "type":3,
 "api":"csp_XBPQ",
-"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"},    
- "jar":"http://xn--313-mf3g9f.y.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;72882de184eefbff3f3ae24e062e01d9"},
+"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"},
+ "jar":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"},
    
  {
       "key": "csp_Ikanbot",
@@ -100,6 +100,9 @@
       "ext": "https://v.ikanbot.com",
        "jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/custom_spider.jar"
     },
+    
+   
+    
     
    
     
@@ -671,7 +674,7 @@
 
 {
             "key": "乐播",
-            "name": "♻乐播",
+            "name": "🔞乐播",
             "type": 0,
             "playUrl": "https://lbjx9.com/?url=",
             "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
@@ -687,7 +690,7 @@
     
 {
             "key":"*淫水机资源",
-            "name":"♻淫水机资源",
+            "name":"🔞淫水机资源",
             "type":0,
             "api":"https://www.xrbsp.com/api/xml.php",
             "searchable":1,
@@ -696,7 +699,7 @@
         },
         {
             "key":"*香奶儿资源",
-            "name":"♻香奶儿资源",
+            "name":"🔞香奶儿资源",
             "type":0,
             "api":"https://www.gdlsp.com/api/xml.php",
             "searchable":1,
@@ -705,7 +708,7 @@
         },
         {
             "key":"大地采集",
-            "name":"♻大地av",
+            "name":"🔞大地av",
             "type":0,
             "api":"https://dadiapi.com/apple_m3u8.php",
             "playUrl":"https://play.dadiapi.com/watch?url=",
@@ -715,43 +718,13 @@
         },
         
             
-        {
-            "key": "采集D(爱爱仓库)",
-            "name": "♻采集爱爱仓库 ",
-            "type": 1,
-            "api": "http://app.aays.site/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         
-        {
-            "key": "采集E(甜蜜)",
-            "name": "♻采集甜蜜",
-            "type": 1,
-            "api": "https://timizy10.cc/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         
-        {
-            "key": "采集E(色猫)",
-            "name": "♻采集色猫 ",
-            "type": 1,
-            "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         
         
         {
             "key": "采集F(老鸭)",
-            "name": "♻采集老鸭",
+            "name": "🔞采集老鸭",
             "type": 1,
             "api": "https://api.apilyzy.com/api.php/provide/vod/",
             "playerType": 1,
@@ -761,7 +734,7 @@
         },
         {
             "key": "采集G(名优)",
-            "name": "♻采集名优",
+            "name": "🔞采集名优",
             "type": 1,
             "api": "https://api.apilyzy.com/api.php/provide/vod/",
             "playerType": 1,
@@ -772,7 +745,7 @@
         
         {
             "key": "采集G(美少女)",
-            "name": "♻采集美少女",
+            "name": "🔞采集美少女",
             "type": 0,
             "api": "https://www.msnii.com/api/xml.php ",
             "searchable": 1,
@@ -780,7 +753,7 @@
         },
         {
             "key": "采集G(香奶儿)",
-            "name": "♻采集名优",
+            "name": "🔞采集名优",
             "type": 0,
             "api": "https://www.gdlsp.com/api/xml.php ",
             "searchable": 1,
@@ -788,7 +761,7 @@
         },
         {
             "key": "采集G(开心果)",
-            "name": "♻采集开心果",
+            "name": "🔞采集开心果",
             "type": 0,
             "api": "https://www.kxgav.com/api/xml.php ",
             "searchable": 1,
@@ -797,7 +770,7 @@
         
         {
             "key": "采集G(jkun)",
-            "name": "♻采集jkun",
+            "name": "🔞采集jkun",
             "type": 1,
             "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
             "playerType": 1,
@@ -807,30 +780,24 @@
         },
         {
             "key": "采集H(饮水机)",
-            "name": "♻采集饮水机",
+            "name": "🔞采集饮水机",
             "type": 0,
             "api": "https://www.xrbsp.com/api/xml.php ",
             "searchable": 1,
             "changeable": 1
         },
+        
    
 
-    {"key":"AvTime","name":"🔞AvTime","type":3,"api":"csp_AvTime","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"Eighteen","name":"🔞Eighteen","type":3,"api":"csp_Eighteen","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"Gxqvlj","name":"🔞Gxqvlj","type":3,"api":"csp_Gxqvlj","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"Taohuazu","name":"🔞Taohuazu","type":3,"api":"csp_Taohuazu","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"Zuise","name":"🔞Zuise","type":3,"api":"csp_Zuise","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"JavBus","name":"🔞JavBus","type":3,"api":"csp_JavBus","filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.6},"timeout":60,"ext":"https://www.cdnbus.shop","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"JavDb","name":"🔞JavDb","type":3,"api":"csp_JavDb","filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.6},"timeout":60,"ext":"http://javdb365.com","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"Hanime","name":"🔞Hanime","type":3,"api":"csp_Hanime","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+    
+    {"key":"Eighteen","name":"🔞Eighteen","type":3,"api":"csp_Eighteen","jar":"https://d.kstore.space/download/3527/pg.jar"},
+    {"key":"Zuise","name":"🔞Zuise","type":3,"api":"csp_Zuise","jar":"https://d.kstore.space/download/3527/pg.jar"},
+    
          
-        {"key":"Miss","name":"Miss|fq","type":3,"api":"csp_Miss","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"Cable","name":"Cable|fq","type":3,"api":"csp_Cable","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"Doll","name":"Doll|fq","type":3,"api":"csp_Doll","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"top888","name":"top888|fq","type":3,"api":"csp_Top888","style":{"type":"rect","ratio":1.6},"jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"SeHuaTang","name":"SeHuaTang|fq","type":3,"api":"csp_SeHuaTang","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
-    {"key":"Jable","name":"Jable|fq","type":3,"api":"csp_Jable","jar":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/pg.jar"},
+        {"key":"Miss","name":"Miss|fq","type":3,"api":"csp_Miss","jar":"https://d.kstore.space/download/3527/pg.jar"},
+    {"key":"Cable","name":"Cable|fq","type":3,"api":"csp_Cable","jar":"https://d.kstore.space/download/3527/pg.jar"},
+    {"key":"Doll","name":"Doll|fq","type":3,"api":"csp_Doll","jar":"https://d.kstore.space/download/3527/pg.jar"},
+    {"key":"Jable","name":"Jable|fq","type":3,"api":"csp_Jable","jar":"https://d.kstore.space/download/3527/pg.jar"},
         
 
 
@@ -904,9 +871,9 @@
 
   "lives": [
     {
-      "name": "SAO0",
+      "name": "秒播",
       "type": 0,
-      "url": "https://d.kstore.space/download/3701/%E5%8D%A7%E6%A7%BDTV%E4%BA%8C.txt",
+      "url": "https://www.huichunniao.cn/xh/lib/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
