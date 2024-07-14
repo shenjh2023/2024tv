@@ -177,7 +177,64 @@
       ]
     },
 
-  
+  {
+            "key": "黑木耳",
+            "name": "黑木耳",
+            "type": 1,
+            "api": "https://json.heimuer.xyz/api.php/provide/vod",
+            "categories": [
+                "剧情片",
+                "动作片",
+                "冒险片",
+                "同性片",
+                "喜剧片",
+                "奇幻片",
+                "恐怖片",
+                "国产剧",
+                "港剧",
+                "韩剧",
+                "日剧",
+                "悬疑片",
+                "惊悚片",
+                "灾难片",
+                "爱情片",
+                "犯罪片",
+                "科幻片",
+                "动画电影",
+                "泰剧",
+                "台剧",
+                "欧美剧",
+                "新马剧",
+                "其他剧",
+                "歌舞片",
+                "战争片",
+                "经典片",
+                "网络电影",
+                "其它片",
+                "国产综艺",
+                "港台综艺",
+                "韩国综艺",
+                "日本综艺",
+                "欧美综艺",
+                "新马泰综艺",
+                "其他综艺",
+                "虐恋短剧",
+                "逆袭短剧",
+                "重生短剧",
+                "穿越短剧",
+                "甜宠短剧",
+                "其它短剧",
+                "欧美动漫",
+                "日本动漫",
+                "韩国动漫",
+                "国产动漫",
+                "港台动漫",
+                "新马泰动漫",
+                "其它动漫"
+            ],
+            "searchable": 1,
+            "changeable": 1
+        },
         
 
 {
@@ -1045,23 +1102,23 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
     {
-      "name": "live",
+      "name": "26710",
       "type": 0,
-      "url": "https://u2.kstore.space/download/3701/%E5%8D%A7%E6%A7%BDTV%E4%BA%8C.txt",
+      "url": "http://live.fsdks.com/tv.php",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "XIUTAN",
+      "name": "26711",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
       "type": 0,
-      "url": "https://xhdwc.tk/xiutan.m3u"
+      "url": "https://www.huichunniao.cn/xh/lib/live.txt"
     },
     {
-      "name": "IPV6",
+      "name": "26712",
       "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1
     }
   ]
