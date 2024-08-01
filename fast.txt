@@ -15,6 +15,13 @@
       "filterable": 0
     },
     
+        {
+      "key": "T4-黑狐",
+      "name": "影视-黑狐(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/heihu.php"
+    },
+    
    {
       "key": "hipy_js_采集之王[合]",
       "name": "❤️采集王",
