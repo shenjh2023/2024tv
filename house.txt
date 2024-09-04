@@ -1,6 +1,6 @@
 {"storeHouse": [
 {"sourceName":"主源","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
-{"sourceName":"备源","sourceUrl":"https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
+{"sourceName":"备源","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 {"sourceName":"恒星仓","sourceUrl":"http://恒星.net/hxck1.txt"},
 {"sourceName":"公子仓","sourceUrl":"http://gzc.hk3.345123.xyz/cangku.json"},
 {"sourceName":"绿茶","sourceUrl":"https://d.kstore.space/download/3527/99.txt"},
