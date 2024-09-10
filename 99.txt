@@ -1,19 +1,1 @@
-{
-    "urls": [
-        
-		{"url":"http://刘公子.免费.eu.org/19-1.txt","name":"🔞18+公子"},
-		{"url":"https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json","name":"🔞18+cat"},
-		{"url":"https://gh.con.sh/https://raw.githubusercontent.com/wwb521/live/main/video.json","name":"🔞18+wwb521"},
-		{"url":"https://gh.con.sh/https://raw.githubusercontent.com/tjyu010/tvbox/main/18.json","name":"🔞18+tiyu"},
-		{"url":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json","name":"🔞9918"},
-        {"url":"https://gh.con.sh/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json","name":"🔞二哈社区(H)"},
-        {"url":"https://gh.con.sh/https://raw.githubusercontent.com/yschaizhen/xian/main/hh","name":"🔞XXXXXZ"},
-        {"url":"https://gh.con.sh/https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json","name":"🔞catcr"},
-        {"url":"https://gh.con.sh/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt","name":"🔞Peter(H)"},
-        {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json","name":"🔞18+2"},  
-        {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json","name":"🔞18+3"}
-        
-        
-        
-    ]
-}
+﻿{"urls":[{"name":"福利1","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/main/227S267.txt" },	{"name": "福利2","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json"}, {"name": "福利3","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json"}, {"name":"福利4","url":"https://gzy.lzo.us.kg/19-1.txt"}, {"name":"福利5","url":"https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json"}, {"name": "福利6", "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/video.json" },  {"name": "福利7","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tjyu010/tvbox/main/18.json"}, {"name": "福利8","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/AngelkookLJ/Ak-tvbox/main/Akbox.json"}, {"name": "福利9","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/atsushi444/tvbox/main/tvbox.json"}, {"name": "福利10","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/adult.json"}, {"name": "福利11","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tjyu010/tvbox/main/cr1.json"}]}

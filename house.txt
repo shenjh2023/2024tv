@@ -1,9 +1,9 @@
 {"storeHouse": [
-{"sourceName":"主源","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
-{"sourceName":"备源","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
+{"sourceName":"主源","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
+{"sourceName":"备源","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 {"sourceName":"恒星仓","sourceUrl":"http://恒星.net/hxck1.txt"},
 {"sourceName":"公子仓","sourceUrl":"http://gzc.hk3.345123.xyz/cangku.json"},
-{"sourceName":"绿茶","sourceUrl":"https://d.kstore.space/download/3527/99.txt"},
+{"sourceName":"绿茶","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/main/99.txt"},
 {"sourceName":"龙哥影仓","sourceUrl":"https://gitee.com/sqlonglong/dragon-dragon-dragon/raw/master/DC.txt"},
 {"sourceName":"奇奇线路","sourceUrl":"http://z.qiqiv.cn/123.txt"},
 {"sourceName":"讴歌主仓","sourceUrl":"http://xn--313-mf3g9f.y.nxog.top/nxog/ou1.php?b=欧歌313"},
