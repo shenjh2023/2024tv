@@ -15,64 +15,7 @@
       "filterable": 0
     },
     
-     {
-
-      "key": "Biliych",
-
-      "name": "🅱繁华┃演唱会",
-
-      "type": 3,
-
-      "api": "csp_Bili",
-
-      "style": {
-
-        "type": "rect",
-
-        "ratio": 1.597
-
-      },
-
-      "searchable": 1,
-
-      "quickSearch": 0,
-
-      "changeable": 0,
-
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
-
-    },
-
-
-
-  {
-
-      "key": "MTV",
-
-      "name": "🎧繁华┃MV",
-
-      "type": 3,
-
-      "api": "csp_Bili",
-
-      "style": {
-
-        "type": "rect",
-
-        "ratio": 1.597
-
-      },
-
-      "searchable": 0,
-
-      "quickSearch": 0,
-
-      "changeable": 0,
-
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
-
-    },
-    
+     
         {
       "key": "T4-黑狐",
       "name": "影视-黑狐(T4)",
@@ -102,7 +45,7 @@
 "quickSearch":1,
 "filterable":1,
 "ext":"http://api2.rinhome.com",
- "jar":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"},
+ "jar":"https://xn--313-mf3g9f.y.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32},
 
 
     
