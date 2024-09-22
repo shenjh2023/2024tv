@@ -974,7 +974,7 @@
     {
       "name": "26701",
       "type": 0,
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB4.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB4.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1015,7 +1015,7 @@
     {
       "name": "HDLive",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/iptv/hd-live-all.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/ctsfork/web/main/iptv/hd-live-all.txt",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     },
@@ -1036,7 +1036,7 @@
     {
       "name": "DXLive",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     },
