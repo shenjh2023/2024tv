@@ -1,5 +1,5 @@
 {
-          "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt;md5;050512c9db356ad449af9d37dde8c5f0",
+         "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727428271693/fan.txt;md5;3d161697458ecbcd2651a749db761ba1",
           
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   
@@ -15,21 +15,132 @@
       "filterable": 0
     },
     
-{"key": "hipy_js_采集之王[合]","name": "拾光☪采集王","type": 3,"api": "https://gitcode.net/xmbjm/hello/-/raw/master/lib/drpy2.min.js","jar": "https://gitcode.net/xmbjm/hello/-/raw/master/xmbjm.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "https://gitcode.net/xmbjm/hello/-/raw/master/lib/采集之王.js?type=url&params=https://gitcode.net/xmbjm/hello/-/raw/master/lib/采集静态.json"},
-
-{"key": "南瓜弹幕版","name": "拾光☪NG弹幕","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
-
-{"key": "优质资源","name": "拾光☪1080P","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php","jar": "https://gitcode.net/xmbjm/hello/-/raw/master/xmbjm.jar","searchable": 1,"quickSearch": 1,
-"playurl": "https://vip.zykbf.com/?url=","categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","台湾片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","福利","纪录片","动画片","海外剧","伦理片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","搞笑","音乐","影视","汽车","短剧大全"]},
-
-{"key": "360zy","name": "拾光☪360","type": 1,"api": "https://360zy.com/api.php/provide/vod?","jar": "https://gitcode.net/xmbjm/hello/-/raw/master/xmbjm.jar","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
-
-{
+      {
+      "key": "hipy_js_采集[合]",
+      "name": "拾光☪采集",
+      "type": 3,
+      "api": "https://gitee.com/xmbjmck/hello/raw/master/lib/drpy2.min.js",
+      "jar": "https://gitee.com/xmbjmck/hello/raw/master/xmbjm.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 210,
+      "ext": "https://gitee.com/xmbjmck/hello/raw/master/lib/采集之王.js?type=url&params=https://gitee.com/xmbjmck/hello/raw/master/lib/采集静态.json"
+    },
+    {
+      "key": "hipy_js_采集",
+      "name": "拾光☪采集王",
+      "type": 3,
+      "api": "https://gitee.com/xmbjmck/hello/raw/master/lib/drpy2.min.js",
+      "jar": "https://gitee.com/xmbjmck/hello/raw/master/xmbjm.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 210,
+      "ext": "https://gitlab.com/xmbjm/hello/-/raw/main/lib/采集之王.js?type=url&params=https://gitlab.com/xmbjm/hello/-/raw/main/lib/采集静态.json"
+    },
+    {
+      "key": "南瓜弹幕版",
+      "name": "拾光☪NG弹幕",
+      "type": 3,
+      "api": "csp_Nangua",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "优质资源",
+      "name": "拾光☪1080P",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/ldg_api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playurl": "https://vip.zykbf.com/?url=",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "台湾片",
+        "韩国剧",
+        "欧美剧",
+        "香港剧",
+        "泰国剧",
+        "日本剧",
+        "纪录片",
+        "动画片",
+        "海外剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "搞笑",
+        "音乐",
+        "影视",
+        "汽车",
+        "短剧大全"
+      ]
+    },
+    {
+      "key": "360zy",
+      "name": "拾光☪360",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "女频恋爱",
+        "成长逆袭",
+        "反转爽剧"
+      ]
+    },
+    {
       "key": "蚂蚁",
       "name": "拾光☪蚂蚁",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
-      "jar": "https://gitcode.net/xmbjm/hello/-/raw/master/xmbjm.jar",
       "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
       "categories": [
         "爽文短剧",
@@ -56,19 +167,11 @@
         "奇幻片",
         "国产综艺"
       ]
-    },     
-    
-   {
-      "key": "影视仓",
-      "name": "拾光☪YC秒播",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
     },
     
+    
+
+
  
  
  {"key":"荐片",
@@ -180,7 +283,66 @@
             ],
             "searchable": 1,
             "changeable": 1
-        },
+        },    {
+      "key": "黑木耳资源",
+      "name": "💚木耳┃高清┃无广",
+      "type": 1,
+      "api": "http://json.heimuer.xyz/api.php/provide/vod/",
+      "playurl": "https://hoplayer.com/index.html?url=",
+      "searchable": 0,
+      "quickSearch": 0,
+      "categories": [
+        "剧情片",
+        "动作片",
+        "冒险片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "歌舞片",
+        "战争片",
+        "经典片",
+        "动画电影",
+        "网络电影",
+        "其他片",
+        "国产剧",
+        "港剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "台剧",
+        "欧美剧",
+        "新马剧",
+        "其他剧",
+        "国产综艺",
+        "港台综艺",
+        "韩国综艺",
+        "日本综艺",
+        "欧美综艺",
+        "新马泰综艺",
+        "其他综艺",
+        "古装短剧",
+        "虐恋短剧",
+        "逆袭短剧",
+        "神豪短剧",
+        "重生短剧",
+        "复仇短剧",
+        "穿越短剧",
+        "甜宠短剧",
+        "强者短剧",
+        "欧美动漫",
+        "日本动漫",
+        "韩国动漫",
+        "国产动漫",
+        "港台动漫"
+      ]
+    },
         
 
 {
@@ -925,7 +1087,7 @@
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1
     },
- {
+{
       "name": "TTLive",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
@@ -949,11 +1111,11 @@
     {
       "name": "HDLive",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/ctsfork/web/main/iptv/hd-live-all.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/iptv/hd-live-all.txt",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     },
-    
+
     {
       "name": "FMLive",
       "type": 0,
@@ -964,7 +1126,7 @@
     {
       "name": "DXLive",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     },
