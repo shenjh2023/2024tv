@@ -1,16 +1,59 @@
+🛰港澳,#genre#
+凤凰卫视中文台,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://eastscreen.tv/ooooo.php?id=fhws#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzw#http://114.105.171.70:9901/tsfile/live/1063_1.m3u8#http://www.91dos.cn:4022/rtp/239.61.2.184:9092#http://www.jeremyoto.com:82/rtp/233.50.200.191:5140#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/37/index.m3u8#http://110.185.171.226:96/yximgs.php?id=182#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
+凤凰卫视资讯台,http://223.105.252.60/PLTV/3/224/3221228524/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://eastscreen.tv/ooooo.php?id=fhzx#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzx#http://114.105.171.70:9901/tsfile/live/1064_1.m3u8#http://www.91dos.cn:4022/rtp/239.61.2.183:9086#http://www.jeremyoto.com:82/rtp/233.50.200.192:5140#http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/36/index.m3u8#http://110.185.171.226:96/yximgs.php?id=183#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5#P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6
+凤凰卫视香港台,http://223.105.252.60/PLTV/3/224/3221228530/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhhk#http://114.105.171.70:9901/tsfile/live/1034_1.m3u8#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv#http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/38/index.m3u8#http://110.185.171.226:96/yximgs.php?id=184#P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
+凤凰卫视电影台,http://117.114.153.18:8180/TV00000000000000000072@HHZT#http://home.js001.com:7777/stream/channelid/884059847?profile=pass#http://home.js001.com:7777/stream/channelid/884059847?profile=pass#p2p://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
+TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4#http://cdn9.1689.us.kg/smt3.1.1.php?id=jade_twn#http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv#https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8#http://i2.ekesh.cn:4001/rtp/239.12.22.121:10001#http://58.250.155.2:8180/TV00000000000000000032@HHZT#http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn#http://110.185.171.226:96/yximgs.php?id=2#P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65#P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd#http://113.64.147.143:8811/hls/36/index.m3u8
+TVB明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8#http://i2.ekesh.cn:4001/rtp/239.12.22.122:10001#http://php.jdshipin.com:8880/smt.php?id=pearl_twn#P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe#P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
+TVBJ2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0#P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9#P2p://generationnexxxt.com:19806/669e361b00035adfaa46eb192bdf722e
+TVB财经体育资讯,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
+TVB娱乐新闻,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b0#P2p://generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318#http://8.137.59.151:3000/laoshu.php?key=hello&id=12#http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB生活台,http://8.134.82.80:777/666/666.php?id=7
+TVB华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali#http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB戏曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
+TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe#http://cdn9.1689.us.kg/smt3.1.1.php?id=Xinhe#http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe#https://live.125011.xyz/live/h_jydx/二零二四末端午/135/index.m3u8#P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6#P2p://generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c#http://117.114.153.18:8180/TV00000000000000000073@HHZT
+TVB黄金翡翠台,P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c#P2p://generationnexxxt.com:19806/99b70f5afa114465aa463db0cfed6569
+TVB戏曲台,P2p://generationnexxxt.com:19806/131a3f2bbae740fc982903c576a97920
+TVB千禧经典台,P2p://generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56
+TVB粤语片台,P2p://generationnexxxt.com:19806/3d6644cc478648c2952a8c69cb9fccf5
+TVB亚洲剧台,P2p://generationnexxxt.com:19806/08cc25f383fd45e8b063efb2b2708dbc
+TVB功夫台,P2p://generationnexxxt.com:19806/85398bbb5112406b95c5780d36d3a173
+TVB Plus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
+HOY TV,P2p://generationnexxxt.com:19806/532d47eca340456a814ba21cc5e68a52
+PopC,P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043#P2p://generationnexxxt.com:19806/63cdb28090d949ed824376fab51fdd12
+ViuTVsix,P2p://generationnexxxt.com:19806/b6f920891ad9473ca6f839df7616f580#P2p://generationnexxxt.com:19806/ea75ceca822f454bb858845559d5fc55
+ViuTV,P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae
+HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
+Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
+now财经台,P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca#P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534
+美亚电影台(粤语),P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
+18台,P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6
+HOY资讯台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
+Hands Up,P2p://generationnexxxt.com:19806/7c21e515d5264c9fa21035456fd5024a
+now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
+澳门-MACAU,P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf#P2p://generationnexxxt.com:19806/a2bbc4a4feec4168804624c67fdea801
+澳门莲花,P2p://generationnexxxt.com:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8#P2p://generationnexxxt.com:19806/f7ac1f0fdbe64fcc82cee29e0b590242#http://php.jdshipin.com:8880/amlh.php
+澳亚卫视,http://117.114.153.18:8180/TV00000000000000000117@HHZT#http://119.125.134.177:9901/tsfile/live/1073_1.m3u8#http://119.34.189.38:33333/udp/224.1.100.12:11111#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://107.151.203.111:2209/135/hk.php?id=aoya
+澳视澳门,http://119.125.134.177:9901/tsfile/live/1033_1.m3u8#http://119.125.131.239:9901/tsfile/live/1037_1.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=ff1e7f2a8eaa2f867764a88f-172828094928173&wsIPSercert=fbb888f3f7e5ef0f616a5f07a3b5ba5a
+香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+香港国际财经台,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54#P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
+港台电视31台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31#P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+港台电视32台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32#P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+港台电视33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+港台电视36台,P2p://generationnexxxt.com:19806/669b838b000a6b509fbd6a5e20670d8d
+星空卫视,http://117.114.153.18:8180/TV00000000000000000071@HHZT#http://114.105.171.70:9901/tsfile/live/0117_1.m3u8#http://13457610200.8866.org:2018/live/星空卫视/index.m3u8#http://119.129.172.197:8081/hls/18/index.m3u8#http://wouu.net:9977/udp/239.93.0.156:2193#P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
+ChannelV,http://114.105.171.70:9901/tsfile/live/0141_2.m3u8##http://117.114.153.18:8180/TV00000000000000000067@HHZT#http://wouu.net:9977/udp/239.93.0.157:2194#P2p://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
+
 🛰央卫每天,#genre#
 
-凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰HK,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8
-
-
-凤凰中文,mitv://135.148.104.228:19806/d897c583969747fc8a362653e01faf4f
 凤凰中文,P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
 
 凤凰资讯,P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
-凤凰资讯,mitv://135.148.104.228:19806/d207c4a98e784d1299a9aa63268f21c6
-凤凰资讯,mitv://135.148.104.228:19806/3f7b6ed02526445e89ce536992d04ef5
 
 
 凤凰香港,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
@@ -26,8 +69,8 @@
 凤凰资讯,http://125.126.70.160:9999/udp/233.50.200.192:5140
 
 
-凤凰中文,http://60.189.61.82:9999/udp/233.50.200.191:5140
-凤凰资讯,http://60.189.61.82:9999/udp/233.50.200.192:5140
+凤凰中文,http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140
+凤凰资讯,http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140
 
 
 凤凰中文,http://115.208.88.27:4000/udp/233.50.200.191:5140
@@ -980,104 +1023,104 @@ BesTV,http://125.126.70.160:9999/udp/233.50.201.201:5140
 
 
 
-CCTV-1测,http://60.189.61.82:9999/udp/233.50.201.181:5140
-宁波TV4,http://60.189.61.82:9999/udp/233.50.201.180:5140
-宁波TV3,http://60.189.61.82:9999/udp/233.50.201.179:5140
-宁波TV1,http://60.189.61.82:9999/udp/233.50.201.168:5140
-浙江经济生活,http://60.189.61.82:9999/udp/233.50.201.133:5140
-浙江教育,http://60.189.61.82:9999/udp/233.50.201.134:5140
-浙江民生,http://60.189.61.82:9999/udp/233.50.201.136:5140
-浙江news,http://60.189.61.82:9999/udp/233.50.201.137:5140
-浙江少儿,http://60.189.61.82:9999/udp/233.50.201.138:5140
-CCTV-1,http://60.189.61.82:9999/udp/233.50.201.118:5140
-CCTV-2,http://60.189.61.82:9999/udp/233.50.201.119:5140
-CCTV-3,http://60.189.61.82:9999/udp/233.50.201.196:5140
-CCTV-4,http://60.189.61.82:9999/udp/233.50.201.4:5140
-CCTV-5,http://60.189.61.82:9999/udp/233.50.201.197:5140
-CCTV-5+,http://60.189.61.82:9999/udp/233.50.201.220:5140
-CCTV-6,http://60.189.61.82:9999/udp/233.50.201.198:5140
-CCTV-7,http://60.189.61.82:9999/udp/233.50.201.120:5140
-CCTV-8,http://60.189.61.82:9999/udp/233.50.201.199:5140
-CCTV-9,http://60.189.61.82:9999/udp/233.50.201.121:5140
-CCTV-10,http://60.189.61.82:9999/udp/233.50.201.122:5140
-CCTV-11,http://60.189.61.82:9999/udp/233.50.201.11:5140
-CCTV-12,http://60.189.61.82:9999/udp/233.50.201.123:5140
-CCTV-13,http://60.189.61.82:9999/udp/233.50.201.246:5140
-CCTV-14,http://60.189.61.82:9999/udp/233.50.201.124:5140
-CCTV-15,http://60.189.61.82:9999/udp/233.50.201.15:5140
-CCTV-16 4k,http://60.189.61.82:9999/udp/233.50.201.63:5140
-CCTV-16,http://60.189.61.82:9999/udp/233.50.201.192:5140
-CCTV-17,http://60.189.61.82:9999/udp/233.50.201.35:5140
-浙江卫视,http://60.189.61.82:9999/udp/233.50.201.100:5140
-深圳卫视,http://60.189.61.82:9999/udp/233.50.201.101:5140
-广东卫视,http://60.189.61.82:9999/udp/233.50.201.102:5140
-湖南卫视,http://60.189.61.82:9999/udp/233.50.201.103:5140
-天津卫视,http://60.189.61.82:9999/udp/233.50.201.104:5140
-山东卫视,http://60.189.61.82:9999/udp/233.50.201.105:5140
-江苏卫视,http://60.189.61.82:9999/udp/233.50.201.106:5140
-北京卫视,http://60.189.61.82:9999/udp/233.50.201.107:5140
-四川卫视,http://60.189.61.82:9999/udp/233.50.201.139:5140
-河北卫视,http://60.189.61.82:9999/udp/233.50.201.140:5140
-辽宁卫视,http://60.189.61.82:9999/udp/233.50.201.141:5140
-贵州卫视,http://60.189.61.82:9999/udp/233.50.201.142:5140
-重庆卫视,http://60.189.61.82:9999/udp/233.50.201.143:5140
-河南卫视,http://60.189.61.82:9999/udp/233.50.201.144:5140
-江西卫视,http://60.189.61.82:9999/udp/233.50.201.145:5140
-东南卫视,http://60.189.61.82:9999/udp/233.50.201.146:5140
-安徽卫视,http://60.189.61.82:9999/udp/233.50.201.113:5140
-湖北卫视,http://60.189.61.82:9999/udp/233.50.201.114:5140
-黑龙江卫视,http://60.189.61.82:9999/udp/233.50.201.115:5140
-东方卫视,http://60.189.61.82:9999/udp/233.50.201.125:5140
-内蒙古卫视,http://60.189.61.82:9999/udp/233.50.201.148:5140
-甘肃卫视,http://60.189.61.82:9999/udp/233.50.201.149:5140
-海南卫视,http://60.189.61.82:9999/udp/233.50.201.55:5140
-青海卫视,http://60.189.61.82:9999/udp/233.50.201.65:5140
-西藏卫视,http://60.189.61.82:9999/udp/233.50.201.70:5140
-陕西卫视http://60.189.61.82:9999/udp/233.50.201.59:5140
-兵团卫视,http://60.189.61.82:9999/udp/233.50.201.72:5140
-山西卫视,http://60.189.61.82:9999/udp/233.50.201.51:5140
-宁夏卫视,http://60.189.61.82:9999/udp/233.50.201.57:5140
-广西卫视,http://60.189.61.82:9999/udp/233.50.201.49:5140
-云南卫视,http://60.189.61.82:9999/udp/233.50.201.46:5140
-吉林卫视,http://60.189.61.82:9999/udp/233.50.201.48:5140
-中国教育一套,http://60.189.61.82:9999/udp/233.50.201.75:5140
-中国教育四套,http://60.189.61.82:9999/udp/233.50.201.172:5140
-CGTN,http://60.189.61.82:9999/udp/233.50.201.126:5140
-钱江,http://60.189.61.82:9999/udp/233.50.201.132:5140
-杭州1综合,http://60.189.61.82:9999/udp/233.50.201.173:5140
-杭州2明珠,http://60.189.61.82:9999/udp/233.50.201.174:5140
-杭州3生活,http://60.189.61.82:9999/udp/233.50.201.175:5140
-杭州4影视,http://60.189.61.82:9999/udp/233.50.201.176:5140
-杭州5青少,http://60.189.61.82:9999/udp/233.50.201.177:5140
-杭州导视,http://60.189.61.82:9999/udp/233.50.201.182:5140
-极速汽车,http://60.189.61.82:9999/udp/233.50.201.208:5140
-温州新闻http://60.189.61.82:9999/udp/233.50.201.87:5140
-衢州新闻,http://60.189.61.82:9999/udp/233.50.201.155:5140
-绍兴新闻,http://60.189.61.82:9999/udp/233.50.201.156:5140
-台州-1,http://60.189.61.82:9999/udp/233.50.201.157:5140
-湖州公共,http://60.189.61.82:9999/udp/233.50.201.158:5140
-金华新闻,http://60.189.61.82:9999/udp/233.50.201.161:5140
-丽水新闻,http://60.189.61.82:9999/udp/233.50.201.162:5140
-嘉兴新闻,http://60.189.61.82:9999/udp/233.50.201.163:5140
-桐乡新闻,http://60.189.61.82:9999/udp/233.50.201.169:5140
-杭州导视,http://60.189.61.82:9999/udp/233.50.201.182:5140
-之江记录,http://60.189.61.82:9999/udp/233.50.202.25:5140
-优优宝贝,http://60.189.61.82:9999/udp/233.50.202.24:5140
-YMG新闻,http://60.189.61.82:9999/udp/233.50.201.159:5140
-法制天地,http://60.189.61.82:9999/udp/233.50.201.191:5140
-金鹰卡通,http://60.189.61.82:9999/udp/233.50.201.73:5140
-哈哈炫动,http://60.189.61.82:9999/udp/233.50.201.74:5140
-动漫秀场,http://60.189.61.82:9999/udp/233.50.201.184:5140
-乐游,http://60.189.61.82:9999/udp/233.50.201.185:5140
-金色学堂,http://60.189.61.82:9999/udp/233.50.201.186:5140
-生活时尚,http://60.189.61.82:9999/udp/233.50.201.187:5140
-BesTV,http://60.189.61.82:9999/udp/233.50.201.201:5140
-中国蓝直播,http://60.189.61.82:9999/udp/233.50.201.193:5140
-新视觉HD,http://60.189.61.82:9999/udp/233.50.201.244:5140
-欢笑剧场,http://60.189.61.82:9999/udp/233.50.201.189:5140
-都市剧场,http://60.189.61.82:9999/udp/233.50.201.190:5140
-未知,http://60.189.61.82:9999/udp/233.50.201.224:5140
-中国蓝直播,http://60.189.61.82:9999/udp/233.50.201.108:5140
+CCTV-1测,http://ycsj.aguihome.com:4022/udp/233.50.201.181:5140
+宁波TV4,http://ycsj.aguihome.com:4022/udp/233.50.201.180:5140
+宁波TV3,http://ycsj.aguihome.com:4022/udp/233.50.201.179:5140
+宁波TV1,http://ycsj.aguihome.com:4022/udp/233.50.201.168:5140
+浙江经济生活,http://ycsj.aguihome.com:4022/udp/233.50.201.133:5140
+浙江教育,http://ycsj.aguihome.com:4022/udp/233.50.201.134:5140
+浙江民生,http://ycsj.aguihome.com:4022/udp/233.50.201.136:5140
+浙江news,http://ycsj.aguihome.com:4022/udp/233.50.201.137:5140
+浙江少儿,http://ycsj.aguihome.com:4022/udp/233.50.201.138:5140
+CCTV-1,http://ycsj.aguihome.com:4022/udp/233.50.201.118:5140
+CCTV-2,http://ycsj.aguihome.com:4022/udp/233.50.201.119:5140
+CCTV-3,http://ycsj.aguihome.com:4022/udp/233.50.201.196:5140
+CCTV-4,http://ycsj.aguihome.com:4022/udp/233.50.201.4:5140
+CCTV-5,http://ycsj.aguihome.com:4022/udp/233.50.201.197:5140
+CCTV-5+,http://ycsj.aguihome.com:4022/udp/233.50.201.220:5140
+CCTV-6,http://ycsj.aguihome.com:4022/udp/233.50.201.198:5140
+CCTV-7,http://ycsj.aguihome.com:4022/udp/233.50.201.120:5140
+CCTV-8,http://ycsj.aguihome.com:4022/udp/233.50.201.199:5140
+CCTV-9,http://ycsj.aguihome.com:4022/udp/233.50.201.121:5140
+CCTV-10,http://ycsj.aguihome.com:4022/udp/233.50.201.122:5140
+CCTV-11,http://ycsj.aguihome.com:4022/udp/233.50.201.11:5140
+CCTV-12,http://ycsj.aguihome.com:4022/udp/233.50.201.123:5140
+CCTV-13,http://ycsj.aguihome.com:4022/udp/233.50.201.246:5140
+CCTV-14,http://ycsj.aguihome.com:4022/udp/233.50.201.124:5140
+CCTV-15,http://ycsj.aguihome.com:4022/udp/233.50.201.15:5140
+CCTV-16 4k,http://ycsj.aguihome.com:4022/udp/233.50.201.63:5140
+CCTV-16,http://ycsj.aguihome.com:4022/udp/233.50.201.192:5140
+CCTV-17,http://ycsj.aguihome.com:4022/udp/233.50.201.35:5140
+浙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.100:5140
+深圳卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.101:5140
+广东卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.102:5140
+湖南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.103:5140
+天津卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.104:5140
+山东卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.105:5140
+江苏卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.106:5140
+北京卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.107:5140
+四川卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.139:5140
+河北卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.140:5140
+辽宁卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.141:5140
+贵州卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.142:5140
+重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.143:5140
+河南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.144:5140
+江西卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.145:5140
+东南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.146:5140
+安徽卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.113:5140
+湖北卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.114:5140
+黑龙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.115:5140
+东方卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.125:5140
+内蒙古卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.148:5140
+甘肃卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.149:5140
+海南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.55:5140
+青海卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.65:5140
+西藏卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.70:5140
+陕西卫视http://ycsj.aguihome.com:4022/udp/233.50.201.59:5140
+兵团卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.72:5140
+山西卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.51:5140
+宁夏卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.57:5140
+广西卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.49:5140
+云南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.46:5140
+吉林卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.48:5140
+中国教育一套,http://ycsj.aguihome.com:4022/udp/233.50.201.75:5140
+中国教育四套,http://ycsj.aguihome.com:4022/udp/233.50.201.172:5140
+CGTN,http://ycsj.aguihome.com:4022/udp/233.50.201.126:5140
+钱江,http://ycsj.aguihome.com:4022/udp/233.50.201.132:5140
+杭州1综合,http://ycsj.aguihome.com:4022/udp/233.50.201.173:5140
+杭州2明珠,http://ycsj.aguihome.com:4022/udp/233.50.201.174:5140
+杭州3生活,http://ycsj.aguihome.com:4022/udp/233.50.201.175:5140
+杭州4影视,http://ycsj.aguihome.com:4022/udp/233.50.201.176:5140
+杭州5青少,http://ycsj.aguihome.com:4022/udp/233.50.201.177:5140
+杭州导视,http://ycsj.aguihome.com:4022/udp/233.50.201.182:5140
+极速汽车,http://ycsj.aguihome.com:4022/udp/233.50.201.208:5140
+温州新闻http://ycsj.aguihome.com:4022/udp/233.50.201.87:5140
+衢州新闻,http://ycsj.aguihome.com:4022/udp/233.50.201.155:5140
+绍兴新闻,http://ycsj.aguihome.com:4022/udp/233.50.201.156:5140
+台州-1,http://ycsj.aguihome.com:4022/udp/233.50.201.157:5140
+湖州公共,http://ycsj.aguihome.com:4022/udp/233.50.201.158:5140
+金华新闻,http://ycsj.aguihome.com:4022/udp/233.50.201.161:5140
+丽水新闻,http://ycsj.aguihome.com:4022/udp/233.50.201.162:5140
+嘉兴新闻,http://ycsj.aguihome.com:4022/udp/233.50.201.163:5140
+桐乡新闻,http://ycsj.aguihome.com:4022/udp/233.50.201.169:5140
+杭州导视,http://ycsj.aguihome.com:4022/udp/233.50.201.182:5140
+之江记录,http://ycsj.aguihome.com:4022/udp/233.50.202.25:5140
+优优宝贝,http://ycsj.aguihome.com:4022/udp/233.50.202.24:5140
+YMG新闻,http://ycsj.aguihome.com:4022/udp/233.50.201.159:5140
+法制天地,http://ycsj.aguihome.com:4022/udp/233.50.201.191:5140
+金鹰卡通,http://ycsj.aguihome.com:4022/udp/233.50.201.73:5140
+哈哈炫动,http://ycsj.aguihome.com:4022/udp/233.50.201.74:5140
+动漫秀场,http://ycsj.aguihome.com:4022/udp/233.50.201.184:5140
+乐游,http://ycsj.aguihome.com:4022/udp/233.50.201.185:5140
+金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.201.186:5140
+生活时尚,http://ycsj.aguihome.com:4022/udp/233.50.201.187:5140
+BesTV,http://ycsj.aguihome.com:4022/udp/233.50.201.201:5140
+中国蓝直播,http://ycsj.aguihome.com:4022/udp/233.50.201.193:5140
+新视觉HD,http://ycsj.aguihome.com:4022/udp/233.50.201.244:5140
+欢笑剧场,http://ycsj.aguihome.com:4022/udp/233.50.201.189:5140
+都市剧场,http://ycsj.aguihome.com:4022/udp/233.50.201.190:5140
+未知,http://ycsj.aguihome.com:4022/udp/233.50.201.224:5140
+中国蓝直播,http://ycsj.aguihome.com:4022/udp/233.50.201.108:5140
 
 
 CCTV-1测,http://sss918.synology.me:8000/udp/233.50.201.181:5140
@@ -1318,24 +1361,6 @@ BesTV,http://115.208.88.27:4000/udp/233.50.201.201:5140
 
 
 📡湾湾,#genre#
-翡翠台,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
-TVB18台,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
-寰宇新闻,http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv 
-东森新闻,http://ali.hlspull.yximgs.com/live/tboxpromhqttuqqcvbyquoqdqqeqywefqqfbxfbxxvbqqqlqqhqsxw.flv 
-年代新闻,http://ali.hlspull.yximgs.com/live/tboxprooqevdyscvbudloqlnsfqewtqudvbbqxfqnqlvcqdqdnqxw.flv 
-镜新闻,http://ali.hlspull.yximgs.com/live/tboxproexcvqqocvuoqxucfdexqpqqyxchvlqxqfeqhcelethqqdxw.flv 
-壹新闻,http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv 
-非凡新闻,http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv 
-三立新闻,http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv 
-台视新闻,http://ali.hlspull.yximgs.com/live/tboxproncqqtqqudtqlqcvbcvntqqqsfwetqfvcbcxvdqbqfflvcqtsxw.flv 
-中视新闻,http://ali.hlspull.yximgs.com/live/tboxpropnvqydstudqbsqcvbfqqqsqfqsqwetymqldhduqocnqsxw.flv 
-民视新闻,http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv 
-天映频道,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv 
-天映经典,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv 
-Thrill,http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqfcqtchplqy.flv 
-
-
-
 
 探索,http://61.221.215.25:8800/hls/1/index.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -1419,19 +1444,6 @@ CINEMA,http://37.27.111.214:8080/live/30/hls.m3u8
 WALLstreet,http://37.27.111.214:8080/live/34/hls.m3u8
 
 
-三立新闻,http://211.72.65.236:8543/.m3u8
-TVBS HD,http://211.72.65.236:8575/.m3u8
-中天新聞HD,http://211.72.65.236:8541/.m3u8
-东森新闻,http://211.72.65.236:8540/.m3u8
-民视,http://211.72.65.236:8504/.m3u8
-年代新聞,http://etv.xhgvip.top/twjd.php?id=live1192
-中天新聞HD,http://etv.xhgvip.top/twjd.php?id=live1015
-民視新聞,http://etv.xhgvip.top/twjd.php?id=live1204
-三立新聞HD,http://etv.xhgvip.top/twjd.php?id=live1016
-非凡新聞,http://etv.xhgvip.top/twjd.php?id=live1013
-寰宇新聞,http://etv.xhgvip.top/twjd.php?id=live1222
-
-
 
 中视新闻台,P2p://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa
 寰宇新闻,P2p://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a
@@ -1470,6 +1482,7 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 民视第一台(B),P2p://generationnexxxt.com:19806/3a4000096c084c79af219586be8ed979
 台视新闻台,P2p://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7
 台视财经台,P2p://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e
+
 
 
 🏆体育,#genre#
