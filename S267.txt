@@ -91,36 +91,36 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
    {
-      "name": "26701",
+      "name": "S1",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB4.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/%E6%9C%80%E5%85%A8eiXY.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
   {
-      "name": "IPV4",
+      "name": "S2",
       "type": 0,
-      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u",
+      "url": "https://git.acwing.com/weidi137137/id/-/raw/main/CHANGELOG",
       "playerType": 1
     },
     {
-      "name": "IPV6①",
+      "name": "S3",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u",
       "playerType": 1
     },
     {
-      "name": "IPV6②",
+      "name": "S4",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/Adult.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "平台直播",
+      "name": "S5",
       "type": 0,
-      "url": "https://tv.iill.top/m3u/Live",
+      "url": "https://ghp.ci/raw.githubusercontent.com/vicjl/myIPTV/main/Adult.m3u",
       "ua": "okhttp/3.15",
       "playerType": 2
     }
