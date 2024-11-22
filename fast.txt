@@ -1,5 +1,5 @@
 {
-          "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731126610038/fan.txt;md5;118bca13418f13c45c5c237ac93c2f07",
+          "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732117452286/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8",
           
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   
@@ -1083,7 +1083,7 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
    {
-      "name": "26701",
+      "name": "267zb4",
       "type": 0,
       "url": "https://ghp.ci/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB4.txt",
       "playerType": 1,
@@ -1091,21 +1091,28 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
   {
-      "name": "IPV4",
+      "name": "267ipv365",
       "type": 0,
-      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u",
+      "url": "https://live.iptv365.org/live.txt",
       "playerType": 1
     },
     {
-      "name": "IPV6①",
+      "name": "267fmm",
+      "type": 0,
+      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "267v6",
       "type": 0,
       "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
       "playerType": 1
     },
     {
-      "name": "IPV6②",
+      "name": "267elite",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/elite5063/Live/refs/heads/main/all-fmm.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
