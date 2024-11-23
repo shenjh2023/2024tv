@@ -107,7 +107,7 @@
     {
       "name": "S3",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/178.txt",
       "playerType": 1
     },
     {

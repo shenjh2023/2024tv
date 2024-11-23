@@ -15,6 +15,7 @@
       "filterable": 0
     },
     
+      
 
   
  
@@ -1097,6 +1098,13 @@
       "playerType": 1
     },
     {
+      "name": "267yang1989",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
       "name": "267fmm",
       "type": 0,
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
@@ -1117,9 +1125,9 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "平台直播",
+      "name": "267电视呗",
       "type": 0,
-      "url": "https://tv.iill.top/m3u/Live",
+      "url": "http://tv.850930.xyz/kdsb.txt",
       "ua": "okhttp/3.15",
       "playerType": 2
     }
