@@ -1125,6 +1125,13 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
+      "name": "267拾光",
+      "type": 0,
+      "url": "http://xmbjm.fh4u.org/tv.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
       "name": "267电视呗",
       "type": 0,
       "url": "http://tv.850930.xyz/kdsb.txt",
