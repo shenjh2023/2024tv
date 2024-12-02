@@ -29,169 +29,98 @@
 
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-CCTV1,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-1-CQ
 
-CCTV2,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-2-CQ
+CCTV-1综合,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=4966d107386a69ff3a1dcfcc6efcb7fd
 
-CCTV3,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-3-CQ
+CCTV-2财经,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=89f3742f1a28f4dd07385d407f9ea7e7
 
-CCTV4,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-4-CQ
+CCTV-3综艺,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=8d5cab67b5ba065402f918a4660bcd11
 
-CCTV5,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-5-CQ
+CCTV-4中文国际,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=4a51291087beea62deb50790c354d8af
 
-CCTV5+,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-5PLUS-CQ
+CCTV-5体育,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=49223a58840774f8148de46aecd9c537
 
-CCTV6,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-6-CQ
+CCTV-5+体育赛事,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=684cf8d92d888b7feb72dc16f2f20cd3
 
-CCTV7,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-7-CQ
+CCTV-6电影,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=269965e736ad73c3904578a7c0119c04
 
-CCTV8,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-8-CQ
+CCTV-7国防军事,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=6fe69e7d4a22d550b764f59494b06491
 
-CCTV9,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-9-CQ
+CCTV-8电视剧,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=00f53e983bb96c87e9d57d3638d515a3
 
-CCTV10,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-10-CQ
+CCTV-9纪录,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=c1f40a62e76f116ae023457d1614856c
 
-CCTV11,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-11-CQ
+CCTV-10科教,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=0dd8d78f366a6208e246fb3647cb747e
 
-CCTV12,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-12-CQ
+CCTV-11戏曲,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=f94674b8c8dcac378e0823f4ad083b65
 
-CCTV13,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-13-CQ
+CCTV-12社会与法,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=5bab169939d069cb169f1597e6857fbc
 
-CCTV14,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-14-CQ
+CCTV-13新闻,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=c0bcc914b198cb8f93bcfe678212007e
 
-CCTV15,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-15-CQ
+CCTV-14少儿,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=8ba11bd2db0e978ffd1d667c58bed980
 
-CCTV16,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-16-CQ
+CCTV-15音乐,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=5ea87d77cdcdccc5128053b742b827e6
 
-CCTV17,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-17-CQ
+CCTV-16奥林匹克,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=7ec0fed068d7f5e0bcf3d23fe5679e39
 
-CGTN英语,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CCTV-NEWS
+CCTV-17农业农村,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=e5b5278362fb97c80ff3f1f6af6cca32
 
-CGTN俄语,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CGTN-PYCCNN
+北京卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=7fd9461d0017d976f1694ae0c921a1e1
 
-CGTN西语,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CGTN-ESPANOL
+东方卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=daba1eac3936843898fd5239efb98815
 
-CGTN法语,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CGTN-FRANCAIS
+山东卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=8255ded51a65453e44bc4ecf9eff4265
 
-CGTN阿语,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CGTN_A
+湖南卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=7ac52284b97431ad67d2c6cf52a5df2f
 
-CETV1,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CETV-1-HQ
+广东卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=72d93d2e0d0fdfef3112be1aa674393f
 
-CETV2,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CETV-2
+四川卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=3a585fb3b329003fcb7e304f398782bb
 
-CETV3,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CETV-3
+湖北卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=217d44b03b089489fe51c8778ea85e22
 
-CETV4,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CETV-4
+安徽卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=c69e11e415323726ebf597f4e171b14a
 
-广东卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_GUANGDONG-CQ
+河南卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=c43853a29fc627d52264998521fd1ae5
 
-江苏卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_JIANGSU-CQ
+东南卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=740f9cb477998a4f492412ecc43f3d38
 
-浙江卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_ZHEJIANG-CQ
+江苏卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=afbbdc12835a82fd3930502f4a84868b
 
-湖南卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_HUNAN-CQ
+天津卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=625c2e5c6b0e60a0c8b09f216e714a7d
 
-东方卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_DONGFANG-CQ
+河北卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=ac7372e75477975eb2518a4a65a544d0
 
-北京卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_BEIJING-CQ
+浙江卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=ee69dc2d9cd201d75b6b9de8dc6627d0
 
-深圳卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_SHENZHEN-CQ
+重庆卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=f0440f8fb938ced707df00852053672d
 
-辽宁卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_LIAONING-CQ
+辽宁卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=a215e1cbf540314f9c254b21b2f69851
 
-安徽卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_ANHUI-CQ
+云南卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=75d246d1f390ffcd5168bbab9e091d95
 
-山东卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_SHANDONG-CQ
+广西卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=e9685ab1e1777a2094479f88098f3965
 
-黑龙江卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_HEILONGJIANG-CQ
+黑龙江卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=e864dfe3deebee2243804022a79e99a6
 
-天津卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_TIANJIN-CQ
+深圳卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=f719bd0a0868da93e9f257b5f1af50f2
 
-广西卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_GUANGXI-HQ
+吉林卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=02f917a03155d3d343f92d6d0fd8cee8
 
-东南卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_DONGNAN-CQ
+海南卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=98c5131e5619de03387cc197809f543b
 
-甘肃卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_GANSU-HQ
+江西卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=f7285f08cc614afe7a678f7b70b5b101
 
-贵州卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_GUIZHOU-CQ
+甘肃卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=0b2ad1c1dcf6aec18a1f0097196282d9
 
-海南卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_HAINAN-HQ
+贵州卫视,http://5566.340171345.cn/usr/公众号：小凯影视交流.php?token=2dde43fa5e5e9723de1ff029c37bcdf0
 
-河北卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_HEBEI-CQ
 
-河南卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_HENAN-CQ
 
-湖北卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_HUBEI-CQ
 
-吉林卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_JILIN-CQ
 
-江西卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_JIANGXI-CQ
 
-康巴卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_KANGBA
-
-安多卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_ANDUO
-
-兵团卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_BINGTUAN
-
-内蒙古卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_NEIMENGGU
-
-宁夏卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_NINGXIA
-
-农林卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_NONGLIN
-
-三沙卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_SANSHA-HQ
-
-山西卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_SHANXI-HQ
-
-四川卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_SICHUAN-CQ
-
-西藏卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_XIZANG
-
-新疆卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_XINJIANG
-
-延边卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_YANBIAN
-
-云南卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_YUNNAN-CQ
-
-重庆卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_CHONGQING-CQ
-
-青海卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_QINGHAI
-
-厦门卫视,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_XIAMEN
-
-上海纪实,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_SHANGHAIJS-HD
-
-北京纪实,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_BEIJINGJS-CQ
-
-家庭理财,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_JIATINGLC
-
-金鹰卡通,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_JINYING
-
-卡酷少儿,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_KAKU
-
-女性时尚,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_NVXINGSS-CQ
-
-炫动卡通,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_XUANDONG
-
-优漫卡通,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_YOUMAN
-
-中华美食,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_ZHONGHUAMS
-
-嘉佳卡通,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_JIAJIA
-
-发现之旅,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_FAXIANZL
-
-老故事,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_LAOGUSHI
-
-徐闻综合,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=zanjiang01
-
-梅州综合,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=meizhou1
-
-客家生活,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=meizhou2
-
-广东国际大厦,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_GUANGDONGGJ
-
-广东电视中心,http://d1.x-y-z.sbs:80/小凯影视交流/DL.php?id=G_GUANGDONGDS
 CCTV1,http://156.238.251.141:82/关注公众号：小凯影视交流/JSYD.php?id=G_CCTV-1-HD-265-5M
 
 CCTV1,http://156.238.251.141:82/关注公众号：小凯影视交流/JSYD.php?id=G_CCTV-1-AVS-4K264
