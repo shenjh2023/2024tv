@@ -1125,12 +1125,55 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
+      "name": "267港台",
+      "type": 0,
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/l821706/IPTV/refs/heads/main/IPTV.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
       "name": "267拾光",
       "type": 0,
       "url": "http://xmbjm.fh4u.org/tv.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
+    {
+      "name": "267开心",
+      "type": 0,
+      "url": "http://rihou.cc:55/lib/kx2024.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "267胡云",
+      "type": 0,
+      "url": "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "267小超",
+      "type": 0,
+      "url": "http://live.fsdks.com/tv.php",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "267小强",
+      "type": 0,
+      "url": "https://fel.forxhr.top:2022/down.php/1fc392506c6f43efbf74286cbb7bffd1.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "267晨瑞",
+      "type": 0,
+      "url": "https://bitbucket.org/chenruiheike/chenrui/raw/2e6b71c113fcd6712c21a84f5dad2647e21565e9/IPTV-fongmi",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    
     {
       "name": "267电视呗",
       "type": 0,
