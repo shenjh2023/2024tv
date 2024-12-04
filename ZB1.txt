@@ -1,8 +1,5 @@
 🛰港澳,#genre#
 
-凤凰卫视中文台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰卫视资讯台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰卫视香港台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 
 凤凰卫视中文台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视资讯台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -12,7 +9,6 @@ TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 凤凰卫视中文台,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://eastscreen.tv/ooooo.php?id=fhws#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzw#http://114.105.171.70:9901/tsfile/live/1063_1.m3u8#http://www.91dos.cn:4022/rtp/239.61.2.184:9092#http://www.jeremyoto.com:82/rtp/233.50.200.191:5140#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/37/index.m3u8#http://110.185.171.226:96/yximgs.php?id=182#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
 凤凰卫视资讯台,http://223.105.252.60/PLTV/3/224/3221228524/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://eastscreen.tv/ooooo.php?id=fhzx#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzx#http://114.105.171.70:9901/tsfile/live/1064_1.m3u8#http://www.91dos.cn:4022/rtp/239.61.2.183:9086#http://www.jeremyoto.com:82/rtp/233.50.200.192:5140#http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/36/index.m3u8#http://110.185.171.226:96/yximgs.php?id=183#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5#P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6
 凤凰卫视香港台,http://223.105.252.60/PLTV/3/224/3221228530/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhhk#http://114.105.171.70:9901/tsfile/live/1034_1.m3u8#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv#http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/38/index.m3u8#http://110.185.171.226:96/yximgs.php?id=184#P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
-凤凰卫视电影台,http://117.114.153.18:8180/TV00000000000000000072@HHZT#http://home.js001.com:7777/stream/channelid/884059847?profile=pass#http://home.js001.com:7777/stream/channelid/884059847?profile=pass#p2p://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4#http://cdn9.1689.us.kg/smt3.1.1.php?id=jade_twn#http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv#https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8#http://i2.ekesh.cn:4001/rtp/239.12.22.121:10001#http://58.250.155.2:8180/TV00000000000000000032@HHZT#http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn#http://110.185.171.226:96/yximgs.php?id=2#P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65#P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd#http://113.64.147.143:8811/hls/36/index.m3u8
 TVB明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8#http://i2.ekesh.cn:4001/rtp/239.12.22.122:10001#http://php.jdshipin.com:8880/smt.php?id=pearl_twn#P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe#P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
 TVBJ2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
@@ -44,10 +40,7 @@ Hands Up,P2p://generationnexxxt.com:19806/7c21e515d5264c9fa21035456fd5024a
 now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
 澳门-MACAU,P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf#P2p://generationnexxxt.com:19806/a2bbc4a4feec4168804624c67fdea801
 澳门莲花,P2p://generationnexxxt.com:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8#P2p://generationnexxxt.com:19806/f7ac1f0fdbe64fcc82cee29e0b590242#http://php.jdshipin.com:8880/amlh.php
-澳亚卫视,http://117.114.153.18:8180/TV00000000000000000117@HHZT#http://119.125.134.177:9901/tsfile/live/1073_1.m3u8#http://119.34.189.38:33333/udp/224.1.100.12:11111#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://107.151.203.111:2209/135/hk.php?id=aoya
-澳视澳门,http://119.125.134.177:9901/tsfile/live/1033_1.m3u8#http://119.125.131.239:9901/tsfile/live/1037_1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=ff1e7f2a8eaa2f867764a88f-172828094928173&wsIPSercert=fbb888f3f7e5ef0f616a5f07a3b5ba5a
-香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 香港国际财经台,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54#P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 港台电视31台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31#P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -56,8 +49,8 @@ now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P
 港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 港台电视36台,P2p://generationnexxxt.com:19806/669b838b000a6b509fbd6a5e20670d8d
-星空卫视,http://117.114.153.18:8180/TV00000000000000000071@HHZT#http://114.105.171.70:9901/tsfile/live/0117_1.m3u8#http://13457610200.8866.org:2018/live/星空卫视/index.m3u8#http://119.129.172.197:8081/hls/18/index.m3u8#http://wouu.net:9977/udp/239.93.0.156:2193#P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
-ChannelV,http://114.105.171.70:9901/tsfile/live/0141_2.m3u8##http://117.114.153.18:8180/TV00000000000000000067@HHZT#http://wouu.net:9977/udp/239.93.0.157:2194#P2p://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
+
+
 
 
 🛰央卫每天,#genre#
