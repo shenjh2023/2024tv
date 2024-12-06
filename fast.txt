@@ -1084,7 +1084,7 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
    {
-      "name": "267zb4",
+      "name": "zb4",
       "type": 0,
       "url": "https://ghp.ci/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB4.txt",
       "playerType": 1,
@@ -1092,82 +1092,94 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
   {
-      "name": "267ipv365",
+      "name": "ipv365",
       "type": 0,
       "url": "https://live.iptv365.org/live.txt",
       "playerType": 1
     },
     {
-      "name": "267yang1989",
+      "name": "yang1989",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Gather",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "267fmm",
+      "name": "ipv61",
       "type": 0,
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "267v6",
+      "name": "ipv62",
       "type": 0,
       "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
       "playerType": 1
     },
     {
-      "name": "267elite",
+      "name": "ipv63",
+      "type": 0,
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt",
+      "playerType": 1
+    },
+    {
+      "name": "ipv64",
+      "type": 0,
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/Tao-Boy/IPTV/refs/heads/main/CNTV.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "ipv65",
       "type": 0,
       "url": "https://ghp.ci/https://raw.githubusercontent.com/elite5063/Live/refs/heads/main/all-fmm.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "267港台",
+      "name": "港台",
       "type": 0,
       "url": "https://ghp.ci/https://raw.githubusercontent.com/l821706/IPTV/refs/heads/main/IPTV.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "267拾光",
+      "name": "拾光",
       "type": 0,
       "url": "http://xmbjm.fh4u.org/tv.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "267开心",
+      "name": "开心",
       "type": 0,
       "url": "http://rihou.cc:55/lib/kx2024.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "267胡云",
+      "name": "胡云",
       "type": 0,
       "url": "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "267小超",
+      "name": "小超",
       "type": 0,
       "url": "http://live.fsdks.com/tv.php",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "267小强",
+      "name": "小强",
       "type": 0,
       "url": "https://fel.forxhr.top:2022/down.php/1fc392506c6f43efbf74286cbb7bffd1.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "267晨瑞",
+      "name": "晨瑞",
       "type": 0,
       "url": "https://bitbucket.org/chenruiheike/chenrui/raw/2e6b71c113fcd6712c21a84f5dad2647e21565e9/IPTV-fongmi",
       "playerType": 1,
@@ -1175,7 +1187,7 @@
     },
     
     {
-      "name": "267电视呗",
+      "name": "电视呗",
       "type": 0,
       "url": "http://tv.850930.xyz/kdsb.txt",
       "ua": "okhttp/3.15",
