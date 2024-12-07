@@ -1150,13 +1150,7 @@
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-    {
-      "name": "拾光",
-      "type": 0,
-      "url": "http://xmbjm.fh4u.org/tv.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+    
     {
       "name": "Guovin",
       "type": 0,
