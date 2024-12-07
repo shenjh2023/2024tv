@@ -1181,7 +1181,7 @@
     {
       "name": "晨瑞",
       "type": 0,
-      "url": "https://bitbucket.org/chenruiheike/chenrui/raw/2e6b71c113fcd6712c21a84f5dad2647e21565e9/IPTV-fongmi",
+      "url": "https://bitbucket.org/chenruiheike/chenrui/raw/60ecc2fa289cea8cc1729faf652536b016954a65/IPTV",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
