@@ -1105,6 +1105,13 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
+      "name": "ipv4",
+      "type": 0,
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
       "name": "ipv61",
       "type": 0,
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
