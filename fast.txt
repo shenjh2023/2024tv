@@ -1151,13 +1151,7 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     
-    {
-      "name": "Guovin",
-      "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+    
     {
       "name": "拾光",
       "type": 0,
