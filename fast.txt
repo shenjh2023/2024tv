@@ -1150,7 +1150,13 @@
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-    
+    {
+      "name": "zwc456",
+      "type": 0,
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
     
     {
       "name": "拾光",

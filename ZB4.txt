@@ -46,9 +46,9 @@ now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P
 港台电视31台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31#P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 港台电视32台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32#P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 港台电视33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 港台电视36台,P2p://generationnexxxt.com:19806/669b838b000a6b509fbd6a5e20670d8d
+
 
 
 📡央卫频道,#genre#
@@ -923,6 +923,25 @@ CETV-4,http://156.238.251.141:82/关注公众号：小凯影视交流/JSYD.php?i
 [吉林]柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 [吉林]通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 [吉林]汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
+延边一套,https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8
+
+延边二套,https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8
+
+吉林卫视,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/吉林.php?id=jlws
+
+都市频道,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/吉林.php?id=jlds
+
+生活频道,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/吉林.php?id=jlsh
+
+影视频道,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/吉林.php?id=jlys
+
+乡村频道,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/吉林.php?id=jlxc
+
+公共频道,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/吉林.php?id=jlgg
+
+综艺频道,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/吉林.php?id=jlzy
+
+戏曲频道,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/吉林.php?id=dbxq
 
 📡青海频道,#genre#
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
