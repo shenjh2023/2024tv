@@ -1084,9 +1084,9 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
    {
-      "name": "zb4",
+      "name": "zb1",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB4.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB1.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1168,7 +1168,7 @@
     {
       "name": "开心",
       "type": 0,
-      "url": "http://rihou.cc:55/lib/kx2024.txt",
+      "url": "http://kxrj.site:55/lib/kx2024.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
