@@ -782,7 +782,7 @@ CETV-4,http://156.238.251.141:82/关注公众号：小凯影视交流/JSYD.php?i
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
 
-??河北频道,#genre#
+📡河北频道,#genre#
 [河北]鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
 [河北]鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
 [河北]邢台综合频道,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
