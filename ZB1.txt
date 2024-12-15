@@ -2,11 +2,6 @@
 
 🛰央卫V4,#genre#
 
-
-凤凰香港,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -303,13 +298,6 @@ CCTV9-纪录,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 
 
 🛰央卫V6,#genre#
-
-
-
-凤凰香港,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-
 
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
