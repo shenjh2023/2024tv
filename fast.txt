@@ -1117,6 +1117,14 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+      {
+      "name": "zb2",
+      "type": 0,
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB2.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
   {
       "name": "ipv365",
       "type": 0,
