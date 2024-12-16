@@ -829,9 +829,6 @@ CGTN纪录,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88
 
 🛰港澳,#genre#
 
-
-
-
 凤凰卫视中文台,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://eastscreen.tv/ooooo.php?id=fhws#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzw#http://114.105.171.70:9901/tsfile/live/1063_1.m3u8#http://www.91dos.cn:4022/rtp/239.61.2.184:9092#http://www.jeremyoto.com:82/rtp/233.50.200.191:5140#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/37/index.m3u8#http://110.185.171.226:96/yximgs.php?id=182#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
 凤凰卫视资讯台,http://223.105.252.60/PLTV/3/224/3221228524/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://eastscreen.tv/ooooo.php?id=fhzx#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzx#http://114.105.171.70:9901/tsfile/live/1064_1.m3u8#http://www.91dos.cn:4022/rtp/239.61.2.183:9086#http://www.jeremyoto.com:82/rtp/233.50.200.192:5140#http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/36/index.m3u8#http://110.185.171.226:96/yximgs.php?id=183#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5#P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6
 凤凰卫视香港台,http://223.105.252.60/PLTV/3/224/3221228530/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhhk#http://114.105.171.70:9901/tsfile/live/1034_1.m3u8#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv#http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/38/index.m3u8#http://110.185.171.226:96/yximgs.php?id=184#P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
@@ -868,66 +865,15 @@ now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P
 澳门莲花,P2p://generationnexxxt.com:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8#P2p://generationnexxxt.com:19806/f7ac1f0fdbe64fcc82cee29e0b590242#http://php.jdshipin.com:8880/amlh.php
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=ff1e7f2a8eaa2f867764a88f-172828094928173&wsIPSercert=fbb888f3f7e5ef0f616a5f07a3b5ba5a
 香港国际财经台,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54#P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 港台电视31台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31#P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 港台电视32台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32#P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 港台电视33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 港台电视36台,P2p://generationnexxxt.com:19806/669b838b000a6b509fbd6a5e20670d8d
 
-🛰湾湾,#genre#
 
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+
+🛰湾湾,#genre#
 
 
 
@@ -1037,6 +983,57 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 台视新闻台,P2p://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7
 台视财经台,P2p://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e
 
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 
 🛰体育,#genre#
 咪咕体育台,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
