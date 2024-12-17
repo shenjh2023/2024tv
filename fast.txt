@@ -1117,6 +1117,13 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },   
+    {
+      "name": "咪咕直播",
+      "type": 0,
+      "url": "https://iptv.wwkejishe.top/vip/mg.m3u",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
   {
       "name": "ipv365",
       "type": 0,
@@ -1144,6 +1151,13 @@
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
+    {
+      "name": "猫",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
     
     {
       "name": "yang1989",
@@ -1153,39 +1167,39 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "ipv4",
+      "name": "V4",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "ipv61",
+      "name": "V6fmm1",
       "type": 0,
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "ipv62",
+      "name": "V6fmm2",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
       "playerType": 1
     },
     {
-      "name": "ipv63",
+      "name": "V6yuanzl77",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt",
       "playerType": 1
     },
     {
-      "name": "ipv64",
+      "name": "V6taoboy",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Tao-Boy/IPTV/refs/heads/main/CNTV.m3u",
       "playerType": 1
     },
     {
-      "name": "ipv65",
+      "name": "V6elite",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/elite5063/Live/refs/heads/main/all-fmm.txt",
       "playerType": 1,
