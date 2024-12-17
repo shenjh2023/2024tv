@@ -1133,23 +1133,11 @@ Red BullTV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3
 🛰电影,#genre#
 斗鱼电影A,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 斗鱼电影B,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-高分影院,http://maomao.kandiantv.cn/douyu1.php?id=8770422
-吉利影院,https://pull.kktv8.com/livekktv/128600025.flv
 蓝光影院,http://lxajh.top/tv/douyu.php?id=747764
 漫威系列,http://lxajh.top/tv/douyu.php?id=6140589
 变种人系列,http://lxajh.top/tv/douyu.php?id=9651304
 国外恐怖,http://lxajh.top/tv/douyu.php?id=1165374
 高分影院,http://lxajh.top/tv/douyu.php?id=8770422
-小宇60帧,http://maomao.kandiantv.cn/douyu1.php?id=323876
-恐怖惊悚,http://maomao.kandiantv.cn/douyu1.php?id=96577
-漫威剧情,http://maomao.kandiantv.cn/douyu1.php?id=6140589
-霍格沃茨,http://maomao.kandiantv.cn/douyu1.php?id=8814650
-变种人片,http://maomao.kandiantv.cn/douyu1.php?id=9651304
-喜剧电影,http://maomao.kandiantv.cn/douyu1.php?id=9292492
-女神电影,http://maomao.kandiantv.cn/douyu1.php?id=747764
-华语经典,http://maomao.kandiantv.cn/douyu1.php?id=434971
-欧美大片,http://maomao.kandiantv.cn/douyu1.php?id=2793084
-贝爷影厅,http://maomao.kandiantv.cn/douyu1.php?id=252802
 CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002
 CHC影迷电影,http://nas.hssvm.com:8888/udp/225.1.1.214:5002
 CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002
@@ -1162,32 +1150,18 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 黑莓电影,https://epg.pw/stream/7a552c36ab63bf8ca14b3a6e05ce188d3243c9c6534d67d70ff72905aabca67e.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
 猫眼电影,http://mhq.coms.ee/%E6%96%97%E9%B1%BC.php?id=8726221
-央视电影,http://mtw.so/62HqWM
-央视电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-1905电影,http://live.dxms.top:80/dwy/hyyy.php
-周星驰,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 邵氏影院,https://www.goodiptv.club/douyu/4246519
 下饭好剧,https://www.goodiptv.club/douyu/276200
 第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8
-经典武侠台,http://live.dxms.top/dwy/jdgf.php
-CCTV6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 绍兴影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-福星高照㊣代,https://pull.kktv8.com/livekktv/99592190.flv
-鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
 绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-万州影视,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-万州影视,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
 影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-
-
-
 
 
 
