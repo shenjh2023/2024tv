@@ -1158,7 +1158,20 @@
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-    
+    {
+      "name": "电视家",
+      "type": 0,
+      "url": "http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "蓝天1白云",
+      "type": 0,
+      "url": "https://10085.kstore.space/蓝天白云.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
     {
       "name": "yang1989",
       "type": 0,
