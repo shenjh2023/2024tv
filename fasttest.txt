@@ -42,7 +42,7 @@
       "type": 3,
       "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
       "ext": "https://yyrj.fun/js/jp.js"，
-      "jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f"
+      "jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d"
     },   
  
  
