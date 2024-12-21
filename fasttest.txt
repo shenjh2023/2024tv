@@ -42,6 +42,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
+      "jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
       "ext": {
         "主页url": "https://www.czzyvideo.com/",
         "分类url": "https://www.czzyvideo.com/{cateId}/{class}/{area}/page/{catePg};;x",
@@ -264,9 +265,8 @@
             }
           ]
         }
-      },
-          "jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f"
-    },
+      }
+},
     {
       "key": "JINPAI",
       "name": "金牌┃影视",
