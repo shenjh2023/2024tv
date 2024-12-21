@@ -36,16 +36,7 @@
       "filterable": 1
     },
     
-    {
-      "key": "JINPAI",
-      "name": "金牌┃影视",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "ext": "https://yyrj.fun/js/jp.js"，
-      "jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d"
-    },   
- 
- 
+    
  {
       "key": "360zy",
       "name": "拾光☪360采集",
