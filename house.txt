@@ -1,10 +1,10 @@
 {"storeHouse": [
-{"sourceName":"主源","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
+{"sourceName":"主源","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 
 {"sourceName":"备源1","sourceUrl":"https://github.jiexi.de/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 {"sourceName":"备源2","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
-{"sourceName":"备源3","sourceUrl":"https://d.kstore.dev/download/3527/index.txt"},
-{"sourceName":"备源4","sourceUrl":"https://ghgo.xyz/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
+{"sourceName":"备源3","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
+{"sourceName":"备源4","sourceUrl":"https://d.kstore.dev/download/3527/index.txt"},
 
 {"sourceName":"公子仓","sourceUrl":"http://gzc.lzo.linkpc.net/cangku.json"},
 {"sourceName":"绿茶","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/shenjh2023/2024tv/main/99.txt"},
