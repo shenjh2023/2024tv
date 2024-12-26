@@ -1775,162 +1775,18 @@
     ],
     
     "lives": [
-  {
-      "name": "zb1",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB1.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },   
-    {
-      "name": "咪咕直播",
-      "type": 0,
-      "url": "https://iptv.wwkejishe.top/vip/mg.m3u",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-  {
-      "name": "ipv365",
-      "type": 0,
-      "url": "https://live.iptv365.org/live.txt",
-      "playerType": 1
-    },
-    {
-      "name": "开心",
-      "type": 0,
-      "url": "http://kxrj.site:55/lib/kx2024.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "小超",
-      "type": 0,
-      "url": "http://live.fsdks.com/tv.php",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "小强",
-      "type": 0,
-      "url": "https://fel.forxhr.top:2022/down.php/1fc392506c6f43efbf74286cbb7bffd1.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "猫",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "电视家",
-      "type": 0,
-      "url": "http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "蓝天1白云",
-      "type": 0,
-      "url": "https://10085.kstore.space/蓝天白云.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "yang1989",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Gather",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "V4",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "V6fmm1",
-      "type": 0,
-      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "V6fmm2",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "V6yuanzl77",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt",
-      "playerType": 1
-    },
-    {
-      "name": "V6taoboy",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Tao-Boy/IPTV/refs/heads/main/CNTV.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "V6elite",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/elite5063/Live/refs/heads/main/all-fmm.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "港台",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/l821706/IPTV/refs/heads/main/IPTV.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "zwc456",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    
-    {
-      "name": "拾光",
-      "type": 0,
-      "url": "http://xmbjm.fh4u.org/tv.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    
-    {
-      "name": "胡云",
-      "type": 0,
-      "url": "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    
-    {
-      "name": "晨瑞",
-      "type": 0,
-      "url": "https://bitbucket.org/chenruiheike/chenrui/raw/60ecc2fa289cea8cc1729faf652536b016954a65/IPTV",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    
-    {
-      "name": "电视呗",
-      "type": 0,
-      "url": "http://tv.850930.xyz/kdsb.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 2
-    }
-  ],
+        
+        
+        
+        {
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://yyrj.fun/tv",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
+
+   
 
    
     "flags": [
