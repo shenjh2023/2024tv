@@ -162,62 +162,6 @@ NEWTV 精品萌宠 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3咪咕视频 
 咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-精品宠物,http://39.134.66.66/PLTV/88888888/224/3221226051/index.m3u8
-CGTN,http://39.134.66.66/PLTV/88888888/224/3221225510/index.m3u8
-CGTN纪录,http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
-NEWTV 爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-NEWTV 超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
-NEWTV 超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-NEWTV 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-NEWTV 超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-NEWTV 潮妈辣婆,http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
-NEWTV 东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-NEWTV 动作电影,http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
-NEWTV 古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-NEWTV 家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
-NEWTV 家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
-NEWTV 金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-NEWTV 惊悚悬疑,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-NEWTV 精品大剧,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-NEWTV 精品纪录,http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
-NEWTV 精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-NEWTV 军旅剧场,http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
-NEWTV 军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
-NEWTV 明星大片,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-NEWTV 农业致富,http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
-NEWTV 武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-NEWTV 炫舞未来,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
-NEWTV 怡伴健康,http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
-NEWTV 中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-CCTV-1综合,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV-2财经,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV-3综艺,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV-4中文国际,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV-5体育,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV-5+体育赛事,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV-6电影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV-7国防军事,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV-7国防军事,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
-CCTV-8电视剧,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV9-纪录,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-江西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8
-东南卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225766/1.m3u8
-四川卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225768/1.m3u8
-广西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/1.m3u8
-安徽卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225773/1.m3u8
-新疆卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225747/1.m3u8
-甘肃卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225754/1.m3u8
-浙江卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
-山东卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
-江苏卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
-深圳卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226205/1.m3u8
-兵团卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/1.m3u8
-广东卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
-北京卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
-农林卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-金鹰卡通,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225744/1.m3u8
-丝路频道,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
-京视剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
 
 
 🛰央卫V6,#genre#
