@@ -558,7 +558,18 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
 影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 
-
+🌆音乐频道,#genre#
+OFTV音乐台,https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+音乐欣赏1,http://61.221.215.25:8800/hls/49/index.m3u8
+音乐欣赏2,http://61.221.215.25:8800/hls/58/index.m3u8
+未知音乐,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
+未知音乐2,https://vd2.bdstatic.com/mda-mm4dszarfc74t9mx/sc/cae_h264/1638819159347843097/mda-mm4dszarfc74t9mx.mp4
+怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
+怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+经典合集,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
+经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
+Sunset Music,https://stream.sunset-media.ru:443/Free/Free/2.m3u8
+ТНТ Music,http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 
 📡江苏频道,#genre#
 [江苏]南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
