@@ -12,6 +12,21 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    
+    
+        {
+      "key": "hipy_js_采集之王[合]",
+      "name": "👶采集之王[合]",
+      "type": 3,
+      "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 210,
+      "ext": "http://47.108.190.141/hipy/drpy_js/采集之王[合].js?type=url&params=http://47.108.190.141/wx/yydf/json/采集静态.json"
+    },
+    
+    
     {
       "key": "木耳",
       "name": "拾光☪黑木耳",
