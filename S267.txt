@@ -90,10 +90,11 @@
   ],
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
-   {
+  
+ {
       "name": "S1",
       "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/%E6%9C%80%E5%85%A8eiXY.txt",
+      "url": "https://d.kstore.dev/download/3527/色最全eiXY.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
