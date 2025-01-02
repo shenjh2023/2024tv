@@ -2176,7 +2176,7 @@
   {
       "name": "zb1",
       "type": 0,
-      "url": "https://d.kstore.dev/download/3527/ZB1.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB1.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
