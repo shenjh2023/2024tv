@@ -421,6 +421,11 @@
     },
     
     
+    
+    
+    
+    
+    
     {
       "key": "公众号",
       "name": "4K┃线路",
@@ -431,50 +436,21 @@
       "changeable": 1
     },
     {
-      "key": "糯米弹幕",
-      "name": "农┃影视",
+      "key": "nm",
+      "name": "农民┃影视",
       "type": 3,
-      "api": "csp_Nmys",
-      "jar": "https://lz.qaiu.top/d/lz/iEGMd2jk357c",
+      "api": "csp_WebNM",
+      "jar": "https://lz.qaiu.top/parser?url=https://pan10248.lanzouv.com/izw4A2ixpvje",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "浪酷弹幕",
-      "name": "浪酷┃影视",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "jar": "https://lz.qaiu.top/d/lz/iEGMd2jk357c",
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL3YubGt1eXMuY24="
-      }
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "KhY021WelCEl+6MsvwnzaPusskysEgwIsyjYtEXkH+pM+ozQddS20H+zo1GcCIPXtjzDK85VlzH4VfVQy8p+kmndYR9FBwdmipcKAcCn"
     },
     {
       "key": "saohuo",
       "name": "骚火影视",
       "type": 3,
       "api": "https://yyrj.fun/js/saohuo.js"
-    },
-    {
-      "key": "文才弹幕",
-      "name": "文才",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "https://lz.qaiu.top/d/lz/iEGMd2jk357c",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
     },
     {
       "key": "厂长影院",
@@ -2173,7 +2149,7 @@
     }
   ],
   "lives": [
-  {
+    {
       "name": "zb1",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB1.txt",
@@ -2329,8 +2305,6 @@
       "playerType": 2
     }
   ],
-  
-  
   "ads": [
     "static-mozai.4gtv.tv"
   ]
