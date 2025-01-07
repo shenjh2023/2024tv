@@ -1,7 +1,7 @@
 {"storeHouse": [
-{"sourceName":"主源1","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
+{"sourceName":"主源1","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 {"sourceName":"主源2","sourceUrl":"https://d.kstore.dev/download/3527/index.txt"},
-{"sourceName":"备源1","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
+{"sourceName":"备源1","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 {"sourceName":"备源2","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 {"sourceName":"备源3","sourceUrl":"https://github.jiexi.de/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 
