@@ -108,13 +108,13 @@
     {
       "name": "S3",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/178.txt",
+      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/178.txt",
       "playerType": 1
     },
     {
       "name": "S4",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/Adult.m3u",
+      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/Adult.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
@@ -129,7 +129,7 @@
     {
       "name": "S6",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/vicjl/myIPTV/main/Adult.m3u",
+      "url": "https://github.jiexi.de/raw.githubusercontent.com/vicjl/myIPTV/main/Adult.m3u",
       "ua": "okhttp/3.15",
       "playerType": 2
     }
