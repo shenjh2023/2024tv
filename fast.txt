@@ -62,7 +62,7 @@
     {
       "name": "典藏版",
       "type": 0,
-      "url": "https://github.jiexi.de/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
@@ -159,7 +159,7 @@
 
 
 "sites": [
-{"key":"豆瓣2","name":"👇如拉取失败-换线路，还是不行 配置-换备源","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"👇如拉取失败-换线路，还是失效 配置-换备源","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"📢🔥公众号光歌软件分享🔥tkh公告❤更新:1/12❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥公众号光歌软件分享🔥tkh"},
 
  {
@@ -599,7 +599,7 @@
 {"key":"奇优影视","name":"💡奇优｜影视","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dyxz2.com/"},
 
 {"key":"雨滴","name":"💡雨滴｜影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="},
-{"key":"现代","name":"💡现代｜影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"},
+{"key":"现代","name":"??现代｜影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"},
 {"key":"优质","name":"💡优质｜影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="},
 {"key":"客星","name":"💡客星｜影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"},
 {"key":"蝴蝶","name":"💡蝴蝶｜影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
