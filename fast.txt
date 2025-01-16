@@ -81,9 +81,9 @@
       "playerType": 2
     },
     {
-      "name": "咪咕直播",
+      "name": "Allinone",
       "type": 0,
-      "url": "https://iptv.wwkejishe.top/vip/mg.m3u",
+      "url": "http://8.138.7.223/live.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
