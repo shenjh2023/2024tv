@@ -25,6 +25,12 @@
       "playerType": 1
     },
     {
+      "name": "肥羊高清",
+      "type": 0,
+      "url": "https://lu.wqwqwq.sbs/tv.m3u",
+      "playerType": 1
+    },
+    {
       "name": "开心",
       "type": 0,
       "url": "http://kxrj.site:55/lib/kx2024.txt",
