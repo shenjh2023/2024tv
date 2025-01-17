@@ -79,6 +79,13 @@
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
+    {        "name": "拾光",        "url": "https://slink.ltd/https://raw.githubusercontent.com/xmbjm/TV/refs/heads/master/output/user_result.txt"    },   
+ {        "name": "Govin",        "url": "https://slink.ltd/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"    }, 
+   {        "name": "大葱MyTV",        "url": "https://tv.iill.top/m3u/MyTV"    },    
+{        "name": "大葱Live",        "url": "https://tv.iill.top/m3u/Live"    },   
+ {        "name": "大葱Sport",        "url": "https://tv.iill.top/m3u/Sport"    },  
+  {        "name": "天微",        "https://7337.kstore.space/twkj/tvzb.txt    },   
+ {        "name": "日后",        "url": "http://rihou.cc:567/gggg.nzk"    },
     {
       "name": "电视呗",
       "type": 0,
