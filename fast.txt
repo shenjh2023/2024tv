@@ -24,10 +24,10 @@
       "url": "https://live.iptv365.org/live.txt",
       "playerType": 1
     },
-   {"name": "胖羊直播","type": 3, "api": "csp_Feiyang","url": "tv.m3u","timeout": 10,"ua": "okhttp/3.15"},
+
 {"name":"光歌","type":0,"url":"https://xn--tkh-mf3g9f.v.nxog.top/m//tv/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"AI直播","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
-{"name": "Live直播","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&u=Gather","playerType": 2,"timeout": 10},
+
     {
       "name": "小超",
       "type": 0,
@@ -42,13 +42,7 @@
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-    {
-      "name": "猫",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+
     {
       "name": "电视家",
       "type": 0,
@@ -92,14 +86,7 @@
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-    {
-      "name": "日后",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    
+   
     {
       "name": "电视呗",
       "type": 0,
