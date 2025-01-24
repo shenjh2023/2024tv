@@ -3,7 +3,7 @@
 {
 "wallpaper":"https://xn--tkh-mf3g9f.v.nxog.top/m//t/",
 "logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
-"spider":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;189f355f8b31251b8a634225952ecf6a",
+"spider":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5bb2fe55cf3aa63d0d1c44619f884213",
 "warningText":"提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
