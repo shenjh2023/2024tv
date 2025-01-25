@@ -28,21 +28,7 @@
 {"name":"光歌","type":0,"url":"https://xn--tkh-mf3g9f.v.nxog.top/m//tv/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"AI直播","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
 
-    {
-      "name": "小超",
-      "type": 0,
-      "url": "http://live.fsdks.com/tv.php",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "小强",
-      "type": 0,
-      "url": "https://fel.forxhr.top:2022/down.php/1fc392506c6f43efbf74286cbb7bffd1.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-
+    
     {
       "name": "电视家",
       "type": 0,
@@ -127,12 +113,7 @@
       "url": "https://github.jiexi.de/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt",
       "playerType": 1
     },
-    {
-      "name": "V6taoboy",
-      "type": 0,
-      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/Tao-Boy/IPTV/refs/heads/main/CNTV.m3u",
-      "playerType": 1
-    },
+
     {
       "name": "V6elite",
       "type": 0,
@@ -162,6 +143,21 @@
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
+    {
+      "name": "小超",
+      "type": 0,
+      "url": "http://live.fsdks.com/tv.php",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "小强",
+      "type": 0,
+      "url": "https://fel.forxhr.top:2022/down.php/1fc392506c6f43efbf74286cbb7bffd1.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+
     
     {
       "name": "晨瑞",
