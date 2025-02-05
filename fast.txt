@@ -40,7 +40,7 @@
     {
       "name": "典藏版",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
@@ -91,7 +91,7 @@
     {
       "name": "V4",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
@@ -105,34 +105,34 @@
     {
       "name": "V6fmm2",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
       "playerType": 1
     },
     {
       "name": "V6yuanzl77",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt",
+      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt",
       "playerType": 1
     },
 
     {
       "name": "V6elite",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/elite5063/Live/refs/heads/main/all-fmm.txt",
+      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/elite5063/Live/refs/heads/main/all-fmm.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "港台",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/l821706/IPTV/refs/heads/main/IPTV.txt",
+      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/l821706/IPTV/refs/heads/main/IPTV.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "zwc456",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
+      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },

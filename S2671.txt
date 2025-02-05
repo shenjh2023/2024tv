@@ -94,7 +94,7 @@
  {
       "name": "S1",
       "type": 0,
-      "url": "https://d.kstore.dev/download/3527/色最全eiXY.txt",
+      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/shenjh2023/2024tv/main/色最全eiXY.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
