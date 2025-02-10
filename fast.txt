@@ -44,13 +44,7 @@
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-    {
-      "name": "yang1989Gather",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Gather",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+    
     {
       "name": "拾光",
       "type": 0,
@@ -58,14 +52,7 @@
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-    {
-      "name": "Govin",
-      "type": 0,
-      "url": "https://slink.ltd/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-  
+    
     {
       "name": "天威",
       "type": 0,
@@ -88,40 +75,7 @@
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-    {
-      "name": "V4",
-      "type": 0,
-      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "V6fmm1",
-      "type": 0,
-      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "V6fmm2",
-      "type": 0,
-      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "V6yuanzl77",
-      "type": 0,
-      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt",
-      "playerType": 1
-    },
-
-    {
-      "name": "V6elite",
-      "type": 0,
-      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/elite5063/Live/refs/heads/main/all-fmm.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+    
     {
       "name": "港台",
       "type": 0,

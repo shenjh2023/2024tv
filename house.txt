@@ -7,6 +7,7 @@
 {"sourceName":"备源4","sourceUrl":"https://ghproxy.cc/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 {"sourceName":"备源5","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 {"sourceName":"主源3","sourceUrl":"https://d.kstore.dev/download/3527/index.txt"},
+{"sourceName":"本地仓","sourceUrl":"clan://localhost/TVBoxOSC/本地仓/本地仓.txt"},
 
 {"sourceName":"公子仓","sourceUrl":"http://gzc.lzo.linkpc.net/cangku.json"},
 {"sourceName":"绿茶","sourceUrl":"https://github.jiexi.de/https://raw.githubusercontent.com/shenjh2023/2024tv/main/99.txt"},
