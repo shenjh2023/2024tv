@@ -3,8 +3,8 @@
 {
 "wallpaper":"https://xn--zp8-mf3g9f.v.nxog.top/m//t/",
 "logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
-"spider":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5bb2fe55cf3aa63d0d1c44619f884213",
-"warningText":"🔥新年快乐！蛇年吉祥🔥:
+"spider":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;0baaf4986d05c592008d8248f4624f94",
+"warningText":"🔥情人节快乐！蛇年吉祥🔥:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
@@ -125,14 +125,15 @@
 
 "sites": [
 {"key":"豆瓣2","name":"👇失败-换线路，还失效 配置-换源","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢🔥新春同庆，工作顺遂，生意兴隆，财源广进。🔥umo公告❤更新:2/10❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--umo-mf3g9f.y.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥新春同庆，工作顺遂，生意兴隆，财源广进。🔥umo"},
+{"key":"豆瓣1","name":"📢🔥新春同庆，工作顺遂，生意兴隆，财源广进。🔥umo公告❤更新:2/12❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--umo-mf3g9f.y.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥新春同庆，工作顺遂，生意兴隆，财源广进。🔥umo"},
 
 
 
-{"key":"csp_woog","name":"🐲欧歌┃4K弹幕","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;d424d7703c64f1d1fce64104186de896","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw.xn--6qq986b3xl"],"url_key":"woog","threadinfo":{"chunksize":450,"threads":12}}},
-{"key":"csp_UC","name":"🐲欧歌┃uc弹幕","type":3,"searchable":1,"changeable":0,"api":"csp_woog","filterable":1,"jar":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;d424d7703c64f1d1fce64104186de896","ext":{"site_urls":["https://wooguc.nxog.eu.org","https://oguc.xn--dkw.xn--6qq986b3xl"],"url_key":"UC","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":450,"threads":12}}},
-{"key":"csp_woog2","name":"🐲欧歌┃夸快4K","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=a3&ou=公众号欧歌app;md5;468e5883e1e500c3003b24ee8b6d0dcd","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw.xn--6qq986b3xl"]}},
+{"key":"csp_woog","name":"🐲欧歌┃4K弹幕","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;f374d8b60394b71f57e7b0fb1f1f21ca","ext":{"site_urls":["https://woog.xn--dkw.xn--6qq986b3xl"]}},
+{"key":"csp_oguc","name":"🐲欧歌┃uc弹幕","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;f374d8b60394b71f57e7b0fb1f1f21ca","ext":{"site_urls":["https://wooguc.nxog.eu.org"]}},
+{"key":"csp_woog2","name":"🐲欧歌┃夸快4K","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=a3&ou=公众号欧歌app;md5;d424d7703c64f1d1fce64104186de896","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw.xn--6qq986b3xl"]}},
 {"key":"csp_欧歌G","name":"🐲欧歌4K┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=cf&ou=公众号欧歌app;md5;2d68907e16b4a9809ca25071c739245c"},
+
 {"key":"配置中心","name":"❤通用┃配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 {"key":"荐片","name":"💡荐片｜影视","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name":"💡农民｜影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1},
@@ -205,7 +206,7 @@
 
 {"key":"立播弹幕","name":"❤立播┃弹幕","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVbox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVbox/uc.txt","danmu":true}},
 {"key":"玩弹幕1","name":"❤玩哥┃弹幕","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVbox/token.txt","cookie":"http://127.0.0.1:9978/file/TVbox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVbox/uc.txt","site":"https://woog.nxog.eu.org","danmu": true}},
-{"key":"夸克玩弹幕1","name":"❤玩偶┃弹幕","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVbox/token.txt","cookie":"http://127.0.0.1:9978/file/TVbox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVbox/uc.txt","site": "http://www.muoupan.top","danmu": true}},
+{"key":"夸克玩弹幕1","name":"❤玩偶┃弹幕","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVbox/token.txt","cookie":"http://127.0.0.1:9978/file/TVbox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVbox/uc.txt","site": "http://muouso.fun","danmu": true}},
 {"key":"夸克玩弹幕2","name":"❤玩姐┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVbox/token.txt","cookie":"http://127.0.0.1:9978/file/TVbox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVbox/uc.txt","site":"https://tv.yydsys.top","danmu":true}},
 {"key":"夸克玩弹幕3","name":"❤玩妹┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVbox/token.txt","cookie":"http://127.0.0.1:9978/file/TVbox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVbox/uc.txt","site":"http://labipan.com","danmu":true}},
 {"key":"夸克玩弹幕4","name":"❤玩弟┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVbox/token.txt","cookie":"http://127.0.0.1:9978/file/TVbox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVbox/uc.txt","site":"https://mihdr.top","danmu":true}},
@@ -257,7 +258,6 @@
 {"key": "球类","name": "⚽️球类┃合集","type": 3,"api": "https://xn--zp8-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--zp8-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--zp8-mf3g9f.v.nxog.top/m//Bilibili/球类合集.json"}, 
 {"key": "球星","name": "⚽️球星┃合集","type": 3,"api": "https://xn--zp8-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--zp8-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--zp8-mf3g9f.v.nxog.top/m//Bilibili/球星合集.json"},  
 {"key": "合集","name": "💋哔哩┃合集","type": 3,"api": "https://xn--zp8-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--zp8-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--zp8-mf3g9f.v.nxog.top/m//Bilibili/合集.json"}, 
-
 
 {
       "key": "木耳",
@@ -610,7 +610,7 @@
 {"key":"星芽短剧","name":"🐞星芽｜短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"河马短剧","name":"🐞河马｜短剧","type":3,"api":"csp_AppHMDJ","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="},
 
-{"key":"push_agent","name":"🎱推送┃电视","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"jar":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=a3&ou=公众号欧歌app;md5;468e5883e1e500c3003b24ee8b6d0dcd",ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc"}},
+{"key":"push_agent","name":"🎱推送┃电视","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"jar":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=a3&ou=公众号欧歌app;md5;d424d7703c64f1d1fce64104186de896",ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc"}},
 {"key": "应用商店","name": "🛒本地包更新","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://123.yy.xn--dkw.xn--6qq986b3xl/sd.php"},
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
