@@ -38,203 +38,6 @@
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 
-纯享4K,http://222.68.135.70:5555/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
-CCTV16 奥林匹克4K,http://222.68.135.70:5555/TVOD/5000000008000023254/bestzb/index.m3u8?ace
-SiTV欢笑剧场4K,http://222.68.135.70:5555/TVOD/5000000007000010001/bestzb/index.m3u8?ace
-华数4K,http://222.68.135.70:5555/TVOD/6000000003000004748/wasusyt/index.m3u8?ace
-华数4K,http://222.68.135.70:5555/TVOD/2000000004000000014/hnbblive/index.m3u8?ace
-CCTV1 综合,http://222.68.135.70:5555/TVOD/6000000001000029752/wasusyt/index.m3u8?ace
-CCTV1 综合,http://222.68.135.70:5555/TVOD/1000000001000018602/ystenlive/index.m3u8?ace
-CCTV1 综合,http://222.68.135.70:5555/TVOD/5000000004000002226/bestzb/index.m3u8?ace
-CCTV1 综合,http://222.68.135.70:5555/TVOD/1000000005000265001/ystenlive/index.m3u8?ace
-CCTV1 综合,http://222.68.135.70:5555/TVOD/5000000010000030810/bestzb/index.m3u8?ace
-CCTV1 综合,http://222.68.135.70:5555/TVOD/1000000001000021973/ystenlive/index.m3u8?ace
-CCTV2 财经,http://222.68.135.70:5555/TVOD/6000000001000014161/wasusyt/index.m3u8?ace
-CCTV2 财经,http://222.68.135.70:5555/TVOD/1000000001000023315/ystenlive/index.m3u8?ace
-CCTV2 财经,http://222.68.135.70:5555/TVOD/5000000011000031101/bestzb/index.m3u8?ace
-CCTV2 财经,http://222.68.135.70:5555/TVOD/1000000005000265002/ystenlive/index.m3u8?ace
-CCTV2 财经,http://222.68.135.70:5555/TVOD/1000000001000012442/ystenlive/index.m3u8?ace
-CCTV3 综艺,http://222.68.135.70:5555/TVOD/6000000001000022313/wasusyt/index.m3u8?ace
-CCTV3 综艺,http://222.68.135.70:5555/TVOD/1000000001000013682/ystenlive/index.m3u8?ace
-CCTV3 综艺,http://222.68.135.70:5555/TVOD/5000000004000008883/bestzb/index.m3u8?ace
-CCTV3 综艺,http://222.68.135.70:5555/TVOD/1000000005000265003/ystenlive/index.m3u8?ace
-CCTV3 综艺,http://222.68.135.70:5555/TVOD/5000000002000020548/bestzb/index.m3u8?ace
-CCTV3 综艺,http://222.68.135.70:5555/TVOD/1000000001000011218/ystenlive/index.m3u8?ace
-CCTV4 中文国际,http://222.68.135.70:5555/TVOD/5000000011000031102/bestzb/index.m3u8?ace
-CCTV4 中文国际,http://222.68.135.70:5555/TVOD/1000000005000265004/ystenlive/index.m3u8?ace
-CCTV4 中文国际,http://222.68.135.70:5555/TVOD/1000000002000031664/ystenlive/index.m3u8?ace
-CCTV4 中文国际,http://222.68.135.70:5555/TVOD/5000000005000030093/bestzb/index.m3u8?ace
-CCTV5 体育,http://222.68.135.70:5555/TVOD/1000000005000025222/ystenlive/index.m3u8?ace
-CCTV5 体育,http://222.68.135.70:5555/TVOD/6000000001000016431/wasusyt/index.m3u8?ace
-CCTV5 体育,http://222.68.135.70:5555/TVOD/1000000003000030177/ystenlive/index.m3u8?ace
-CCTV5 体育,http://222.68.135.70:5555/TVOD/5000000004000008885/bestzb/index.m3u8?ace
-CCTV5 体育,http://222.68.135.70:5555/TVOD/1000000005000265005/ystenlive/index.m3u8?ace
-CCTV5 体育,http://222.68.135.70:5555/TVOD/5000000010000016619/bestzb/index.m3u8?ace
-CCTV5 体育,http://222.68.135.70:5555/TVOD/1000000001000004794/ystenlive/index.m3u8?ace
-CCTV5+ 体育赛事,http://222.68.135.70:5555/TVOD/6000000001000015875/wasusyt/index.m3u8?ace
-CCTV5+ 体育赛事,http://222.68.135.70:5555/TVOD/1000000001000018504/ystenlive/index.m3u8?ace
-CCTV5+ 体育赛事,http://222.68.135.70:5555/TVOD/5000000011000031127/bestzb/index.m3u8?ace
-CCTV5+ 体育赛事,http://222.68.135.70:5555/TVOD/1000000005000265016/ystenlive/index.m3u8?ace
-CCTV5+ 体育赛事,http://222.68.135.70:5555/TVOD/1000000001000020505/ystenlive/index.m3u8?ace
-CCTV6 电影,http://222.68.135.70:5555/TVOD/6000000001000004574/wasusyt/index.m3u8?ace
-CCTV6 电影,http://222.68.135.70:5555/TVOD/1000000001000001737/ystenlive/index.m3u8?ace
-CCTV6 电影,http://222.68.135.70:5555/TVOD/5000000004000008886/bestzb/index.m3u8?ace
-CCTV6 电影,http://222.68.135.70:5555/TVOD/1000000005000265006/ystenlive/index.m3u8?ace
-CCTV6 电影,http://222.68.135.70:5555/TVOD/5000000010000018433/bestzb/index.m3u8?ace
-CCTV6 电影,http://222.68.135.70:5555/TVOD/1000000001000016466/ystenlive/index.m3u8?ace
-CCTV7 国防军事,http://222.68.135.70:5555/TVOD/6000000001000009055/wasusyt/index.m3u8?ace
-CCTV7 国防军事,http://222.68.135.70:5555/TVOD/1000000001000024341/ystenlive/index.m3u8?ace
-CCTV7 国防军事,http://222.68.135.70:5555/TVOD/5000000011000031104/bestzb/index.m3u8?ace
-CCTV7 国防军事,http://222.68.135.70:5555/TVOD/1000000005000265007/ystenlive/index.m3u8?ace
-CCTV7 国防军事,http://222.68.135.70:5555/TVOD/1000000001000017218/ystenlive/index.m3u8?ace
-CCTV7 国防军事,http://222.68.135.70:5555/TVOD/5000000005000026715/bestzb/index.m3u8?ace
-CCTV8 电视剧,http://222.68.135.70:5555/TVOD/6000000001000001070/wasusyt/index.m3u8?ace
-CCTV8 电视剧,http://222.68.135.70:5555/TVOD/1000000001000031433/ystenlive/index.m3u8?ace
-CCTV8 电视剧,http://222.68.135.70:5555/TVOD/5000000004000008888/bestzb/index.m3u8?ace
-CCTV8 电视剧,http://222.68.135.70:5555/TVOD/1000000005000265008/ystenlive/index.m3u8?ace
-CCTV8 电视剧,http://222.68.135.70:5555/TVOD/5000000010000018377/bestzb/index.m3u8?ace
-CCTV8 电视剧,http://222.68.135.70:5555/TVOD/1000000001000003736/ystenlive/index.m3u8?ace
-CCTV9 记录,http://222.68.135.70:5555/TVOD/6000000001000032162/wasusyt/index.m3u8?ace
-CCTV9 记录,http://222.68.135.70:5555/TVOD/1000000001000014583/ystenlive/index.m3u8?ace
-CCTV9 记录,http://222.68.135.70:5555/TVOD/1000000005000265009/ystenlive/index.m3u8?ace
-CCTV9 记录,http://222.68.135.70:5555/TVOD/5000000010000018384/bestzb/index.m3u8?ace
-CCTV9 记录,http://222.68.135.70:5555/TVOD/1000000001000028286/ystenlive/index.m3u8?ace
-CCTV10 科教,http://222.68.135.70:5555/TVOD/5000000004000012827/bestzb/index.m3u8?ace
-CCTV10 科教,http://222.68.135.70:5555/TVOD/6000000001000031506/wasusyt/index.m3u8?ace
-CCTV10 科教,http://222.68.135.70:5555/TVOD/1000000001000023734/ystenlive/index.m3u8?ace
-CCTV10 科教,http://222.68.135.70:5555/TVOD/1000000005000265010/ystenlive/index.m3u8?ace
-CCTV10 科教,http://222.68.135.70:5555/TVOD/5000000010000016738/bestzb/index.m3u8?ace
-CCTV10 科教,http://222.68.135.70:5555/TVOD/1000000001000026367/ystenlive/index.m3u8?ace
-CCTV11 戏曲,http://222.68.135.70:5555/TVOD/5000000011000031106/bestzb/index.m3u8?ace
-CCTV11 戏曲,http://222.68.135.70:5555/TVOD/1000000005000265011/ystenlive/index.m3u8?ace
-CCTV11 戏曲,http://222.68.135.70:5555/TVOD/5000000006000040011/bestzb/index.m3u8?ace
-CCTV11 戏曲,http://222.68.135.70:5555/TVOD/1000000002000019789/ystenlive/index.m3u8?ace
-CCTV12 社会与法,http://222.68.135.70:5555/TVOD/6000000001000022586/wasusyt/index.m3u8?ace
-CCTV12 社会与法,http://222.68.135.70:5555/TVOD/1000000001000032494/ystenlive/index.m3u8?ace
-CCTV12 社会与法,http://222.68.135.70:5555/TVOD/5000000011000031107/bestzb/index.m3u8?ace
-CCTV12 社会与法,http://222.68.135.70:5555/TVOD/1000000005000265012/ystenlive/index.m3u8?ace
-CCTV12 社会与法,http://222.68.135.70:5555/TVOD/1000000001000001640/ystenlive/index.m3u8?ace
-CCTV12 社会与法,http://222.68.135.70:5555/TVOD/5000000006000040012/bestzb/index.m3u8?ace
-CCTV13 新闻,http://222.68.135.70:5555/TVOD/5000000011000031108/bestzb/index.m3u8?ace
-CCTV13 新闻,http://222.68.135.70:5555/TVOD/5000000005000001827/bestzb/index.m3u8?ace
-CCTV13 新闻,http://222.68.135.70:5555/TVOD/1000000002000021303/ystenlive/index.m3u8?ace
-CCTV14 少儿,http://222.68.135.70:5555/TVOD/5000000004000006673/bestzb/index.m3u8?ace
-CCTV14 少儿,http://222.68.135.70:5555/TVOD/6000000001000013647/wasusyt/index.m3u8?ace
-CCTV14 少儿,http://222.68.135.70:5555/TVOD/1000000001000008170/ystenlive/index.m3u8?ace
-CCTV14 少儿,http://222.68.135.70:5555/TVOD/1000000005000265013/ystenlive/index.m3u8?ace
-CCTV14 少儿,http://222.68.135.70:5555/TVOD/5000000010000023358/bestzb/index.m3u8?ace
-CCTV14 少儿,http://222.68.135.70:5555/TVOD/1000000001000021349/ystenlive/index.m3u8?ace
-CCTV15 音乐,http://222.68.135.70:5555/TVOD/5000000011000031109/bestzb/index.m3u8?ace
-CCTV15 音乐,http://222.68.135.70:5555/TVOD/1000000005000265014/ystenlive/index.m3u8?ace
-CCTV15 音乐,http://222.68.135.70:5555/TVOD/1000000002000008163/ystenlive/index.m3u8?ace
-CCTV16 奥林匹克,http://222.68.135.70:5555/TVOD/1000000006000233002/ystenlive/index.m3u8?ace
-CCTV16 奥林匹克,http://222.68.135.70:5555/TVOD/5000000008000023253/bestzb/index.m3u8?ace
-CCTV16 奥林匹克,http://222.68.135.70:5555/TVOD/1000000006000233001/ystenlive/index.m3u8?ace
-CCTV17 农业农村,http://222.68.135.70:5555/TVOD/1000000006000268004/ystenlive/index.m3u8?ace
-CCTV17 农业农村,http://222.68.135.70:5555/TVOD/1000000005000265015/ystenlive/index.m3u8?ace
-CCTV17 农业农村,http://222.68.135.70:5555/TVOD/1000000005000056836/ystenlive/index.m3u8?ace
-安徽卫视,http://222.68.135.70:5555/TVOD/6000000001000009954/wasusyt/index.m3u8?ace
-安徽卫视,http://222.68.135.70:5555/TVOD/1000000001000030159/ystenlive/index.m3u8?ace
-安徽卫视,http://222.68.135.70:5555/TVOD/5000000004000023002/bestzb/index.m3u8?ace
-安徽卫视,http://222.68.135.70:5555/TVOD/1000000005000265025/ystenlive/index.m3u8?ace
-安徽卫视,http://222.68.135.70:5555/TVOD/5000000001000027288/bestzb/index.m3u8?ace
-安徽卫视,http://222.68.135.70:5555/TVOD/1000000001000020780/ystenlive/index.m3u8?ace
-北京纪实科教,http://222.68.135.70:5555/TVOD/1000000001000001910/ystenlive/index.m3u8?ace
-北京纪实科教,http://222.68.135.70:5555/TVOD/5000000011000031204/bestzb/index.m3u8?ace
-北京纪实科教,http://222.68.135.70:5555/TVOD/2000000002000000065/hnbblive/index.m3u8?ace
-北京纪实科教,http://222.68.135.70:5555/TVOD/1000000005000265020/ystenlive/index.m3u8?ace
-北京纪实科教,http://222.68.135.70:5555/TVOD/2000000003000000026/hnbblive/index.m3u8?ace
-北京纪实科教,http://222.68.135.70:5555/TVOD/1000000001000028380/ystenlive/index.m3u8?ace
-北京卡酷少儿,http://222.68.135.70:5555/TVOD/7851974109718180595/bestzb/index.m3u8?ace
-北京卡酷少儿,http://222.68.135.70:5555/TVOD/1000000002000002413/ystenlive/index.m3u8?ace
-北京卡酷少儿,http://222.68.135.70:5555/TVOD/6000000003000002709/wasusyt/index.m3u8?ace
-北京卫视,http://222.68.135.70:5555/TVOD/6000000001000020451/wasusyt/index.m3u8?ace
-北京卫视,http://222.68.135.70:5555/TVOD/1000000001000021288/ystenlive/index.m3u8?ace
-北京卫视,http://222.68.135.70:5555/TVOD/5000000004000031556/bestzb/index.m3u8?ace
-北京卫视,http://222.68.135.70:5555/TVOD/1000000005000265027/ystenlive/index.m3u8?ace
-北京卫视,http://222.68.135.70:5555/TVOD/5000000010000011502/bestzb/index.m3u8?ace
-北京卫视,http://222.68.135.70:5555/TVOD/1000000001000017156/ystenlive/index.m3u8?ace
-兵团卫视,http://222.68.135.70:5555/TVOD/1000000005000266005/ystenlive/index.m3u8?ace
-兵团卫视,http://222.68.135.70:5555/TVOD/5000000006000040020/bestzb/index.m3u8?ace
-福建东南卫视,http://222.68.135.70:5555/TVOD/5000000004000010584/bestzb/index.m3u8?ace
-福建东南卫视,http://222.68.135.70:5555/TVOD/1000000005000265033/ystenlive/index.m3u8?ace
-福建东南卫视,http://222.68.135.70:5555/TVOD/5000000001000005829/bestzb/index.m3u8?ace
-福建东南卫视,http://222.68.135.70:5555/TVOD/1000000002000009263/ystenlive/index.m3u8?ace
-甘肃卫视,http://222.68.135.70:5555/TVOD/5000000011000031121/bestzb/index.m3u8?ace
-甘肃卫视,http://222.68.135.70:5555/TVOD/1000000002000017827/ystenlive/index.m3u8?ace
-甘肃卫视,http://222.68.135.70:5555/TVOD/5000000006000040021/bestzb/index.m3u8?ace
-广东大湾区卫视,http://222.68.135.70:5555/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
-广东大湾区卫视,http://222.68.135.70:5555/TVOD/1000000002000011619/ystenlive/index.m3u8?ace
-广东嘉佳卡通,http://222.68.135.70:5555/TVOD/1000000002000025964/ystenlive/index.m3u8?ace
-广东嘉佳卡通,http://222.68.135.70:5555/TVOD/6000000003000025508/wasusyt/index.m3u8?ace
-广东卫视,http://222.68.135.70:5555/TVOD/5000000004000014694/bestzb/index.m3u8?ace
-广东卫视,http://222.68.135.70:5555/TVOD/6000000001000031076/wasusyt/index.m3u8?ace
-广东卫视,http://222.68.135.70:5555/TVOD/1000000001000014176/ystenlive/index.m3u8?ace
-广东卫视,http://222.68.135.70:5555/TVOD/1000000005000265034/ystenlive/index.m3u8?ace
-广东卫视,http://222.68.135.70:5555/TVOD/5000000010000030417/bestzb/index.m3u8?ace
-广东卫视,http://222.68.135.70:5555/TVOD/1000000001000028357/ystenlive/index.m3u8?ace
-广东珠江,http://222.68.135.70:5555/TVOD/2000000003000000033/hnbblive/index.m3u8?ace
-广东珠江,http://222.68.135.70:5555/TVOD/1000000004000011655/ystenlive/index.m3u8?ace
-广西卫视,http://222.68.135.70:5555/TVOD/5000000011000031118/bestzb/index.m3u8?ace
-广西卫视,http://222.68.135.70:5555/TVOD/1000000002000019837/ystenlive/index.m3u8?ace
-广西卫视,http://222.68.135.70:5555/TVOD/5000000006000040014/bestzb/index.m3u8?ace
-贵州卫视,http://222.68.135.70:5555/TVOD/5000000004000025843/bestzb/index.m3u8?ace
-贵州卫视,http://222.68.135.70:5555/TVOD/1000000002000003169/ystenlive/index.m3u8?ace
-海南卫视,http://222.68.135.70:5555/TVOD/5000000004000006211/bestzb/index.m3u8?ace
-海南卫视,http://222.68.135.70:5555/TVOD/1000000002000023773/ystenlive/index.m3u8?ace
-河北卫视,http://222.68.135.70:5555/TVOD/5000000006000040016/bestzb/index.m3u8?ace
-河北卫视,http://222.68.135.70:5555/TVOD/1000000002000017118/ystenlive/index.m3u8?ace
-河南卫视,http://222.68.135.70:5555/TVOD/5000000011000031119/bestzb/index.m3u8?ace
-河南卫视,http://222.68.135.70:5555/TVOD/1000000002000027731/ystenlive/index.m3u8?ace
-河南卫视,http://222.68.135.70:5555/TVOD/5000000005000017925/bestzb/index.m3u8?ace
-黑龙江卫视,http://222.68.135.70:5555/TVOD/6000000001000016510/wasusyt/index.m3u8?ace
-黑龙江卫视,http://222.68.135.70:5555/TVOD/1000000001000001925/ystenlive/index.m3u8?ace
-黑龙江卫视,http://222.68.135.70:5555/TVOD/5000000004000025203/bestzb/index.m3u8?ace
-黑龙江卫视,http://222.68.135.70:5555/TVOD/1000000005000265029/ystenlive/index.m3u8?ace
-黑龙江卫视,http://222.68.135.70:5555/TVOD/5000000010000031107/bestzb/index.m3u8?ace
-黑龙江卫视,http://222.68.135.70:5555/TVOD/1000000001000009082/ystenlive/index.m3u8?ace
-湖北卫视,http://222.68.135.70:5555/TVOD/6000000001000015436/wasusyt/index.m3u8?ace
-湖北卫视,http://222.68.135.70:5555/TVOD/1000000001000024621/ystenlive/index.m3u8?ace
-湖北卫视,http://222.68.135.70:5555/TVOD/5000000004000014954/bestzb/index.m3u8?ace
-湖北卫视,http://222.68.135.70:5555/TVOD/1000000005000265023/ystenlive/index.m3u8?ace
-湖北卫视,http://222.68.135.70:5555/TVOD/5000000010000022140/bestzb/index.m3u8?ace
-湖北卫视,http://222.68.135.70:5555/TVOD/1000000001000010355/ystenlive/index.m3u8?ace
-湖南茶频道,http://222.68.135.70:5555/TVOD/5000000011000031209/bestzb/index.m3u8?ace
-湖南茶频道,http://222.68.135.70:5555/TVOD/2000000002000000070/hnbblive/index.m3u8?ace
-湖南金鹰纪实,http://222.68.135.70:5555/TVOD/5000000011000031203/bestzb/index.m3u8?ace
-湖南金鹰纪实,http://222.68.135.70:5555/TVOD/1000000002000011724/ystenlive/index.m3u8?ace
-湖南金鹰卡通,http://222.68.135.70:5555/TVOD/1000000002000016601/ystenlive/index.m3u8?ace
-湖南金鹰卡通,http://222.68.135.70:5555/TVOD/5000000006000040024/bestzb/index.m3u8?ace
-湖南金鹰卡通,http://222.68.135.70:5555/TVOD/6000000003000016791/wasusyt/index.m3u8?ace
-湖南快乐垂钓,http://222.68.135.70:5555/TVOD/5000000011000031206/bestzb/index.m3u8?ace
-湖南快乐垂钓,http://222.68.135.70:5555/TVOD/2000000002000000067/hnbblive/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/5000000004000006692/bestzb/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/6000000001000018044/wasusyt/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/1000000001000032695/ystenlive/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/1000000005000265024/ystenlive/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/5000000010000030452/bestzb/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/1000000001000009115/ystenlive/index.m3u8?ace
-吉林卫视,http://222.68.135.70:5555/TVOD/5000000011000031117/bestzb/index.m3u8?ace
-吉林卫视,http://222.68.135.70:5555/TVOD/1000000002000027730/ystenlive/index.m3u8?ace
-吉林卫视,http://222.68.135.70:5555/TVOD/5000000006000040013/bestzb/index.m3u8?ace
-吉林延边卫视,http://222.68.135.70:5555/TVOD/2000000003000000049/hnbblive/index.m3u8?ace
-吉林延边卫视,http://222.68.135.70:5555/TVOD/1000000005000266008/ystenlive/index.m3u8?ace
-江苏卫视,http://222.68.135.70:5555/TVOD/6000000001000014861/wasusyt/index.m3u8?ace
-江苏卫视,http://222.68.135.70:5555/TVOD/1000000001000001828/ystenlive/index.m3u8?ace
-江苏卫视,http://222.68.135.70:5555/TVOD/5000000004000019351/bestzb/index.m3u8?ace
-江苏卫视,http://222.68.135.70:5555/TVOD/1000000005000265030/ystenlive/index.m3u8?ace
-江苏卫视,http://222.68.135.70:5555/TVOD/5000000010000018509/bestzb/index.m3u8?ace
-江苏卫视,http://222.68.135.70:5555/TVOD/1000000001000004684/ystenlive/index.m3u8?ace
-江苏优漫卡通,http://222.68.135.70:5555/TVOD/1000000002000010063/ystenlive/index.m3u8?ace
-江苏优漫卡通,http://222.68.135.70:5555/TVOD/6000000003000030492/wasusyt/index.m3u8?ace
-江西卫视,http://222.68.135.70:5555/TVOD/1000000006000268001/ystenlive/index.m3u8?ace
-江西卫视,http://222.68.135.70:5555/TVOD/5000000004000011210/bestzb/index.m3u8?ace
-江西卫视,http://222.68.135.70:5555/TVOD/1000000005000265032/ystenlive/index.m3u8?ace
-江西卫视,http://222.68.135.70:5555/TVOD/5000000001000032154/bestzb/index.m3u8?ace
-江西卫视,http://222.68.135.70:5555/TVOD/1000000001000013731/ystenlive/index.m3u8?ace
-辽宁卫视,http://222.68.135.70:5555/TVOD/5000000004000011671/bestzb/index.m3u8?ace
-辽宁卫视,http://222.68.135.70:5555/TVOD/1000000001000001945/ystenlive/index.m3u8?ace
-辽宁卫视,http://222.68.135.70:5555/TVOD/1000000005000265022/ystenlive/index.m3u8?ace
 辽宁卫视,http://222.68.135.70:5555/TVOD/5000000001000008940/bestzb/index.m3u8?ace
 辽宁卫视,http://222.68.135.70:5555/TVOD/1000000002000024033/ystenlive/index.m3u8?ace
 内蒙古卫视,http://222.68.135.70:5555/TVOD/1000000002000014080/ystenlive/index.m3u8?ace
@@ -245,171 +48,18 @@ CCTV17 农业农村,http://222.68.135.70:5555/TVOD/1000000005000056836/ystenlive
 青海卫视,http://222.68.135.70:5555/TVOD/1000000002000013359/ystenlive/index.m3u8?ace
 青海卫视,http://222.68.135.70:5555/TVOD/5000000006000040015/bestzb/index.m3u8?ace
 厦门卫视,http://222.68.135.70:5555/TVOD/1000000005000266006/ystenlive/index.m3u8?ace
-山东教育卫视,http://222.68.135.70:5555/TVOD/1000000002000004097/ystenlive/index.m3u8?ace
-山东教育卫视,http://222.68.135.70:5555/TVOD/2000000003000000013/hnbblive/index.m3u8?ace
-山东卫视,http://222.68.135.70:5555/TVOD/6000000001000004134/wasusyt/index.m3u8?ace
-山东卫视,http://222.68.135.70:5555/TVOD/1000000001000016568/ystenlive/index.m3u8?ace
-山东卫视,http://222.68.135.70:5555/TVOD/5000000004000020424/bestzb/index.m3u8?ace
-山东卫视,http://222.68.135.70:5555/TVOD/1000000005000265019/ystenlive/index.m3u8?ace
-山东卫视,http://222.68.135.70:5555/TVOD/5000000010000027763/bestzb/index.m3u8?ace
-山东卫视,http://222.68.135.70:5555/TVOD/1000000001000012807/ystenlive/index.m3u8?ace
-山西卫视,http://222.68.135.70:5555/TVOD/1000000002000021220/ystenlive/index.m3u8?ace
-山西卫视,http://222.68.135.70:5555/TVOD/5000000006000040023/bestzb/index.m3u8?ace
-陕西农林卫视,http://222.68.135.70:5555/TVOD/2000000003000000046/hnbblive/index.m3u8?ace
-陕西农林卫视,http://222.68.135.70:5555/TVOD/1000000005000266003/ystenlive/index.m3u8?ace
-陕西卫视,http://222.68.135.70:5555/TVOD/1000000002000007495/ystenlive/index.m3u8?ace
-陕西卫视,http://222.68.135.70:5555/TVOD/5000000006000040017/bestzb/index.m3u8?ace
-上海ICS外语,http://222.68.135.70:5555/TVOD/5000000010000030951/bestzb/index.m3u8?ace
-上海ICS外语,http://222.68.135.70:5555/TVOD/2000000002000000001/hnbblive/index.m3u8?ace
-上海第一财经,http://222.68.135.70:5555/TVOD/5000000010000027146/bestzb/index.m3u8?ace
-上海第一财经,http://222.68.135.70:5555/TVOD/2000000002000000004/hnbblive/index.m3u8?ace
-上海东方财经,http://222.68.135.70:5555/TVOD/5000000007000010003/bestzb/index.m3u8?ace
-上海东方财经,http://222.68.135.70:5555/TVOD/2000000002000000090/hnbblive/index.m3u8?ace
-上海东方卫视,http://222.68.135.70:5555/TVOD/5000000004000014098/bestzb/index.m3u8?ace
-上海东方卫视,http://222.68.135.70:5555/TVOD/6000000001000003639/wasusyt/index.m3u8?ace
 上海东方卫视,http://222.68.135.70:5555/TVOD/1000000001000005866/ystenlive/index.m3u8?ace
-上海东方卫视,http://222.68.135.70:5555/TVOD/1000000005000265018/ystenlive/index.m3u8?ace
-上海东方卫视,http://222.68.135.70:5555/TVOD/5000000010000032246/bestzb/index.m3u8?ace
-上海东方卫视,http://222.68.135.70:5555/TVOD/1000000001000030202/ystenlive/index.m3u8?ace
-上海东方卫视,http://222.68.135.70:5555/TVOD/2000000002000000056/hnbblive/index.m3u8?ace
-上海东方影视,http://222.68.135.70:5555/TVOD/5000000010000032212/bestzb/index.m3u8?ace
-上海东方影视,http://222.68.135.70:5555/TVOD/2000000002000000013/hnbblive/index.m3u8?ace
-上海都市,http://222.68.135.70:5555/TVOD/5000000010000018926/bestzb/index.m3u8?ace
-上海都市,http://222.68.135.70:5555/TVOD/2000000002000000012/hnbblive/index.m3u8?ace
-上海法治天地,http://222.68.135.70:5555/TVOD/2000000002000000014/hnbblive/index.m3u8?ace
-上海哈哈炫动,http://222.68.135.70:5555/TVOD/5000000011000031123/bestzb/index.m3u8?ace
-上海哈哈炫动,http://222.68.135.70:5555/TVOD/5000000005000031641/bestzb/index.m3u8?ace
-上海哈哈炫动,http://222.68.135.70:5555/TVOD/1000000002000000172/ystenlive/index.m3u8?ace
-上海纪实人文,http://222.68.135.70:5555/TVOD/1000000001000016545/ystenlive/index.m3u8?ace
-上海纪实人文,http://222.68.135.70:5555/TVOD/5000000004000010282/bestzb/index.m3u8?ace
-上海纪实人文,http://222.68.135.70:5555/TVOD/1000000005000265021/ystenlive/index.m3u8?ace
-上海纪实人文,http://222.68.135.70:5555/TVOD/5000000001000021713/bestzb/index.m3u8?ace
-上海纪实人文,http://222.68.135.70:5555/TVOD/1000000001000010606/ystenlive/index.m3u8?ace
-上海五星体育,http://222.68.135.70:5555/TVOD/5000000010000017540/bestzb/index.m3u8?ace
-上海五星体育,http://222.68.135.70:5555/TVOD/2000000002000000007/hnbblive/index.m3u8?ace
-上海新闻综合,http://222.68.135.70:5555/TVOD/5000000011000031110/bestzb/index.m3u8?ace
-上海新闻综合,http://222.68.135.70:5555/TVOD/2000000002000000005/hnbblive/index.m3u8?ace
-深圳卫视,http://222.68.135.70:5555/TVOD/5000000004000007410/bestzb/index.m3u8?ace
-深圳卫视,http://222.68.135.70:5555/TVOD/6000000001000002116/wasusyt/index.m3u8?ace
-深圳卫视,http://222.68.135.70:5555/TVOD/1000000001000009227/ystenlive/index.m3u8?ace
-深圳卫视,http://222.68.135.70:5555/TVOD/1000000005000265028/ystenlive/index.m3u8?ace
-深圳卫视,http://222.68.135.70:5555/TVOD/5000000010000024026/bestzb/index.m3u8?ace
-深圳卫视,http://222.68.135.70:5555/TVOD/1000000001000011645/ystenlive/index.m3u8?ace
-四川康巴卫视,http://222.68.135.70:5555/TVOD/1000000005000266002/ystenlive/index.m3u8?ace
-四川康巴卫视,http://222.68.135.70:5555/TVOD/5000000003000001598/bestzb/index.m3u8?ace
-四川卫视,http://222.68.135.70:5555/TVOD/5000000004000006119/bestzb/index.m3u8?ace
-四川卫视,http://222.68.135.70:5555/TVOD/1000000002000016825/ystenlive/index.m3u8?ace
-探索纪录,http://222.68.135.70:5555/TVOD/2000000004000000007/hnbblive/index.m3u8?ace
-探索纪录,http://222.68.135.70:5555/TVOD/5359008697329269813/wasusyt/index.m3u8?ace
-天津卫视,http://222.68.135.70:5555/TVOD/5000000004000006827/bestzb/index.m3u8?ace
-天津卫视,http://222.68.135.70:5555/TVOD/6000000001000009186/wasusyt/index.m3u8?ace
-天津卫视,http://222.68.135.70:5555/TVOD/1000000001000003475/ystenlive/index.m3u8?ace
-天津卫视,http://222.68.135.70:5555/TVOD/1000000005000265026/ystenlive/index.m3u8?ace
-天津卫视,http://222.68.135.70:5555/TVOD/5000000001000030788/bestzb/index.m3u8?ace
-天津卫视,http://222.68.135.70:5555/TVOD/1000000001000000831/ystenlive/index.m3u8?ace
-西藏藏语卫视,http://222.68.135.70:5555/TVOD/5000000002000021549/bestzb/index.m3u8?ace
-西藏卫视,http://222.68.135.70:5555/TVOD/1000000002000015894/ystenlive/index.m3u8?ace
-新海南,http://222.68.135.70:5555/TVOD/2000000003000000011/hnbblive/index.m3u8?ace
-新疆卫视,http://222.68.135.70:5555/TVOD/1000000002000029441/ystenlive/index.m3u8?ace
-新疆卫视,http://222.68.135.70:5555/TVOD/5000000006000040018/bestzb/index.m3u8?ace
-炫动3D,http://222.68.135.70:5555/TVOD/2000000004000000012/hnbblive/index.m3u8?ace
-炫动3D,http://222.68.135.70:5555/TVOD/6000000003000000558/wasusyt/index.m3u8?ace
-云南卫视,http://222.68.135.70:5555/TVOD/5000000011000031120/bestzb/index.m3u8?ace
-云南卫视,http://222.68.135.70:5555/TVOD/1000000002000024694/ystenlive/index.m3u8?ace
-云南卫视,http://222.68.135.70:5555/TVOD/5000000006000040019/bestzb/index.m3u8?ace
-浙江教科影视,http://222.68.135.70:5555/TVOD/2000000004000000001/hnbblive/index.m3u8?ace
-浙江卫视,http://222.68.135.70:5555/TVOD/5000000004000007275/bestzb/index.m3u8?ace
-浙江卫视,http://222.68.135.70:5555/TVOD/6000000001000032070/wasusyt/index.m3u8?ace
-浙江卫视,http://222.68.135.70:5555/TVOD/1000000001000014260/ystenlive/index.m3u8?ace
-浙江卫视,http://222.68.135.70:5555/TVOD/1000000005000265031/ystenlive/index.m3u8?ace
-浙江卫视,http://222.68.135.70:5555/TVOD/5000000010000017320/bestzb/index.m3u8?ace
-浙江卫视,http://222.68.135.70:5555/TVOD/1000000001000009806/ystenlive/index.m3u8?ace
-重庆卫视,http://222.68.135.70:5555/TVOD/1000000001000001096/ystenlive/index.m3u8?ace
-重庆卫视,http://222.68.135.70:5555/TVOD/5000000004000025797/bestzb/index.m3u8?ace
-重庆卫视,http://222.68.135.70:5555/TVOD/1000000005000265017/ystenlive/index.m3u8?ace
-重庆卫视,http://222.68.135.70:5555/TVOD/1000000002000018937/ystenlive/index.m3u8?ace
-中国教育1,http://222.68.135.70:5555/TVOD/5000000002000002652/bestzb/index.m3u8?ace
-中国教育1,http://222.68.135.70:5555/TVOD/1000000002000027253/ystenlive/index.m3u8?ace
-中国教育1,http://222.68.135.70:5555/TVOD/6000000003000018981/wasusyt/index.m3u8?ace
-中国教育2,http://222.68.135.70:5555/TVOD/2000000003000000047/hnbblive/index.m3u8?ace
-中国教育2,http://222.68.135.70:5555/TVOD/1000000005000266004/ystenlive/index.m3u8?ace
-中国教育2,http://222.68.135.70:5555/TVOD/5000000011000031201/bestzb/index.m3u8?ace
-中国教育4,http://222.68.135.70:5555/TVOD/5000000011000031126/bestzb/index.m3u8?ace
-中国教育4,http://222.68.135.70:5555/TVOD/1000000005000025333/ystenlive/index.m3u8?ace
-中国教育4,http://222.68.135.70:5555/TVOD/5000000006000012123/bestzb/index.m3u8?ace
-中国教育4,http://222.68.135.70:5555/TVOD/6000000005000042312/wasusyt/index.m3u8?ace
-中国天气,http://222.68.135.70:5555/TVOD/5000000005000031974/bestzb/index.m3u8?ace
-中国天气,http://222.68.135.70:5555/TVOD/2000000002000000057/hnbblive/index.m3u8?ace
-中华美食,http://222.68.135.70:5555/TVOD/2000000003000000052/hnbblive/index.m3u8?ace
-中华美食,http://222.68.135.70:5555/TVOD/1000000005000266015/ystenlive/index.m3u8?ace
-少儿动漫,http://222.68.135.70:5555/TVOD/2000000004000000003/hnbblive/index.m3u8?ace
-少儿动漫,http://222.68.135.70:5555/TVOD/8145334647720731271/wasusyt/index.m3u8?ace
-家庭理财频道,http://222.68.135.70:5555/TVOD/5000000011000031210/bestzb/index.m3u8?ace
-家庭理财频道,http://222.68.135.70:5555/TVOD/2000000002000000064/hnbblive/index.m3u8?ace
-江苏财富天下,http://222.68.135.70:5555/TVOD/5000000011000031208/bestzb/index.m3u8?ace
-江苏财富天下,http://222.68.135.70:5555/TVOD/2000000002000000069/hnbblive/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/5000000004000006692/bestzb/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/6000000001000018044/wasusyt/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/1000000001000032695/ystenlive/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/1000000005000265024/ystenlive/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/5000000010000030452/bestzb/index.m3u8?ace
-湖南卫视,http://222.68.135.70:5555/TVOD/1000000001000009115/ystenlive/index.m3u8?ace
-湖南茶频道,http://222.68.135.70:5555/TVOD/5000000011000031209/bestzb/index.m3u8?ace
-湖南茶频道,http://222.68.135.70:5555/TVOD/2000000002000000070/hnbblive/index.m3u8?ace
-湖南金鹰纪实,http://222.68.135.70:5555/TVOD/5000000011000031203/bestzb/index.m3u8?ace
-湖南金鹰纪实,http://222.68.135.70:5555/TVOD/1000000002000011724/ystenlive/index.m3u8?ace
-湖南金鹰卡通,http://222.68.135.70:5555/TVOD/1000000002000016601/ystenlive/index.m3u8?ace
-湖南金鹰卡通,http://222.68.135.70:5555/TVOD/5000000006000040024/bestzb/index.m3u8?ace
-湖南金鹰卡通,http://222.68.135.70:5555/TVOD/6000000003000016791/wasusyt/index.m3u8?ace
-湖南快乐垂钓,http://222.68.135.70:5555/TVOD/5000000011000031206/bestzb/index.m3u8?ace
-湖南快乐垂钓,http://222.68.135.70:5555/TVOD/2000000002000000067/hnbblive/index.m3u8?ace
-湖南爱晚,http://222.68.135.70:5555/TVOD/6307875884530512195/hnbblive/index.m3u8
-湖南电视剧,http://222.68.135.70:5555/TVOD/8765482907954673867/hnbblive/index.m3u8
-湖南电影,http://222.68.135.70:5555/TVOD/7884242846753128038/hnbblive/index.m3u8
-湖南都市,http://222.68.135.70:5555/TVOD/4682579636905393407/hnbblive/index.m3u8
-湖南国际,http://222.68.135.70:5555/TVOD/5015828848322021526/hnbblive/index.m3u8
-湖南经视,http://222.68.135.70:5555/TVOD/6306119848317438256/hnbblive/index.m3u8
-湖南经视,http://222.68.135.70:5555/TVOD/7766420291569067385/hnbblive/index.m3u8
-湖南娱乐,http://222.68.135.70:5555/TVOD/6427893650335440392/hnbblive/index.m3u8
-哒啵电竞,http://222.68.135.70:5555/TVOD/2000000003000000066/hnbblive/index.m3u8?ace
-哒啵电竞,http://222.68.135.70:5555/TVOD/1000000006000032327/ystenlive/index.m3u8?ace
-哒啵赛事,http://222.68.135.70:5555/TVOD/2000000003000000004/hnbblive/index.m3u8?ace
-哒啵赛事,http://222.68.135.70:5555/TVOD/2000000003000000039/hnbblive/index.m3u8?ace
-哒啵赛事,http://222.68.135.70:5555/TVOD/2000000003000000040/hnbblive/index.m3u8?ace
-哒啵赛事,http://222.68.135.70:5555/TVOD/1000000001000003775/ystenlive/index.m3u8?ace
-哒啵赛事,http://222.68.135.70:5555/TVOD/1000000001000006906/ystenlive/index.m3u8?ace
-电子竞技,http://222.68.135.70:5555/TVOD/2000000004000000015/hnbblive/index.m3u8?ace
-电子竞技,http://222.68.135.70:5555/TVOD/6000000003000011654/wasusyt/index.m3u8?ace
-高清娱乐,http://222.68.135.70:5555/TVOD/2000000004000000013/hnbblive/index.m3u8?ace
-高清娱乐,http://222.68.135.70:5555/TVOD/6000000003000001569/wasusyt/index.m3u8?ace
-黑莓电影,http://222.68.135.70:5555/TVOD/2000000003000000001/hnbblive/index.m3u8?ace
-黑莓电影,http://222.68.135.70:5555/TVOD/1000000004000019624/ystenlive/index.m3u8?ace
-黑莓动画,http://222.68.135.70:5555/TVOD/2000000003000000002/hnbblive/index.m3u8?ace
-黑莓动画,http://222.68.135.70:5555/TVOD/1000000004000021734/ystenlive/index.m3u8?ace
-华数服务,http://222.68.135.70:5555/TVOD/2000000004000000025/hnbblive/index.m3u8?ace
-精彩影视,http://222.68.135.70:5555/TVOD/2000000004000000063/hnbblive/index.m3u8?ace
-精彩影视,http://222.68.135.70:5555/TVOD/6000000006000320630/wasusyt/index.m3u8?ace
-聚鲨环球精选,http://222.68.135.70:5555/TVOD/6000000004000014516/wasusyt/index.m3u8?ace
-漫游世界,http://222.68.135.70:5555/TVOD/2000000004000000017/hnbblive/index.m3u8?ace
-漫游世界,http://222.68.135.70:5555/TVOD/6000000003000028434/wasusyt/index.m3u8?ace
 
-CGTN,http://222.68.135.70:5555/TVOD/7745129417417101820/hnbblive/index.m3u8?ace
-CGTN,http://222.68.135.70:5555/TVOD/1000000002000009569/ystenlive/index.m3u8?ace
 CCTV1,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=cctv1
 
 CCTV2,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=cctv2
 
 CCTV3,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=cctv3
 
-CCTV4,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=cctv4
 
-CCTV4美洲,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=cctv4a
 
-CCTV4欧洲,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=cctv4o
 
-CCTV5,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=cctv5
 
-CCTV5+,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=cctv5p
 
 CCTV6,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=cctv6
 
@@ -454,7 +104,6 @@ CCTV17,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=cctv17
 CGTN,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=cgtn
 
 CETV-1,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=cetv1
-北京卫视,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=bjws
 东方卫视,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=dfws
 
 天津卫视,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=tjws
@@ -489,7 +138,6 @@ CETV-1,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=cetv1
 
 山东卫视,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=sdws
 
-安徽卫视,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=ahws
 
 河南卫视,http://8.138.90.107/公众号睡眼迷离的猫/xx.php?id=henws
 
@@ -588,9 +236,7 @@ CETV-1,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CETV1HD
 
 CETV-4,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CETV4
 
-安徽卫视,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=ANHUIHD
 
-北京卫视,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=BEIJHD
 
 福建东南卫视,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=DONGNHD
 
@@ -659,13 +305,10 @@ CETV-4,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CETV4
 金鹰卡通,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=JYKTHD
 
 
-北京卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=bjws
 
-东方卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=dfws
 
 天津卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=tjws
 
-重庆卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=gdws
 
 黑龙江卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=hljws
 
@@ -673,33 +316,24 @@ CETV-4,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CETV4
 
 辽宁卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=lnws
 
-甘肃卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=gdws
 
 青海卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=qhws
 
-陕西卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=sxws
 
 河北卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=hbws
 
 山东卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=sdws
 
-安徽卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=ahws
 
-河南卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=hnws
 
 湖北卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=hubws
 
 湖南卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=hunws
 
-江西卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=jxws
 
-江苏卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=zjws
 
-浙江卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=zjws
 
-东南卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=dnws
 
-广东卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=gdws
 
 深圳卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=szws
 
@@ -711,7 +345,6 @@ CETV-4,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CETV4
 
 新疆卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=xjws
 
-兵团卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=btws
 
 海南卫视,http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=hinws
 
@@ -752,9 +385,7 @@ CETV-1,https://php.666230.xyz/proxy/p8.php?id=CETV1HD
 
 CETV-4,https://php.666230.xyz/proxy/p8.php?id=CETV4
 
-安徽卫视,https://php.666230.xyz/proxy/p8.php?id=ANHUIHD
 
-北京卫视,https://php.666230.xyz/proxy/p8.php?id=BEIJHD
 
 福建东南卫视,https://php.666230.xyz/proxy/p8.php?id=DONGNHD
 
@@ -782,7 +413,6 @@ CETV-4,https://php.666230.xyz/proxy/p8.php?id=CETV4
 
 江苏卫视,https://php.666230.xyz/proxy/p8.php?id=JIANGSHD
 
-江西卫视,https://php.666230.xyz/proxy/p8.php?id=JXWSHD
 
 辽宁卫视,https://php.666230.xyz/proxy/p8.php?id=LIAONHD
 
@@ -808,7 +438,6 @@ CETV-4,https://php.666230.xyz/proxy/p8.php?id=CETV4
 
 西藏卫视,https://php.666230.xyz/proxy/p8.php?id=XZWS
 
-兵团卫视,https://php.666230.xyz/proxy/p8.php?id=BTWS
 
 新疆卫视,https://php.666230.xyz/proxy/p8.php?id=XJWS
 
@@ -830,7 +459,6 @@ CCTV1综合,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d
  CCTV5+体育赛事,https://www.freetv.top/migu/641886773.m3u8?migutoken=4f1a9fcd002d1813b494eddd61778e103dbe130f4abb409e9032be9917dfd1871014d622a729fd6ffc4e1c376330de3f42c3691e2b49d12f7eb77bdf1887e67a9e6ad438d269a4408f0b3c6bcb
  CCTV6电影,https://www.freetv.top/migu/624878396.m3u8?migutoken=6b67cbdfb1839f227832346707fcbe0f8de95d5df4faa3a63d5243e5f4ca0f52e79f041476a989915ac41a009e4c8f405f58040a4d4ec74bde4c945654300a3c41c00f4d67ef3708cb107ba9e9
  CCTV7国防军事,https://www.freetv.top/migu/673168121.m3u8?migutoken=3253222269368c440aa1d23dba86c186a7b73abdea3890faf72e3d720844f8f1d3adc2b18ed047dbb3eff1a6c5d9379fad37d1f8a380d0e7c69e9ad6eb41709cf92077125fc0bded4cfd47808b
- CCTV8电视剧,https://www.freetv.top/migu/624878356.m3u8?migutoken=fd27f61c7f7fe2cf7f724a0bb82a08a3e2d5c36e0ed91d4004eb9038918cf4e51f974f3288e5832b1e8b7907de8d1a37f400d9f454f47bb3fd4735c99fd4a541c6eea353c7d6d03cf5ec5b7533
  CCTV9纪录,https://www.freetv.top/migu/673168140.m3u8?migutoken=21079ccc296663c0852d7aa559706185d47321c401459ef6e4d341547dda558accb1b561b9935ba84cc9506d0ad03b0489b131d25c50278952093cf2b5b7913fb43c8c0effa57085fdad555379
  CCTV10科教,https://www.freetv.top/migu/624878405.m3u8?migutoken=b1b22121df2bcd800e793b36913fab68d316021b76f648524809136fb73c1f61bca55e7a5b0562383be65dfcb00d638501b42d41f4e66fc266c568cf7a9986d9178f59c8f802bee2700c475a63
  CCTV11戏曲,https://www.freetv.top/migu/667987558.m3u8?migutoken=dbfc420c420e30228efe23e562fc0ee670a65ddac45cc355845b855f27a4e5ba04a7e18d73eb58be7427a4bed6ef9056659fbcf58979a56ccbe84899cfdf0644fc1215333ca6210639196795f2
@@ -891,7 +519,6 @@ CCTV8,http://219.135.180.210:18888/hls/8/index.m3u8
 CCTV8,http://110.53.52.63:8888/newlive/live/hls/10/live.m3u8
 CCTV8,http://3501776.xyz:35455/gaoma/cctv8.m3u8
 CCTV8,http://newtv.fun:35455/gaoma/cctv8k_36m.m3u8
-CCTV8,https://www.freetv.top/migu/624878356.m3u8?migutoken=fd27f61c7f7fe2cf7f724a0bb82a08a3e2d5c36e0ed91d4004eb9038918cf4e51f974f3288e5832b1e8b7907de8d1a37f400d9f454f47bb3fd4735c99fd4a541c6eea353c7d6d03cf5ec5b7533
 CCTV9,http://dsm.huarunguoji.top:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
 CCTV9,http://219.135.180.210:18888/hls/9/index.m3u8
 CCTV9,http://110.53.52.63:8888/newlive/live/hls/11/live.m3u8
@@ -907,248 +534,14 @@ CCTV10,https://www.freetv.top/migu/624878405.m3u8?migutoken=b1b22121df2bcd800e79
 CCTV11,http://dsm.huarunguoji.top:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
 CCTV11,http://219.135.180.210:18888/hls/11/index.m3u8
 CCTV11,http://110.53.52.63:8888/newlive/live/hls/13/live.m3u8
-CCTV11,http://3501776.xyz:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
 CCTV11,http://newtv.fun:35455/gaoma/cctv11.m3u8
 CCTV11,https://www.freetv.top/migu/667987558.m3u8?migutoken=dbfc420c420e30228efe23e562fc0ee670a65ddac45cc355845b855f27a4e5ba04a7e18d73eb58be7427a4bed6ef9056659fbcf58979a56ccbe84899cfdf0644fc1215333ca6210639196795f2
 
 HOT频道,#genre#
-Hot风尚音乐,http://222.68.135.70:5555/TVOD/2000000004000000004/hnbblive/index.m3u8?ace
-Hot风尚音乐,http://222.68.135.70:5555/TVOD/5529729098703832176/wasusyt/index.m3u8?ace
-Hot精品剧场,http://222.68.135.70:5555/TVOD/2000000004000000002/hnbblive/index.m3u8?ace
-Hot精品剧场,http://222.68.135.70:5555/TVOD/8230197131234717902/wasusyt/index.m3u8?ace
-Hot欧美影院,http://222.68.135.70:5555/TVOD/2000000004000000005/hnbblive/index.m3u8?ace
-Hot欧美影院,http://222.68.135.70:5555/TVOD/7185203501769528108/wasusyt/index.m3u8?ace
-Hot亚洲影院,http://222.68.135.70:5555/TVOD/2000000004000000006/hnbblive/index.m3u8?ace
-Hot亚洲影院,http://222.68.135.70:5555/TVOD/5841816227539527643/wasusyt/index.m3u8?ace
-
-NewTV爱情喜剧,http://222.68.135.70:5555/TVOD/2000000003000000010/hnbblive/index.m3u8?ace
-NewTV超级电视剧,http://222.68.135.70:5555/TVOD/1000000006000268003/ystenlive/index.m3u8?ace
-NewTV超级电视剧,http://222.68.135.70:5555/TVOD/2000000003000000032/hnbblive/index.m3u8?ace
-NewTV超级电视剧,http://222.68.135.70:5555/TVOD/1000000001000008139/ystenlive/index.m3u8?ace
-NewTV超级电视剧,http://222.68.135.70:5555/TVOD/1000000004000024993/ystenlive/index.m3u8?ace
-NewTV超级电影,http://222.68.135.70:5555/TVOD/1000000003000012426/ystenlive/index.m3u8?ace
-NewTV超级电影,http://222.68.135.70:5555/TVOD/2000000003000000031/hnbblive/index.m3u8?ace
-NewTV超级电影,http://222.68.135.70:5555/TVOD/1000000001000012884/ystenlive/index.m3u8?ace
-NewTV超级电影,http://222.68.135.70:5555/TVOD/1000000004000002120/ystenlive/index.m3u8?ace
-NewTV超级体育,http://222.68.135.70:5555/TVOD/1000000001000009601/ystenlive/index.m3u8?ace
-NewTV超级体育,http://222.68.135.70:5555/TVOD/2000000003000000030/hnbblive/index.m3u8?ace
-NewTV超级体育,http://222.68.135.70:5555/TVOD/1000000001000009204/ystenlive/index.m3u8?ace
-NewTV超级体育,http://222.68.135.70:5555/TVOD/1000000004000007755/ystenlive/index.m3u8?ace
-NewTV超级综艺,http://222.68.135.70:5555/TVOD/1000000006000268002/ystenlive/index.m3u8?ace
-NewTV超级综艺,http://222.68.135.70:5555/TVOD/2000000003000000029/hnbblive/index.m3u8?ace
-NewTV超级综艺,http://222.68.135.70:5555/TVOD/1000000001000025771/ystenlive/index.m3u8?ace
-NewTV超级综艺,http://222.68.135.70:5555/TVOD/1000000004000023658/ystenlive/index.m3u8?ace
-NewTV潮妈辣婆,http://222.68.135.70:5555/TVOD/2000000003000000018/hnbblive/index.m3u8?ace
-NewTV东北剧场,http://222.68.135.70:5555/TVOD/1000000005000266013/ystenlive/index.m3u8?ace
-NewTV东北热剧,http://222.68.135.70:5555/TVOD/2000000003000000051/hnbblive/index.m3u8?ace
-NewTV动作电影,http://222.68.135.70:5555/TVOD/2000000003000000017/hnbblive/index.m3u8?ace
-NewTV动作电影,http://222.68.135.70:5555/TVOD/1000000004000018653/ystenlive/index.m3u8?ace
-NewTV古装剧场,http://222.68.135.70:5555/TVOD/2000000003000000024/hnbblive/index.m3u8?ace
-NewTV欢乐剧场,http://222.68.135.70:5555/TVOD/2000000003000000050/hnbblive/index.m3u8?ace
-NewTV欢乐剧场,http://222.68.135.70:5555/TVOD/1000000005000266012/ystenlive/index.m3u8?ace
-NewTV家庭剧场,http://222.68.135.70:5555/TVOD/2000000003000000012/hnbblive/index.m3u8?ace
-NewTV家庭剧场,http://222.68.135.70:5555/TVOD/1000000004000008284/ystenlive/index.m3u8?ace
-NewTV金牌综艺,http://222.68.135.70:5555/TVOD/2000000003000000005/hnbblive/index.m3u8?ace
-NewTV金牌综艺,http://222.68.135.70:5555/TVOD/1000000004000026167/ystenlive/index.m3u8?ace
-NewTV惊悚悬疑,http://222.68.135.70:5555/TVOD/2000000003000000015/hnbblive/index.m3u8?ace
-NewTV惊悚悬疑,http://222.68.135.70:5555/TVOD/1000000004000024282/ystenlive/index.m3u8?ace
-NewTV精品大剧,http://222.68.135.70:5555/TVOD/2000000003000000020/hnbblive/index.m3u8?ace
-NewTV精品大剧,http://222.68.135.70:5555/TVOD/1000000004000013968/ystenlive/index.m3u8?ace
-NewTV精品纪录,http://222.68.135.70:5555/TVOD/1000000004000013730/ystenlive/index.m3u8?ace
-NewTV精品记录,http://222.68.135.70:5555/TVOD/2000000003000000019/hnbblive/index.m3u8?ace
-NewTV精品萌宠,http://222.68.135.70:5555/TVOD/2000000003000000067/hnbblive/index.m3u8?ace
-NewTV精品萌宠,http://222.68.135.70:5555/TVOD/1000000006000032328/ystenlive/index.m3u8?ace
-NewTV精品体育,http://222.68.135.70:5555/TVOD/2000000003000000021/hnbblive/index.m3u8?ace
-NewTV精品体育,http://222.68.135.70:5555/TVOD/1000000004000014634/ystenlive/index.m3u8?ace
-NewTV精品综合,http://222.68.135.70:5555/TVOD/2000000003000000008/hnbblive/index.m3u8?ace
-NewTV精品综合,http://222.68.135.70:5555/TVOD/1000000004000019008/ystenlive/index.m3u8?ace
-NewTV军旅剧场,http://222.68.135.70:5555/TVOD/2000000003000000014/hnbblive/index.m3u8?ace
-NewTV军事评论,http://222.68.135.70:5555/TVOD/2000000003000000022/hnbblive/index.m3u8?ace
-NewTV魅力潇湘,http://222.68.135.70:5555/TVOD/2000000003000000041/hnbblive/index.m3u8?ace
-NewTV魅力潇湘,http://222.68.135.70:5555/TVOD/1000000001000006197/ystenlive/index.m3u8?ace
-NewTV魅力潇湘,http://222.68.135.70:5555/TVOD/1000000005000266014/ystenlive/index.m3u8?ace
-NewTV明星大片,http://222.68.135.70:5555/TVOD/2000000003000000016/hnbblive/index.m3u8?ace
-NewTV农业致富,http://222.68.135.70:5555/TVOD/2000000003000000003/hnbblive/index.m3u8?ace
-NewTV武博世界,http://222.68.135.70:5555/TVOD/2000000003000000007/hnbblive/index.m3u8?ace
-NewTV炫舞未来,http://222.68.135.70:5555/TVOD/2000000003000000044/hnbblive/index.m3u8?ace
-NewTV炫舞未来,http://222.68.135.70:5555/TVOD/1000000001000000515/ystenlive/index.m3u8?ace
-NewTV怡伴健康,http://222.68.135.70:5555/TVOD/2000000003000000023/hnbblive/index.m3u8?ace
-NewTV怡伴健康,http://222.68.135.70:5555/TVOD/1000000005000266011/ystenlive/index.m3u8?ace
-NewTV中国功夫,http://222.68.135.70:5555/TVOD/2000000003000000009/hnbblive/index.m3u8?ace
-SiTV动漫秀场,http://222.68.135.70:5555/TVOD/5000000011000031113/bestzb/index.m3u8?ace
-SiTV动漫秀场,http://222.68.135.70:5555/TVOD/5000000002000023636/bestzb/index.m3u8?ace
-SiTV动漫秀场,http://222.68.135.70:5555/TVOD/2000000002000000009/hnbblive/index.m3u8?ace
-SiTV都市剧场,http://222.68.135.70:5555/TVOD/5000000011000031111/bestzb/index.m3u8?ace
-SiTV都市剧场,http://222.68.135.70:5555/TVOD/5000000002000004412/bestzb/index.m3u8?ace
-SiTV都市剧场,http://222.68.135.70:5555/TVOD/2000000002000000015/hnbblive/index.m3u8?ace
-SiTV法治天地,http://222.68.135.70:5555/TVOD/9001547084732463424/bestzb/index.m3u8?ace
-SiTV欢笑剧场,http://222.68.135.70:5555/TVOD/5000000002000009455/bestzb/index.m3u8?ace
-SiTV欢笑剧场,http://222.68.135.70:5555/TVOD/2000000002000000016/hnbblive/index.m3u8?ace
-SiTV金色学堂,http://222.68.135.70:5555/TVOD/5000000010000026105/bestzb/index.m3u8?ace
-SiTV金色学堂,http://222.68.135.70:5555/TVOD/2000000002000000061/hnbblive/index.m3u8?ace
-SiTV劲爆体育,http://222.68.135.70:5555/TVOD/5000000002000029972/bestzb/index.m3u8?ace
-SiTV劲爆体育,http://222.68.135.70:5555/TVOD/2000000002000000008/hnbblive/index.m3u8?ace
-SiTV乐游,http://222.68.135.70:5555/TVOD/5000000011000031112/bestzb/index.m3u8?ace
-SiTV乐游,http://222.68.135.70:5555/TVOD/2000000002000000092/hnbblive/index.m3u8?ace
-SiTV乐游,http://222.68.135.70:5555/TVOD/5000000006000040025/bestzb/index.m3u8?ace
-SiTV乐游,http://222.68.135.70:5555/TVOD/2000000002000000059/hnbblive/index.m3u8?ace
-SiTV魅力足球,http://222.68.135.70:5555/TVOD/5000000011000031207/bestzb/index.m3u8?ace
-SiTV魅力足球,http://222.68.135.70:5555/TVOD/2000000002000000068/hnbblive/index.m3u8?ace
-SiTV七彩戏剧,http://222.68.135.70:5555/TVOD/5000000011000031116/bestzb/index.m3u8?ace
-SiTV七彩戏剧,http://222.68.135.70:5555/TVOD/2000000002000000010/hnbblive/index.m3u8?ace
-SiTV生活时尚,http://222.68.135.70:5555/TVOD/5000000002000019634/bestzb/index.m3u8?ace
-SiTV生活时尚,http://222.68.135.70:5555/TVOD/2000000002000000006/hnbblive/index.m3u8?ace
-SiTV游戏风云,http://222.68.135.70:5555/TVOD/5000000011000031114/bestzb/index.m3u8?ace
-SiTV游戏风云,http://222.68.135.70:5555/TVOD/5000000002000027005/bestzb/index.m3u8?ace
-SiTV游戏风云,http://222.68.135.70:5555/TVOD/2000000002000000011/hnbblive/index.m3u8?ace
-
-爱谍战,http://222.68.135.70:5555/TVOD/6000000006000070630/wasusyt/index.m3u8?ace
-爱谍战,http://222.68.135.70:5555/TVOD/2000000004000000038/hnbblive/index.m3u8?ace
-爱动漫,http://222.68.135.70:5555/TVOD/6000000006000280630/wasusyt/index.m3u8?ace
-爱动漫,http://222.68.135.70:5555/TVOD/2000000004000000059/hnbblive/index.m3u8?ace
-爱都市,http://222.68.135.70:5555/TVOD/6000000006000080630/wasusyt/index.m3u8?ace
-爱怀旧,http://222.68.135.70:5555/TVOD/6000000006000260630/wasusyt/index.m3u8?ace
-爱经典,http://222.68.135.70:5555/TVOD/6000000006000060630/wasusyt/index.m3u8?ace
-爱科幻,http://222.68.135.70:5555/TVOD/6000000006000020630/wasusyt/index.m3u8?ace
-爱科幻,http://222.68.135.70:5555/TVOD/2000000004000000033/hnbblive/index.m3u8?ace
-爱科学,http://222.68.135.70:5555/TVOD/6000000006000160630/wasusyt/index.m3u8?ace
-爱科学,http://222.68.135.70:5555/TVOD/2000000004000000047/hnbblive/index.m3u8?ace
-爱浪漫,http://222.68.135.70:5555/TVOD/6000000006000040630/wasusyt/index.m3u8?ace
-爱浪漫,http://222.68.135.70:5555/TVOD/2000000004000000035/hnbblive/index.m3u8?ace
-爱历史,http://222.68.135.70:5555/TVOD/6000000006000150630/wasusyt/index.m3u8?ace
-爱历史,http://222.68.135.70:5555/TVOD/2000000004000000046/hnbblive/index.m3u8?ace
-爱旅行,http://222.68.135.70:5555/TVOD/6000000006000250630/wasusyt/index.m3u8?ace
-爱旅行,http://222.68.135.70:5555/TVOD/2000000004000000056/hnbblive/index.m3u8?ace
-爱奇谈,http://222.68.135.70:5555/TVOD/6000000006000270630/wasusyt/index.m3u8?ace
-爱奇谈,http://222.68.135.70:5555/TVOD/2000000004000000058/hnbblive/index.m3u8?ace
-爱青春,http://222.68.135.70:5555/TVOD/6000000006000100630/wasusyt/index.m3u8?ace
-爱赛车,http://222.68.135.70:5555/TVOD/6000000006000240630/wasusyt/index.m3u8?ace
-爱赛车,http://222.68.135.70:5555/TVOD/2000000004000000055/hnbblive/index.m3u8?ace
-爱体育,http://222.68.135.70:5555/TVOD/6000000006000290630/wasusyt/index.m3u8?ace
-爱体育,http://222.68.135.70:5555/TVOD/2000000004000000060/hnbblive/index.m3u8?ace
-爱玩具,http://222.68.135.70:5555/TVOD/6000000006000220630/wasusyt/index.m3u8?ace
-爱玩具,http://222.68.135.70:5555/TVOD/2000000004000000053/hnbblive/index.m3u8?ace
-爱喜剧,http://222.68.135.70:5555/TVOD/6000000006000010630/wasusyt/index.m3u8?ace
-爱喜剧,http://222.68.135.70:5555/TVOD/2000000004000000032/hnbblive/index.m3u8?ace
-爱悬疑,http://222.68.135.70:5555/TVOD/6000000006000050630/wasusyt/index.m3u8?ace
-爱悬疑,http://222.68.135.70:5555/TVOD/2000000004000000036/hnbblive/index.m3u8?ace
-爱幼教,http://222.68.135.70:5555/TVOD/6000000006000180630/wasusyt/index.m3u8?ace
-爱幼教,http://222.68.135.70:5555/TVOD/2000000004000000049/hnbblive/index.m3u8?ace
-爱院线,http://222.68.135.70:5555/TVOD/6000000006000030630/wasusyt/index.m3u8?ace
-爱院线,http://222.68.135.70:5555/TVOD/2000000004000000034/hnbblive/index.m3u8?ace
-
-IHOT爱谍战,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-IHOT爱动漫,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/smil/index.m3u8?fmt=ts2hls
 IHOT爱科幻,http://dsm.huarunguoji.top:35455/itv/2000000004000000033.m3u8?cdn=hnbblive
-IHOT爱科幻,http://www.terrykang.xyz:35455/itv/2000000004000000033.m3u8?cdn=hnbblive
-IHOT爱科幻,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/smil/index.m3u8?fmt=ts2hls
-IHOT爱科学,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/smil/index.m3u8?fmt=ts2hls
-IHOT爱浪漫,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/smil/index.m3u8?fmt=ts2hls
-IHOT爱历史,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-IHOT爱旅行,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-IHOT爱奇谈,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/smil/index.m3u8?fmt=ts2hls
-IHOT爱赛车,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-IHOT爱体育,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
-IHOT爱玩具,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/smil/index.m3u8?fmt=ts2hls
-IHOT爱喜剧,http://dsm.huarunguoji.top:35455/itv/2000000004000000032.m3u8?cdn=hnbblive
-IHOT爱喜剧,http://www.terrykang.xyz:35455/itv/2000000004000000032.m3u8?cdn=hnbblive
-IHOT爱喜剧,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/smil/index.m3u8?fmt=ts2hls
-IHOT爱悬疑,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-IHOT爱幼教,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/smil/index.m3u8?fmt=ts2hls
 IHOT爱院线,http://dsm.huarunguoji.top:35455/itv/2000000004000000034.m3u8?cdn=hnbblive
-IHOT爱院线,http://www.terrykang.xyz:35455/itv/2000000004000000034.m3u8?cdn=hnbblive
-IHOT爱院线,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/smil/index.m3u8?fmt=ts2hls
-NEWTV超级电视剧,http://www.terrykang.xyz:35455/itv/1000000004000024993.m3u8?cdn=ystenlive
-NEWTV超级电影,http://www.terrykang.xyz:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
-NEWTV超级体育,http://www.terrykang.xyz:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 
-百视通频道,#genre#
-华语影院,http://222.68.135.70:5555/TVOD/5000000011000288005/bestzb/index.m3u8
-星光影院,http://222.68.135.70:5555/TVOD/5000000011000288013/bestzb/index.m3u8
-全球大片,http://222.68.135.70:5555/TVOD/5000000011000288009/bestzb/index.m3u8
-热门剧场,http://222.68.135.70:5555/TVOD/5000000011000288010/bestzb/index.m3u8
-谍战剧场,http://222.68.135.70:5555/TVOD/5000000011000288004/bestzb/index.m3u8
-青春动漫,http://222.68.135.70:5555/TVOD/5000000011000288008/bestzb/index.m3u8
-宝宝动画,http://222.68.135.70:5555/TVOD/5000000011000288002/bestzb/index.m3u8
-戏曲精选,http://222.68.135.70:5555/TVOD/5000000011000288012/bestzb/index.m3u8
-热门综艺,http://222.68.135.70:5555/TVOD/5000000011000288011/bestzb/index.m3u8
-健康养生,http://222.68.135.70:5555/TVOD/5000000011000288006/bestzb/index.m3u8
-百变课堂,http://222.68.135.70:5555/TVOD/5000000011000288001/bestzb/index.m3u8
-看天下精选,http://222.68.135.70:5555/TVOD/5000000011000288007/bestzb/index.m3u8
-电竞天堂,http://222.68.135.70:5555/TVOD/5000000011000288003/bestzb/index.m3u8
-百视通,http://222.68.135.70:5555/TVOD/5000000001000001116/bestzb/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/5000000001000002898/bestzb/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/5000000001000004876/bestzb/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/5000000001000004953/bestzb/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/5000000001000006777/bestzb/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/5000000001000017342/bestzb/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/5000000001000018009/bestzb/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/5000000001000019233/bestzb/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/5000000001000022620/bestzb/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/5000000001000023256/bestzb/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/5000000001000026930/bestzb/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/2000000002000000050/hnbblive/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/2000000002000000052/hnbblive/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/2000000002000000024/hnbblive/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/2000000002000000025/hnbblive/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/2000000002000000026/hnbblive/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/2000000002000000027/hnbblive/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/2000000002000000028/hnbblive/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/2000000002000000029/hnbblive/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/2000000002000000030/hnbblive/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/2000000002000000049/hnbblive/index.m3u8?ace
-百视通,http://222.68.135.70:5555/TVOD/2000000002000000051/hnbblive/index.m3u8?ace
-咪咕频道,#genre#
-咪咕全民热练,http://222.68.135.70:5555/TVOD/2000000003000000068/hnbblive/index.m3u8?ace
-咪咕全民热练,http://222.68.135.70:5555/TVOD/1000000006000270007/ystenlive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000020000011528/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000020000011529/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000020000011530/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000020000011531/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/2000000003000000060/hnbblive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/2000000003000000061/hnbblive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/2000000003000000062/hnbblive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/2000000003000000063/hnbblive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/2000000003000000064/hnbblive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/2000000003000000065/hnbblive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/1000000006000270001/ystenlive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/1000000006000270002/ystenlive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/1000000006000270003/ystenlive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/1000000006000270004/ystenlive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/1000000006000270005/ystenlive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/1000000006000270006/ystenlive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000000097/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000002019/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000002809/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000003915/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000004193/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000006077/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000006658/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000009788/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000010833/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000011297/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000011518/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000012558/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000012616/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000015470/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000015560/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000017678/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000019839/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000021904/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000023434/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000025380/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000027691/FifastbLive/index.m3u8?ace
-咪咕视频,http://222.68.135.70:5555/TVOD/3000000010000031669/FifastbLive/index.m3u8?ace
-求索频道,#genre#
-求索动物,http://222.68.135.70:5555/TVOD/6000000002000010046/wasusyt/index.m3u8?ace
-求索动物,http://222.68.135.70:5555/TVOD/2000000004000000009/hnbblive/index.m3u8?ace
-求索纪录,http://222.68.135.70:5555/TVOD/6000000002000032052/wasusyt/index.m3u8?ace
-求索纪录,http://222.68.135.70:5555/TVOD/2000000004000000010/hnbblive/index.m3u8?ace
-求索科学,http://222.68.135.70:5555/TVOD/6000000002000032344/wasusyt/index.m3u8?ace
-求索科学,http://222.68.135.70:5555/TVOD/2000000004000000011/hnbblive/index.m3u8?ace
-求索生活,http://222.68.135.70:5555/TVOD/6000000002000003382/wasusyt/index.m3u8?ace
-求索生活,http://222.68.135.70:5555/TVOD/2000000004000000008/hnbblive/index.m3u8?ace
 
 
 ​
@@ -1216,7 +609,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 中华小家,http://61.221.215.25:8800/hls/40/index.m3u8 
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8 
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8 
-49号,http://61.221.215.25:8800/hls/49/index.m3u8 
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8 
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8 
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8 
@@ -1333,7 +725,6 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 
 🌆音乐频道,#genre#
 OFTV音乐台,https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
-音乐欣赏1,http://61.221.215.25:8800/hls/49/index.m3u8
 音乐欣赏2,http://61.221.215.25:8800/hls/58/index.m3u8
 未知音乐,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
 未知音乐2,https://vd2.bdstatic.com/mda-mm4dszarfc74t9mx/sc/cae_h264/1638819159347843097/mda-mm4dszarfc74t9mx.mp4
@@ -1438,7 +829,6 @@ OFTV音乐台,https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:strea
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8#http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd#http://live.wanyuannews.com/wytv/hd/live.m3u8#http://live.wanyuannews.com:80/wytv/hd/live.m3u8
-松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd#http://live.spccmc.com:90/live/spxwzh.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8#http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd#http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd#http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8#http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
@@ -1455,7 +845,6 @@ OFTV音乐台,https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:strea
 利州综合频道,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8#http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv#http://tvfile.lzgbdst.com:80/nmip-media/channellive/channel106876/playlist.m3u8
 青神综合频道,http://lmt.scqstv.com:80/live1/live1.m3u8
 乐至综合频道,http://175.155.106.72:89/live1/live1.m3u8#http://rmlive.lzxrmtzx.com:80/live1/live1.m3u8
-会东综合频道,http://live.schdxww.com:90/live/xwzh.m3u8#http://112.45.133.129:90/live/xwzh.m3u8
 德格综合频道,http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
 康定新闻综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8?zsicd#http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 叙永综合频道,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
@@ -1468,7 +857,6 @@ OFTV音乐台,https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:strea
 金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
 青神综合,http://lmt.scqstv.com/live1/live1.m3u8?zsicd
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd#http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd#http://rmlive.lzxrmtzx.com/live1/live1.m3u8
-会东综合,http://112.45.133.129:90/live/xwzh.m3u8?zsicd#http://live.schdxww.com:90/live/xwzh.m3u8?zsicd
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd
 泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8?zsicd
 马尔康综合频道,http://live.zmmek.com:90/live/zhxw.m3u8
@@ -1502,10 +890,6 @@ OFTV音乐台,https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:strea
 📡安徽频道,#genre#
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
-安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd#http://mmitv.top/test/ahtv.php?id=13
-农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8#http://mmitv.top/test/ahtv.php?id=14
-经济生活,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8#http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8#http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv#http://mmitv.top/test/ahtv.php?id=12
-综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8#http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8#http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd#http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv#http://mmitv.top/test/ahtv.php?id=17
 
 📡河南频道,#genre#
 [河南]焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
@@ -1597,29 +981,20 @@ OFTV音乐台,https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:strea
 📡山西频道,#genre#
 晋城新闻,http://live.jinnews.com.cn/xwzh/sd/live.m3u8?zshanxd
 晋城公共,http://live.jinnews.com.cn/ggpd/sd/live.m3u8?zshanxd
-运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
-运城公共频道,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
-运城科技教育,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8?zshanxd
 晋中新闻,http://jzlive.jztvnews.com:90/live/jzzh.m3u8?zshanxd
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8?zshanxd
 壶关电视台,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8?zshanxd
 武乡新闻综合,http://60.220.198.84:81/0.m3u8
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
-吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
 闻喜综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
-定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
-原平综合,http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8?zshanxd
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
 晋中公共频道,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-运城公共,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 
 📡重庆频道,#genre#
 [重庆]铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
-[重庆]州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?zzhongqd
 [重庆]万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
 [重庆]万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8?zzhongqd
-[重庆]万州三峡移民,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8?zzhongqd
 [重庆]荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?zzhongqd
 [重庆]江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 
@@ -1660,13 +1035,6 @@ OFTV音乐台,https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:strea
 延边一套,https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8
 
 延边二套,https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8
-
-
-
-
-
-
-
 
 
 📡青海频道,#genre#
@@ -2345,42 +1713,10 @@ MATZKA-青苹果乐园(演唱会),http://em.21dtv.com/songs/60064733.mkv
 谢雷-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036261.mkv
 徐小凤-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036262.mkv
 张国荣-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036263.mkv
-甄妮-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036264.mkv
-朱咪咪-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036265.mkv
 欧阳菲菲-热情的沙漠,http://em.21dtv.com/songs/60036266.mkv
 庾澄庆-热情的沙漠,http://em.21dtv.com/songs/60036267.mkv
-钟雅颂-热情的沙漠(演唱会),http://em.21dtv.com/songs/60063455.mkv
-樊奕敏-热情的沙漠(演唱会),http://em.21dtv.com/songs/60064791.mkv
 庾澄庆+吴莫愁+金池+王韵壹-热情的沙漠,http://em.21dtv.com/songs/60071078.mkv
 羽泉-热情的沙漠,http://em.21dtv.com/songs/60077339.mkv
-麦德罗-热情的沙漠(演唱会),http://em.21dtv.com/songs/60077340.mkv
-王栎鑫+俞灏明-热情的沙漠(演唱会),http://em.21dtv.com/songs/60077341.mkv
-庾澄庆组学员-热情的沙漠,http://em.21dtv.com/songs/60081431.mkv
-张靓颖-热情的沙漠,http://em.21dtv.com/songs/60087855.mkv
-苏永康-热情的沙漠,http://em.21dtv.com/songs/60088539.mkv
-古巨基+李泉-热情的沙漠,http://em.21dtv.com/songs/60098177.mkv
-童安格-让生命等候,http://em.21dtv.com/songs/60036098.mkv
-黄凯芹-若生命等候(演唱会),http://em.21dtv.com/songs/60037108.mkv
-陈奕迅-人生马拉松,http://em.21dtv.com/songs/60115486.mkv
-池珍熙-人生蒙太奇,http://em.21dtv.com/songs/60036430.mkv
-TAE-人生马戏团,http://em.21dtv.com/songs/60090439.mkv
-徐小凤-人生满希望(演唱会),http://em.21dtv.com/songs/60036428.mkv
-吕珊-人生满希望(演唱会),http://em.21dtv.com/songs/60077357.mkv
-钟镇涛-让一切随风(演唱会),http://em.21dtv.com/songs/60036211.mkv
-钟镇涛-让一切随风,http://em.21dtv.com/songs/60036212.mkv
-罗敏庄+杜雯惠-让一切随风(演唱会),http://em.21dtv.com/songs/60077335.mkv
-陈慧娴-让一切随风,http://em.21dtv.com/songs/60100587.mkv
-刘德华-世界第一等(演唱会),http://em.21dtv.com/songs/60039259.mkv
-伍佰-世界第一等(演唱会),http://em.21dtv.com/songs/60039260.mkv
-刘德华-世界第一等,http://em.21dtv.com/songs/60039261.mkv
-荒山亮-时间的眼泪,http://em.21dtv.com/songs/60039130.mkv
-袁惟仁-四季的眼泪(演唱会),http://em.21dtv.com/songs/60040677.mkv
-吴蕙君-世界第一勇,http://em.21dtv.com/songs/60135018.mkv
-满文军-圣洁的真爱,http://em.21dtv.com/songs/60091637.mkv
-陈诗莉-世界都知道,http://em.21dtv.com/songs/60077633.mkv
-蔡义德-闪酒大丈夫,http://em.21dtv.com/songs/60104412.mkv
-张清芳-时间的滋味(演唱会),http://em.21dtv.com/songs/60039131.mkv
-汪明荃-书剑恩仇录(演唱会),http://em.21dtv.com/songs/60039732.mkv
 郑少秋-书剑恩仇录(演唱会),http://em.21dtv.com/songs/60039733.mkv
 陈慧娴-逝去的诺言(演唱会),http://em.21dtv.com/songs/60039551.mkv
 张伟文-逝去的诺言(演唱会),http://em.21dtv.com/songs/60039552.mkv
@@ -2561,10 +1897,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 山鹰组合-七月火把节(演唱会),http://em.21dtv.com/songs/60067315.mkv
 容祖儿+古巨基-情义两心坚(演唱会),http://em.21dtv.com/songs/60035407.mkv
 刘德华-如果有一天(演唱会),http://em.21dtv.com/songs/60036969.mkv
-童安格-让生命等候,http://em.21dtv.com/songs/60036098.mkv
-黄凯芹-若生命等候(演唱会),http://em.21dtv.com/songs/60037108.mkv
-钟镇涛-让一切随风(演唱会),http://em.21dtv.com/songs/60036211.mkv
-刘德华-世界第一等(演唱会),http://em.21dtv.com/songs/60039259.mkv
 陈慧娴-逝去的诺言(演唱会),http://em.21dtv.com/songs/60039551.mkv
 伍佰-突然的自我(演唱会),http://em.21dtv.com/songs/60042927.mkv
 彭羚+容祖儿-心淡(演唱会),http://em.21dtv.com/songs/60084239.mkv
@@ -2608,25 +1940,19 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 孙远志-拥抱不及外套,http://em.21dtv.com/songs/60144993.mkv
 孙艺程-再看我一眼,http://em.21dtv.com/songs/60144992.mkv
 孙艳-蓝玫瑰的眼泪,http://em.21dtv.com/songs/60144991.mkv
-孙文-不顾一切爱你,http://em.21dtv.com/songs/60144989.mkv
-孙文-一个人很爱一个人,http://em.21dtv.com/songs/60144988.mkv
 孙俪-忘不掉,http://em.21dtv.com/songs/60144985.mkv
 孔兰兰-爱在草原,http://em.21dtv.com/songs/60144984.mkv
 孔令奇+满舒克-REAL LIFE,http://em.21dtv.com/songs/60144983.mkv
 
 龙梅子-离别的眼泪,http://em.21dtv.com/songs/60145855.mkv
 龙奔-扪心自问,http://em.21dtv.com/songs/60145854.mkv
-龙奔-埋在心里的痛,http://em.21dtv.com/songs/60145853.mkv
-齐秦-乖,http://em.21dtv.com/songs/60145852.mkv
 齐晨-我爱你,http://em.21dtv.com/songs/60145851.mkv
 黑卓-趿拉板鞋,http://em.21dtv.com/songs/60145850.mkv
-黎朝霞-思念,http://em.21dtv.com/songs/60145849.mkv
 黎明-遇见,http://em.21dtv.com/songs/60145848.mkv
 黄韵玲+肖凯晔-生命中的精灵,http://em.21dtv.com/songs/60145847.mkv
 黄韵玲+古洁縈-喜欢你现在的样子,http://em.21dtv.com/songs/60145846.mkv
 黄路梓茵-全都给你了,http://em.21dtv.com/songs/60145845.mkv
 黄路梓茵-倒霉农场,http://em.21dtv.com/songs/60145844.mkv
-黄荣猷-继续重聚,http://em.21dtv.com/songs/60145843.mkv
 黄舒行-孤独,http://em.21dtv.com/songs/60145842.mkv
 黄美珍-旋转木马的独白,http://em.21dtv.com/songs/60145841.mkv
 黄淑惠-危险世界,http://em.21dtv.com/songs/60145840.mkv
@@ -2634,12 +1960,8 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 黄明志-啪啪啪,http://em.21dtv.com/songs/60145838.mkv
 黄小琥-坦白,http://em.21dtv.com/songs/60145837.mkv
 黄宇-你是我永远放不下的缘,http://em.21dtv.com/songs/60145836.mkv
-黄子韬-想成为你,http://em.21dtv.com/songs/60145835.mkv
 黄婷婷-黑夜女神,http://em.21dtv.com/songs/60145834.mkv
-黄姗姗-盛夏,http://em.21dtv.com/songs/60145833.mkv
-黄伟霖+郭少轩-寂寞魂,http://em.21dtv.com/songs/60145832.mkv
 黄伟霖-残月,http://em.21dtv.com/songs/60145831.mkv
-黄伟霖-MY LOVE,http://em.21dtv.com/songs/60145830.mkv
 黄云龙-诸葛说,http://em.21dtv.com/songs/60145829.mkv
 鹿晗-追梦赤子心,http://em.21dtv.com/songs/60145828.mkv
 鹏涛-默守情缘,http://em.21dtv.com/songs/60145827.mkv
@@ -2647,7 +1969,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 魏菲儿-谷雨承康,http://em.21dtv.com/songs/60145825.mkv
 魏小也-太平公主,http://em.21dtv.com/songs/60145824.mkv
 魏妙如-妙不可言,http://em.21dtv.com/songs/60145823.mkv
-魏如萱+杜星萤-末路狂花,http://em.21dtv.com/songs/60145822.mkv
 魏佳艺-不正经姑娘,http://em.21dtv.com/songs/60145821.mkv
 高进-靠自己,http://em.21dtv.com/songs/60145820.mkv
 高翊菲-泸沽湖的女儿,http://em.21dtv.com/songs/60145819.mkv
@@ -2658,7 +1979,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 马昕-如果爱情是海,http://em.21dtv.com/songs/60145814.mkv
 马旗-警卫兵最忠诚,http://em.21dtv.com/songs/60145813.mkv
 马旗-小小的哨所,http://em.21dtv.com/songs/60145812.mkv
-马文吉-用尽一生去爱你,http://em.21dtv.com/songs/60145811.mkv
 马宥熙-最好的前任,http://em.21dtv.com/songs/60145810.mkv
 马嘉瞳+田正-愁人的青春,http://em.21dtv.com/songs/60145809.mkv
 马向雷-寂寞的夜里我不能入睡,http://em.21dtv.com/songs/60145808.mkv
@@ -2813,7 +2133,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 轻云望月-求你给我一点爱,http://em.21dtv.com/songs/60145649.mkv
 车建光-给你全部,http://em.21dtv.com/songs/60145648.mkv
 路逍遥-陪你说说话,http://em.21dtv.com/songs/60145647.mkv
-路逍遥-老婆你是我心中的玫瑰,http://em.21dtv.com/songs/60145646.mkv
 路逍遥-爱了痛了笑了哭,http://em.21dtv.com/songs/60145645.mkv
 路逍遥-我坚信,http://em.21dtv.com/songs/60145644.mkv
 路逍遥-我们是永远的好兄弟,http://em.21dtv.com/songs/60145643.mkv
@@ -2866,25 +2185,21 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 许飞-如果你想做一些别人做不到的事,http://em.21dtv.com/songs/60145596.mkv
 许靖韵-琢磨,http://em.21dtv.com/songs/60145595.mkv
 许霖-大结局,http://em.21dtv.com/songs/60145594.mkv
-许蕴熙-一把雨伞,http://em.21dtv.com/songs/60145593.mkv
 许耀奇-中国好妈妈,http://em.21dtv.com/songs/60145592.mkv
 许歌淳一-萤火虫对星星说,http://em.21dtv.com/songs/60145591.mkv
 许廷铿-神奇之旅,http://em.21dtv.com/songs/60145590.mkv
 许巍-四季,http://em.21dtv.com/songs/60145589.mkv
 许大伟-兄弟有我,http://em.21dtv.com/songs/60145587.mkv
 许先-哑巴,http://em.21dtv.com/songs/60145586.mkv
-许亮宇+梁祖仪-注定要分开,http://em.21dtv.com/songs/60145585.mkv
 许亮宇-色盲,http://em.21dtv.com/songs/60145584.mkv
 许一鸣-我如此爱你,http://em.21dtv.com/songs/60145583.mkv
 覃源-到后来我才懂,http://em.21dtv.com/songs/60145582.mkv
 覃浩-傻瓜,http://em.21dtv.com/songs/60145581.mkv
 覃春泉-情控,http://em.21dtv.com/songs/60145580.mkv
 袁莉媛-最灵,http://em.21dtv.com/songs/60145579.mkv
-袁宇-开心的果实,http://em.21dtv.com/songs/60145578.mkv
 袁娅维+艾福杰尼-一见如故,http://em.21dtv.com/songs/60145577.mkv
 袁娅维+PG ONE-BURN,http://em.21dtv.com/songs/60145576.mkv
 袁双洋+梁铖+郑敏-托起战鹰的翅膀,http://em.21dtv.com/songs/60145575.mkv
-衡越+侯旭-秸杆颂歌,http://em.21dtv.com/songs/60145574.mkv
 薛家燕-家中的太阳,http://em.21dtv.com/songs/60145573.mkv
 薛凯琪-远远关心,http://em.21dtv.com/songs/60145572.mkv
 薛凯琪-520,http://em.21dtv.com/songs/60145571.mkv
@@ -2894,14 +2209,9 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 蔡恩雨-I LOVE THE SKY,http://em.21dtv.com/songs/60145566.mkv
 蔡宗强-不为谁而作的歌,http://em.21dtv.com/songs/60145565.mkv
 蔡义德+澎恰恰-咱是一家人,http://em.21dtv.com/songs/60145564.mkv
-蔡义德+戴梅君-将你惜命命,http://em.21dtv.com/songs/60145563.mkv
-蔡义德-没你那有我,http://em.21dtv.com/songs/60145562.mkv
 蔡义德-无理由,http://em.21dtv.com/songs/60145561.mkv
-蔡义德-冲冲冲,http://em.21dtv.com/songs/60145560.mkv
-蓝冰儿-欺爱,http://em.21dtv.com/songs/60145559.mkv
 蒋舟+龚丹-大愿九华,http://em.21dtv.com/songs/60145558.mkv
 蒋旭-伤了我还说爱我,http://em.21dtv.com/songs/60145557.mkv
-蒋婴-爱那么近那么远,http://em.21dtv.com/songs/60145556.mkv
 董育君-已读不回,http://em.21dtv.com/songs/60145555.mkv
 董姿彦-我要你的爱,http://em.21dtv.com/songs/60145554.mkv
 董冉-空荡荡的夜,http://em.21dtv.com/songs/60145553.mkv
@@ -3124,7 +2434,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 毛不易-深夜一角,http://em.21dtv.com/songs/60145324.mkv
 毛不易-明天的孩子们,http://em.21dtv.com/songs/60145323.mkv
 毛不易-故乡游,http://em.21dtv.com/songs/60145322.mkv
-毛不易-借,http://em.21dtv.com/songs/60145321.mkv
 毛不易-借,http://em.21dtv.com/songs/60145320.mkv
 毛不易-IMAGINE,http://em.21dtv.com/songs/60145319.mkv
 毕婕-罗定在哪里,http://em.21dtv.com/songs/60145318.mkv
@@ -3135,7 +2444,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 正熙-勒索,http://em.21dtv.com/songs/60145312.mkv
 歌声飞扬-爱到深处全是泪,http://em.21dtv.com/songs/60145311.mkv
 歆小瑶-旧的事情,http://em.21dtv.com/songs/60145310.mkv
-欧阳靖-零,http://em.21dtv.com/songs/60145309.mkv
 欧阳靖-一起HAPPY2017,http://em.21dtv.com/songs/60145308.mkv
 欧阳尚尚-生意兴隆,http://em.21dtv.com/songs/60145307.mkv
 欧阳尚尚-别掉眼泪,http://em.21dtv.com/songs/60145306.mkv
@@ -3144,9 +2452,7 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 樊少华+唐薇-爱情的力量,http://em.21dtv.com/songs/60145303.mkv
 樊君吉-匆匆,http://em.21dtv.com/songs/60145302.mkv
 森美-在这世界看不够,http://em.21dtv.com/songs/60145301.mkv
-梦然-不以为然,http://em.21dtv.com/songs/60145300.mkv
 梦先生-苏丽+SUELY,http://em.21dtv.com/songs/60145299.mkv
-梓赫-早说,http://em.21dtv.com/songs/60145298.mkv
 梅朵措-舟曲呀罗,http://em.21dtv.com/songs/60145297.mkv
 梅朵-温柔岁月,http://em.21dtv.com/songs/60145296.mkv
 梅朵-柔软女人心,http://em.21dtv.com/songs/60145295.mkv
@@ -3166,7 +2472,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 格子兮-枫林尽染,http://em.21dtv.com/songs/60145281.mkv
 柳欢欢-此心无悔,http://em.21dtv.com/songs/60145280.mkv
 柠洁-命运交响曲,http://em.21dtv.com/songs/60145279.mkv
-柠洁-不要隐藏,http://em.21dtv.com/songs/60145278.mkv
 林育品-我的爱情不平凡,http://em.21dtv.com/songs/60145277.mkv
 林欣甫-十三月的雨,http://em.21dtv.com/songs/60145276.mkv
 林德信-FIRELIGHT,http://em.21dtv.com/songs/60145275.mkv
@@ -3198,7 +2503,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 杨丞琳-青春住了谁,http://em.21dtv.com/songs/60145249.mkv
 杨东伟-站台一别情成殇,http://em.21dtv.com/songs/60145248.mkv
 杜怿超-WIOT,http://em.21dtv.com/songs/60145247.mkv
-杜志宏-土豆歌,http://em.21dtv.com/songs/60145246.mkv
 杜侑澎-那笑容是夏天的,http://em.21dtv.com/songs/60145245.mkv
 杜侑澎-你是传奇,http://em.21dtv.com/songs/60145244.mkv
 杜佳-让我怎么样,http://em.21dtv.com/songs/60145243.mkv
@@ -3347,7 +2651,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 张信哲-见坏就收,http://em.21dtv.com/songs/60145086.mkv
 张伟-我们是兄弟,http://em.21dtv.com/songs/60145085.mkv
 张也-寻梦崀山,http://em.21dtv.com/songs/60145084.mkv
-张三弥-隐形病症,http://em.21dtv.com/songs/60145083.mkv
 廖媛-襄水河畔,http://em.21dtv.com/songs/60145082.mkv
 庞龙-躲在心里的时光,http://em.21dtv.com/songs/60145081.mkv
 庄振凯+杨静-床头梦,http://em.21dtv.com/songs/60145079.mkv
@@ -3356,7 +2659,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 平安-变脸,http://em.21dtv.com/songs/60145076.mkv
 常小宝-最爱宋小宝,http://em.21dtv.com/songs/60145075.mkv
 席木梓-我相信,http://em.21dtv.com/songs/60145074.mkv
-希林娜依·高-她来听我的演唱会,http://em.21dtv.com/songs/60145073.mkv
 帅霖-我不甘心,http://em.21dtv.com/songs/60145072.mkv
 布志纶-人在野,http://em.21dtv.com/songs/60145071.mkv
 川妹子梅梅-猪哥哥爱上傻妹妹,http://em.21dtv.com/songs/60145070.mkv
@@ -3388,13 +2690,10 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 小缘-宇宙少女梦,http://em.21dtv.com/songs/60145038.mkv
 小琢-心中的汤池,http://em.21dtv.com/songs/60145037.mkv
 小琢-墨色,http://em.21dtv.com/songs/60145036.mkv
-小潘-有没有这样的夜你也会想起我,http://em.21dtv.com/songs/60145035.mkv
 小木-桑道轮回,http://em.21dtv.com/songs/60145034.mkv
-小曾-等我从战场回来,http://em.21dtv.com/songs/60145033.mkv
 小曾-我用准备打仗的方式致敬青春,http://em.21dtv.com/songs/60145032.mkv
 小旭音乐-醉沙场,http://em.21dtv.com/songs/60145030.mkv
 小旭乐团-百鬼传说,http://em.21dtv.com/songs/60145029.mkv
-小旭PRO-幻想者,http://em.21dtv.com/songs/60145027.mkv
 小旭AUV-中国茶,http://em.21dtv.com/songs/60145026.mkv
 小小浩+阿夏-故事里没有你,http://em.21dtv.com/songs/60145025.mkv
 小宇-不好过,http://em.21dtv.com/songs/60145024.mkv
@@ -3428,8 +2727,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 孙远志-拥抱不及外套,http://em.21dtv.com/songs/60144993.mkv
 孙艺程-再看我一眼,http://em.21dtv.com/songs/60144992.mkv
 孙艳-蓝玫瑰的眼泪,http://em.21dtv.com/songs/60144991.mkv
-孙文-不顾一切爱你,http://em.21dtv.com/songs/60144989.mkv
-孙文-一个人很爱一个人,http://em.21dtv.com/songs/60144988.mkv
 孙俪-忘不掉,http://em.21dtv.com/songs/60144985.mkv
 孔兰兰-爱在草原,http://em.21dtv.com/songs/60144984.mkv
 孔令奇+满舒克-REAL LIFE,http://em.21dtv.com/songs/60144983.mkv
@@ -3791,15 +3088,13 @@ MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmvSR7QUoyNbK5wQ.mp4
 经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
 
 
-💫4k高清dj,#genre#
+
 
 
 
 🌹获取密码,#genre#
 编号,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
-🌹古装三级_267,#genre#
-被牺牲的妻子,https://8xi78.xyz/assets/10199a8bfd134675b8456e92fcbe9b27.mp4
 
 
 🌹一本道道_267,#genre#
@@ -3809,7 +3104,6 @@ MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmvSR7QUoyNbK5wQ.mp4
 一本道_4,https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8
 一本道_5,https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8
 一本道_6,https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8
-一本道_7,https://vip4.ddyunbo.com/20210203/DYtc79vE/index.m3u8
 一本道_8,https://vip4.ddyunbo.com/20210202/cy0urBhD/index.m3u8
 一本道_9,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8
 一本道_10,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8
@@ -4186,7 +3480,6 @@ Girl & Girl 20,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/460
 Girl & Girl 22,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/4507.mp4
 Girl & Girl 24,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/12646.mp4
 Girl & Girl 25,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/3108.mp4
-Girl & Girl 26,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/16443.mp4
 Girl & Girl 27,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/14002.mp4
 Girl & Girl 29,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/4972.mp4
 Girl & Girl 30,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/20606.mp4
@@ -4198,7 +3491,6 @@ Petite schoolgirl Marsha May takes huge cock during the exam,https://vip1.slbfsl
 Married beauty with big boobs Satin Bloom gets assfucked in front of her husband,https://vip1.slbfsl.com/20221026/TwszBvPr/index.m3u8
 Athletic fitness trainer Victoria June gets hard fucked during workout,https://vip1.slbfsl.com/20221026/0syfhs47/index.m3u8
 Young blonde Naomi Woods and her mature mentor Karla Kush on black penis,https://vip1.slbfsl.com/20221027/vGoKS7Y4/index.m3u8
-BrazzersExxtra - Aiden Ashley - From The Streets To The Sheets,https://vip1.slbfsl.com/20221101/BMoHXPdy/index.m3u8
 [美国]门环公爵2(1992),https://vip2.slbfsl.com/20230330/BoK9KIV6/index.m3u8
 大屁股拉丁玫瑰梦露被大家伙邓肯圣徒搞砸了,https://vip1.slbfsl.com/20220807/OxCN6Y5O/index.m3u8
 娇小的强盗被泰勒钢困住并受到惩罚,https://vip1.slbfsl.com/20220807/pU1ajEzy/index.m3u8
@@ -4247,7 +3539,6 @@ RedlightHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/9066/index.m3u8
 VividRedHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/2162/index.m3u8
 GotMYLF,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6216/index.m3u8
 MIAA-248奏音花音,https://videomy.yongaomy.com/20210721/6NCwf1nt/1500kb/hls/index.m3u8
-TrueAmateurs,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6260/index.m3u8
 妹妹,https://videomy.yongaomy.com:8091/20200126/SW-587/1500kb/hls/index.m3u8
 Extreme,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6273/index.m3u8
 悲剧女主播,https://videomy.yongaomy.com:8091/20191223/TOz9KzyG/1500kb/hls/index.m3u8
@@ -4328,7 +3619,6 @@ Interracial,http://cdn.adultiptv.net/interracial.m3u8
 Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
 ExxxoticaHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/2397/index.m3u8
 HOTXXLHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6276/index.m3u8
-御尸九式操服女僵,https://video2.51daao.com/btt1/2021/06/20210614/23uitKTM/index.m3u8
 老公懷疑我出軌[1920*1080],https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
 爆多！精液射滿ㄧ直滴到床上[1920*1080],https://v10.ripic.xyz/61466eee6bb8f7e6d5951975/video.m3u8
 口交5分鐘不射就內射[1920*1080],https://v10.ripic.xyz/60de050fb89f73afd3e60da9/video.m3u8
@@ -4340,15 +3630,6 @@ HOTXXLHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6276/index.m3u8
 学院派女神性急在车上就脱裤搞起后入大屁股,http://1465.vod.adultiptv.net/ph5b7ee27f31261/play.m3u8
 Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 ♨️104k，https://videos3.naibago.com/20220418/220327a0786/index.m3u8
-JUY-385大岛优香,https://video2.51daao.com/btt1/2021/10/20211017/V7WwMk16/2000kb/hls/index.m3u8
-UMD-737奏音花音,https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
-老逗02,https://video2.51daao.com/btt1/2021/07/20210708/BZzer3Ux/index.m3u8
-老逗04,https://video2.51daao.com/btt1/2021/07/20210708/oYUIog13/index.m3u8
-老逗05,https://video2.51daao.com/btt1/2021/07/20210708/638JxHDT/index.m3u8
-老逗06,https://video2.51daao.com/btt1/2021/07/20210708/p0Rc4r0U/index.m3u8
-老逗07,https://video2.51daao.com/btt1/2021/07/20210708/NgWctczB/index.m3u8
-老逗08,https://video2.51daao.com/btt1/2021/07/20210708/bYBjIW96/index.m3u8
-老逗09,https://video2.51daao.com/btt1/2021/07/20210705/n5SAqcBX/index.m3u8
 
 
 🌹东京不热_267,#genre#
@@ -4384,14 +3665,6 @@ UMD-737奏音花音,https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/200
 お釣り渡す時に手をぎゅっと握ってくれるコンビニ店員の子が,https://vip2.slbfsl.com/20230325/AijPBr8B/index.m3u8
 そらちゃんラストセックス＆童貞筆おろし,https://vip2.slbfsl.com/20230329/RSbj5ghn/index.m3u8
 ハメ撮り面接,https://vip2.slbfsl.com/20230330/zWEeijwb/index.m3u8
-Bella性麻豆傳媒影片流出,https://video2.51daao.com/btt1/2020/07/20200705/ZBECSx9p/index.m3u8
-按摩師口交絕活,https://video2.51daao.com/btt1/2020/08/20200805/X41j7v13/index.m3u8
-爆乳女神報復小三,https://video2.51daao.com/btt1/2020/05/20200521/AXXAqVty/index.m3u8
-貝拉-水果攤女老闆的特殊服務,https://video2.51daao.com/btt1/2020/07/20200705/kpmkY7sX/index.m3u8
-變態醫生的新生入學檢查,https://video2.51daao.com/btt1/2020/12/20201213/NVU8crK3/index.m3u8
-表姐在旁邊還敢偷吃姐夫,https://video2.51daao.com/btt1/2020/10/20201027/44byFoL2/index.m3u8
-不講理女友,https://video2.51daao.com/btt1/2021/01/20210102/LjwUcgQI/index.m3u8
-落地窗前激烈運動,https://video2.51daao.com/btt1/2020/12/20201227/SSdiSWM6/index.m3u8
 食奴尻,https://vip2.slbfsl.com/20230227/XuBpN6Pt/index.m3u8
 所有作品完成8小時,https://vip2.slbfsl.com/20230228/dVpWjPBq/index.m3u8
 中に出すまで逃さない！1,https://vip2.slbfsl.com/20230304/w3U5PLjp/index.m3u8
@@ -4538,7 +3811,6 @@ XKTC013下海援交日記之墮落的網紅,https://vip2.slbfsl.com/20230125/eIo
 1.2米大长腿第01集,https://lbbf9.com/20200225/GmbOWiPB/index.m3u8
 1.2米大长腿第02集,https://lbbf9.com/20200225/IfoWBV5a/index.m3u8
 國產源擼閣①,https://lbbf9.com/20191102/8tOZ9w12/index.m3u8
-國產源擼閣②,https://lbbf9.com/20191030/hwjpxFVH/index.m3u8
 國產源擼閣③,https://lbbf9.com/20191030/8Zgys1TO/index.m3u8
 國產源擼閣⑤,https://lbbf9.com/20191031/MS9Rth4m/index.m3u8
 國產源擼閣⑥,https://lbbf9.com/20191029/Nh4ivuGD/index.m3u8
@@ -4570,7 +3842,6 @@ XKTC013下海援交日記之墮落的網紅,https://vip2.slbfsl.com/20230125/eIo
 
 
 🌹日韩_267,#genre#
-御尸九式操服女僵,https://video2.51daao.com/btt1/2021/06/20210614/23uitKTM/index.m3u8
 松視1台,https://2.ddyunbo.com/20190914/dSIYelxz/index.m3u8
 松視2台,https://2.ddyunbo.com/20191004/HjrnnnDD/index.m3u8
 松視3台,https://2.ddyunbo.com/20190904/ZnGN7sEl/index.m3u8
@@ -4608,41 +3879,6 @@ Happy,http://ali.hlspull.yximgs.com/live/236d95dbea5fc1bbe5956c3e8dfb52c4.flv
 松视1,http://live.redtraffic.xyz:80/fetish.m3u8
 玩美台,http://live.redtraffic.xyz:80/pov.m3u8
 
-果凍傳媒01,https://video2.51daao.com/btt1/2021/03/20210315/nqgw0eJK/index.m3u8
-果凍傳媒02,https://video2.51daao.com/btt1/2021/03/20210309/rwTpu16k/index.m3u8
-果凍傳媒03,https://video2.51daao.com/btt1/2021/03/20210309/WQ1u7YIC/index.m3u8
-果凍傳媒04,https://video2.51daao.com/btt1/2021/03/20210305/DkRXRNsh/index.m3u8
-果凍傳媒05,https://video2.51daao.com/btt1/2021/03/20210305/SuAEPEkH/index.m3u8
-果凍傳媒06,https://video2.51daao.com/btt1/2021/02/20210227/DzukV364/index.m3u8
-果凍傳媒07,https://video2.51daao.com/btt1/2021/02/20210222/hqS0Umq4/index.m3u8
-果凍傳媒08,https://video2.51daao.com/btt1/2021/02/20210212/gH5O6gOq/index.m3u8
-果凍傳媒09,https://video2.51daao.com/btt1/2021/02/20210212/rNSmBLwV/index.m3u8
-果凍傳媒10,https://video2.51daao.com/btt1/2021/02/20210207/4sqrcOu9/index.m3u8
-果凍傳媒11,https://video2.51daao.com/btt1/2021/02/20210207/lX1stcnL/index.m3u8
-果凍傳媒12,https://video2.51daao.com/btt1/2021/02/20210207/hwYZiYZS/index.m3u8
-果凍傳媒13,https://video2.51daao.com/btt1/2021/02/20210207/wNtvObEg/index.m3u8
-果凍傳媒14,https://video2.51daao.com/btt1/2021/01/20210130/ujDdta8s/index.m3u8
-果凍傳媒15,https://video2.51daao.com/btt1/2021/01/20210129/02gDjV83/index.m3u8
-果凍傳媒16,https://video2.51daao.com/btt1/2021/01/20210128/GpjqOwp7/index.m3u8
-果凍傳媒17,https://video2.51daao.com/btt1/2021/01/20210128/yvyxolSA/index.m3u8
-果凍傳媒18,https://video2.51daao.com/btt1/2021/01/20210128/uAjfPHbd/index.m3u8
-果凍傳媒19,https://video2.51daao.com/btt1/2021/01/20210127/e4nE3H52/index.m3u8
-果凍傳媒20,https://video2.51daao.com/btt1/2021/01/20210127/hP1ODvoI/index.m3u8
-果凍傳媒21,https://video2.51daao.com/btt1/2021/01/20210120/vgWAYAZo/index.m3u8
-果凍傳媒22,https://video2.51daao.com/btt1/2021/01/20210120/2dWWoQtk/index.m3u8
-果凍傳媒23,https://video2.51daao.com/btt1/2021/01/20210120/rM4SLnCz/index.m3u8
-果凍傳媒24,https://video2.51daao.com/btt1/2021/01/20210120/Mi91NxkJ/index.m3u8
-果凍傳媒25,https://video2.51daao.com/btt1/2021/01/20210120/nK2NjTQE/index.m3u8
-果凍傳媒26,https://video2.51daao.com/btt1/2021/01/20210116/RIYuMNX6/index.m3u8
-果凍傳媒27,https://video2.51daao.com/btt1/2021/01/20210112/LBpM9asV/index.m3u8
-果凍傳媒28,https://video2.51daao.com/btt1/2021/01/20210112/o6iE0JfL/index.m3u8
-果凍傳媒29,https://video2.51daao.com/btt1/2021/01/20210112/6iz3rsSN/index.m3u8
-果凍傳媒30,https://video2.51daao.com/btt1/2021/01/20210112/JH1hBFGL/index.m3u8
-果凍傳媒31,https://video2.51daao.com/btt1/2021/01/20210112/8vPTBXXb/index.m3u8
-果凍傳媒32,https://video2.51daao.com/btt1/2021/01/20210112/E5gmsbU5/index.m3u8
-果凍傳媒33,https://video2.51daao.com/btt1/2021/01/20210112/t6Jq3qPP/index.m3u8
-果凍傳媒34,https://video2.51daao.com/btt1/2021/01/20210112/a1pA2jdF/index.m3u8
-果凍傳媒35,https://video2.51daao.com/btt1/2021/01/20210112/K9FrZ4HL/index.m3u8
 
 1,https://vip4.ddyunbo.com/20210208/Hroo5vY9/index.m3u8?skipl=1
 1,https://vip4.ddyunbo.com/20210210/1NeUm8qM/index.m3u8?skipl=1
@@ -4657,7 +3893,6 @@ Happy,http://ali.hlspull.yximgs.com/live/236d95dbea5fc1bbe5956c3e8dfb52c4.flv
 9,https://vip4.ddyunbo.com/20210302/Z1uQ7KJ9/index.m3u8?skipl=1
 
 國產源擼閣①,https://lbbf9.com/20191102/8tOZ9w12/index.m3u8
-國產源擼閣②,https://lbbf9.com/20191030/hwjpxFVH/index.m3u8
 國產源擼閣③,https://lbbf9.com/20191030/8Zgys1TO/index.m3u8
 國產源擼閣⑤,https://lbbf9.com/20191031/MS9Rth4m/index.m3u8
 國產源擼閣⑥,https://lbbf9.com/20191029/Nh4ivuGD/index.m3u8
@@ -4671,7 +3906,6 @@ Happy,http://ali.hlspull.yximgs.com/live/236d95dbea5fc1bbe5956c3e8dfb52c4.flv
 童心未泯國產源⑦,https://lbbf9.com/20191113/HQWapd2G/index.m3u8
 童心未泯國產源⑧,https://lbbf9.com/20191113/1Zdq30pq/index.m3u8
 童心未泯國產源⑨,https://lbbf9.com/20191030/uRLVDUbl/index.m3u8
-童心未泯國產源⑩,https://lbbf9.com/20191030/NViQtRx2/index.m3u8
 北条麻妃美,https://vip3.lbbf9.com/20220109/mTNDPovo/1000kb/hls/index.m3u8
 大陆1,https://vip4.ddyunbo.com/20210221/gS5t2jEz/index.m3u8?skipl=1
 大陆2,https://vip4.ddyunbo.com/20210220/9CcKySuz/index.m3u8?skipl=1
