@@ -1,9 +1,9 @@
 
 
 {
-"wallpaper":"https://xn--zp8-mf3g9f.v.nxog.top/m//t/",
+"wallpaper":"https://xn--tkh-mf3g9f.v.nxog.top/m//t/",
 "logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
-"spider":"https://xn--zp8-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;11c25fa40e0b5e7797c51e92ed8d2a54",
+"spider":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;11c25fa40e0b5e7797c51e92ed8d2a54",
 "warningText":"🔥长按主页-是刷新🔥:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
@@ -125,7 +125,7 @@
 
 "sites": [
 {"key":"豆瓣2","name":"👇失败-换线路，还失效 配置-换源","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢🔥工作顺遂，生意兴隆，财源广进。🔥umo公告❤更新:2/25❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--umo-mf3g9f.y.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥新春同庆，工作顺遂，生意兴隆，财源广进。🔥umo"},
+{"key":"豆瓣1","name":"📢🔥工作顺遂，生意兴隆，财源广进。🔥umo公告❤更新:3/2❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--umo-mf3g9f.y.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥新春同庆，工作顺遂，生意兴隆，财源广进。🔥umo"},
 
 {
       "key": "木耳",
@@ -192,15 +192,15 @@
     },
 
 {"key":"csp_woog","name":"🐲欧歌┃4K弹幕","type":3,"api":"csp_woog","filterable":1,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;d13000ce089d8dca65cf9eaa99a8f0fe","ext":{"site_urls":["https://woog.xn--dkw.xn--6qq986b3xl"],"url_key":"woog"}},
-{"key":"玩偶|欧歌uc","name":"🐲欧歌┃u汐4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;0956e31454bbaf4b76afdf80587c9d65","ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://oguc.xn--dkw.xn--6qq986b3xl","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
+{"key":"玩偶|欧歌uc","name":"🐲欧歌┃u汐4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;cfa2ce70bab7bf2eb1f3de8bf428ee95","ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://oguc.xn--dkw.xn--6qq986b3xl","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
 {"key":"csp_woog2","name":"🐲欧歌┃夸快4K","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=a3&ou=公众号欧歌app;md5;468e5883e1e500c3003b24ee8b6d0dcd","ext":{"site_urls":["https://ogkk.xn--dkw.xn--6qq986b3xl"]}},
 {"key":"csp_欧歌123","name":"🐲夸快┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=cf&ou=公众号欧歌app;md5;2d68907e16b4a9809ca25071c739245c"},
-{"key":"csp_欧歌G","name":"❤配置┃中心","type":3,"api":"csp_ConfigCenter","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;0956e31454bbaf4b76afdf80587c9d65"},
+{"key":"csp_欧歌G","name":"❤配置┃中心","type":3,"api":"csp_ConfigCenter","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;cfa2ce70bab7bf2eb1f3de8bf428ee95"},
 
 {"key":"荐片","name":"💡荐片｜影视","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民影视","name":"💡农民｜影视","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wwgz.cn"},
 {"key":"韩小圈","name":"💡韩小｜影视","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"樱花影视","name":"💡樱花｜影视","type":3,"api":"csp_Lggys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"巧技","name":"💡巧巧｜影视","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://alicliimg.clewm.net/342/790/68790342/17405848473943ab1aa06a0bb25eb570d8adda73bd3d11740584845.jpg"},
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},
 {"key":"瓜子","name":"💡瓜子｜影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"骚火","name":"💡骚火｜影视","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"filterable":1},
@@ -225,7 +225,8 @@
 {"key":"优质","name":"💡优质｜影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="},
 {"key":"木叶","name":"💡木叶｜影视","type":3,"api":"csp_Xdai","playerType":2,"ext":"saHR0cDovL3d3dy56amMuYXBwfGFiNGU5YTQyMTY3NWYxNGJ8YWI0ZTlhNDIxNjc1ZjE0Ynw0NDI="},
 {"key":"来看影视","name":"💡来看｜影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"巧技","name":"💡巧巧｜影视","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://alicliimg.clewm.net/342/790/68790342/1739704196981ee4d1db22ed5d0fe67dc73c5402d65321739704163.jpg"},
+{"key":"金牌影视","name":"💡金牌｜影视","type":3,"api":"csp_WebJP","searchable":1,"quickSearch":1,"filterable":1,"ext":"KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="},
+{"key":"快手直播","name":"🖐️快手┃直播","type":3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.597}},
 
 //XBPQ    
 
@@ -259,15 +260,15 @@
 
 //玩弹幕
 
-{"key":"玩偶|1","name":"❤玩哥┃4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;0956e31454bbaf4b76afdf80587c9d65","ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://woog.nxog.eu.org","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
+{"key":"玩偶|1","name":"❤玩哥┃4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;cfa2ce70bab7bf2eb1f3de8bf428ee95","ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://woog.nxog.eu.org","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
 
-{"key":"玩偶|2","name":"❤玩偶┃4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;0956e31454bbaf4b76afdf80587c9d65","ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://wooguc.nxog.eu.org","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
+{"key":"玩偶|2","name":"❤玩偶┃4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;cfa2ce70bab7bf2eb1f3de8bf428ee95","ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://wooguc.nxog.eu.org","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
 
-{"key":"玩偶|3","name":"❤玩姐┃4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;0956e31454bbaf4b76afdf80587c9d65","ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://tv.yydsys.top","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
+{"key":"玩偶|3","name":"❤玩姐┃4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;cfa2ce70bab7bf2eb1f3de8bf428ee95","ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://tv.yydsys.top","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
 
-{"key":"玩偶|4","name":"❤玩弟┃4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;0956e31454bbaf4b76afdf80587c9d65","ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://ogkk.nxog.eu.org","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
+{"key":"玩偶|4","name":"❤玩弟┃4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;cfa2ce70bab7bf2eb1f3de8bf428ee95","ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://ogkk.nxog.eu.org","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
 
-{"key":"玩偶|5","name":"❤玩妹┃4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;0956e31454bbaf4b76afdf80587c9d65","ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://duopan.fun","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
+{"key":"玩偶|5","name":"❤玩妹┃4K","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=og2&ou=公众号欧歌app;md5;cfa2ce70bab7bf2eb1f3de8bf428ee95","ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://duopan.fun","filter":"https://xn--tkh-mf3g9f.v.nxog.top/m//json/wogg.json"}},
 
 
 {"key":"搜索弹幕","name":"❤搜索｜弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVbox/token.txt","danmu":true}},
@@ -315,7 +316,6 @@
 {"key": "合集","name": "💋哔哩┃合集","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/合集.json"}, 
 {"key":"本地","name":"🌸本地｜视频","type":3,"api":"csp_LocalFile"},
 {"key":"西瓜","name":"🌸西瓜｜视频","type":3,"api":"csp_AmuXiguaV2","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
-
     
     {
       "key": "360",
