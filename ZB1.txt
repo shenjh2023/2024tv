@@ -68,99 +68,86 @@
 
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-CCTV1,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 
-CCTV2,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 
-CCTV3,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 
-CCTV4,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 
-CCTV5,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
-CCTV5+,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 
-CCTV6,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 
-CCTV7,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 
-CCTV8,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 
-CCTV9,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 
-CCTV10,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 
-CCTV11,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 
-CCTV12,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 
-CCTV13,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
-CCTV14,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CGTN,http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
 
-CCTV16,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 
-CCTV17,http://39.134.18.194/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
+北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
 
-东南卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
+北京体育,http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
 
-湖北卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
 
-湖南卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 
-广东卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
+北京纪实,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 
-东方卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 
-北京卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 
-浙江卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 
-江苏卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
 
-山东卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8
+安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 
-天津卫视,http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 
-辽宁卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
 
-重庆卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 
-安徽卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226203/1.m3u8
+广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 
-深圳卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 
-湖北卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 
-陕西卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 
-黑龙江卫视,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 
-云南卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
+上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 
-风云足球,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 
-风云剧场,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
 
-风云音乐,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 
-央视台球,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 
-第一剧场,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
 
-女性时尚,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-
-怀旧剧场,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-
-兵器科技,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-
-高尔夫网球,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-
-CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-
-CHC家庭影院,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-
-CHC动作电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
 
 
