@@ -11,7 +11,7 @@
 
 
 
-{"name": "饭太硬","url":"http://www.饭太硬.com/tv"}, 
+{"name": "😎饭太硬","url":"http://www.饭太硬.com/tv"}, 
 {"name": "讴歌","url":"https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh"}, 
 {"name": "潇洒本地线路","url":"clan://localhost/TVBoxOSC/tvbox/api.json"}, 
  {"name": "采集克隆","url":"http://zhangqun66.com/zq/api.json"},
@@ -26,6 +26,20 @@
       "name": "宝盒vip专享",
       "url": "https://github.jiexi.de/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
     },
+    
+    {
+      "url": "http://ttkx.cc:55/天天开心",
+      "name": "😎天天开心"
+    },
+    {
+      "url": "http://ttkx.cc:55/pg/jsm.json",
+      "name": "PG[肥羊源]原版蜜蜂影视专用接口❤天天开心"
+    },
+    {
+      "url": "http://rihou.cc:55/天天开心",
+      "name": "😎天天开心备"
+    },
+    
    
     {
       "name": "菜妮丝",
@@ -55,10 +69,7 @@
       "url": "http://tvbox.王二小放牛娃.top"
     },
     
-    {
-      "name": "鱼儿",
-      "url": "http://我不是.摸鱼儿.com"
-    },
+    
     {
       "name": "喵影视",
       "url": "http://meowtv.cn/tv"
