@@ -74,7 +74,10 @@
       "name": "喵影视",
       "url": "http://meowtv.cn/tv"
     },
-    
+   {
+      "url": "http://zb.gjds.love/公众号搞机大师/gaoji.json",
+      "name": "搞机大师"
+    }, 
     
     {"name": "业余", "url": "https://yydf.540734621.xyz/QQ/yydf2024.json"},
     
