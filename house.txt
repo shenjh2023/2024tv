@@ -1,16 +1,13 @@
 {"storeHouse": [
 {"sourceName":"主源1","sourceUrl":"https://git.acwing.com/movie888888/2024tv/-/raw/main/index.txt"},
-{"sourceName":"主源2","sourceUrl":"https://github.jiexi.de/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
+{"sourceName":"主源2","sourceUrl":"https://d.kstore.dev/download/3527/index.txt"},
+{"sourceName":"主源3","sourceUrl":"https://github.jiexi.de/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 {"sourceName":"备源1","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
-{"sourceName":"备源2","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
-{"sourceName":"备源3","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
-{"sourceName":"备源4","sourceUrl":"https://ghproxy.cc/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
-{"sourceName":"备源5","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
-{"sourceName":"主源3","sourceUrl":"https://d.kstore.dev/download/3527/index.txt"},
-{"sourceName":"本地仓","sourceUrl":"clan://localhost/TVBoxOSC/本地仓/本地仓.txt"},
+{"sourceName":"备源2","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shenjh2023/2024tv/main/index.txt"},
 
 {"sourceName":"公子仓","sourceUrl":"http://gzc.lzo.linkpc.net/cangku.json"},
 {"sourceName":"绿茶","sourceUrl":"https://github.jiexi.de/https://raw.githubusercontent.com/shenjh2023/2024tv/main/99.txt"},
 {"sourceName":"龙哥影仓","sourceUrl":"https://gitee.com/sqlonglong/dragon-dragon-dragon/raw/master/DC.txt"},
-{"sourceName":"奇奇线路","sourceUrl":"http://z.qiqiv.cn/123.txt"}
+{"sourceName":"奇奇线路","sourceUrl":"http://z.qiqiv.cn/123.txt"},
+{"sourceName":"本地仓","sourceUrl":"clan://localhost/TVBoxOSC/本地仓/本地仓.txt"}
 ]}
