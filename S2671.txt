@@ -304,33 +304,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-  {
-      "name": "S2",
-      "type": 0,
-      "url": "https://git.acwing.com/weidi137137/id/-/raw/main/CHANGELOG",
-      "playerType": 1
-    },
-    {
-      "name": "S3",
-      "type": 0,
-      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/178.txt",
-      "playerType": 1
-    },
-    {
-      "name": "S4",
-      "type": 0,
-      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/Adult.m3u",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "S5",
-      "type": 0,
-      "url": "http://兄弟.我是你爹.top/lives/玉兔.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+  
     {
       "name": "S6",
       "type": 0,
