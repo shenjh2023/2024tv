@@ -76,8 +76,7 @@
 {"name":"短剧3","url":"http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json"},
 
   
-
-
+{"name": "公子","url":"http://源.l5.ca/"},
   {"name": "专线1","url":"https://github.jiexi.de/https://raw.githubusercontent.com/shenjh2023/2024tv/main/S2671.txt"},
   {"name": "专线2","url":"https://github.jiexi.de/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json"},
   {"name": "专线3","url":"https://github.jiexi.de/https://raw.githubusercontent.com/shenjh2023/2024tv/main/SS267.txt"},
