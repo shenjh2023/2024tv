@@ -3,22 +3,14 @@
 {
 "wallpaper":"https://xn--tkh-mf3g9f.v.nxog.top/m//t/",
 "logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
-"spider":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;4ad9b0d021548311fce7ec01020d8795",
+"spider":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;<br/><b>Warning</b>:include(https://xn--tkh-mf3g9f.v.nxog.top/m/123/jar4455/cache/index.jpg_md5.txt):failedtoopenstream:Nosuchfileordirectoryin<b>/www/wwwroot/tv.nxog.top/m/111.php</b>online<b>33</b><br/><br/><b>Warning</b>:include():Failedopening'https://xn--tkh-mf3g9f.v.nxog.top/m/123/jar4455/cache/index.jpg_md5.txt'forinclusion(include_path='.:/www/server/php/72/lib/php')in<b>/www/wwwroot/tv.nxog.top/m/111.php</b>online<b>33</b><br/>",
 "warningText":"🔥长按主页-是刷新🔥:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
 
 "lives": [
-  {
-      "name": "zb1",
-      "type": 0,
-      "url": "https://git.acwing.com/movie888888/2024tv/-/raw/main/ZB1.txt",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },   
+  
     {
       "name": "zb2",
       "type": 0,
@@ -151,7 +143,7 @@
 
 "sites": [
 {"key":"豆瓣2","name":"👇失败-换线路，还失效 配置-换源","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"🔥tkh公告❤更新:4/26❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://alicliimg.clewm.net/342/790/68790342/17362297695164b4887eab40d6fafb492c936297ce9901736229766.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥267🔥tkh"},
+{"key":"豆瓣1","name":"🔥tkh公告❤更新:5/6❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://alicliimg.clewm.net/342/790/68790342/17362297695164b4887eab40d6fafb492c936297ce9901736229766.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥267🔥tkh"},
 
 {
       "key": "木耳",
@@ -217,10 +209,10 @@
       }
     },
 
-{"key":"926","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926Guard","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746006525221/f0430.txt;md5;948a482e3bad5bd090a87a6a85d38903","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"88","name":"⚽88┃看球","type":3,"api":"csp_Sir88Guard","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746006525221/f0430.txt;md5;948a482e3bad5bd090a87a6a85d38903","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"看球","name":"⚽看球┃直播","type":3,"api":"csp_KanqiuGuard","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746006525221/f0430.txt;md5;948a482e3bad5bd090a87a6a85d38903","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"Jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746006525221/f0430.txt;md5;948a482e3bad5bd090a87a6a85d38903","ext":"https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js","style":{"type":"list"},
+{"key":"926","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926Guard","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746289852339/f0504.txt;md5;42ef09340295f4070cedad37bf759ef3","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
+{"key":"88","name":"⚽88┃看球","type":3,"api":"csp_Sir88Guard","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746289852339/f0504.txt;md5;42ef09340295f4070cedad37bf759ef3","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
+{"key":"看球","name":"⚽看球┃直播","type":3,"api":"csp_KanqiuGuard","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746289852339/f0504.txt;md5;42ef09340295f4070cedad37bf759ef3","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
+{"key":"Jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746289852339/f0504.txt;md5;42ef09340295f4070cedad37bf759ef3","ext":"https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js","style":{"type":"list"},
 "timeout":10,"searchable":0,"quickSearch":0,"changeable":0},
 
     
@@ -709,9 +701,9 @@
   
   
   
-{"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;c97614a089fdeac08d58f215c12bb89d","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw.xn--6qq986b3xl"],"url_key":"woog","threadinfo":{"chunksize":267,"threads":10}}},
+{"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;c97614a089fdeac08d58f215c12bb89d","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw.xn--6qq986b3xl"],"url_key":"woog","threadinfo":{"chunksize":221,"threads":10}}},
 {"key":"config","name":"🐲玩欧┃配置","type":3,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og2&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;c97614a089fdeac08d58f215c12bb89d","api":"csp_Config","searchable":0},
-{"key":"csp_woogkk","name":"🐲夸快┃非会员4K","type":3,"changeable":"0","api":"csp_woog","filterable":1,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=a3&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;468e5883e1e500c3003b24ee8b6d0dcd","ext":{"site_urls":["hhttps://ogkk.nxog.eu.org","https://ogkk.xn--dkw.xn--6qq986b3xl"],"url_key":"woogkk","threadinfo":{"chunksize":253,"threads":60}}},
+{"key":"csp_woogkk","name":"🐲夸快┃非会员4K","type":3,"changeable":"0","api":"csp_woog","filterable":1,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=a3&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;468e5883e1e500c3003b24ee8b6d0dcd","ext":{"site_urls":["hhttps://ogkk.nxog.eu.org","https://ogkk.xn--dkw.xn--6qq986b3xl"],"url_key":"woogkk","threadinfo":{"chunksize":272,"threads":60}}},
 {"key":"csp_欧歌123","name":"🐲夸快┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=cf&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;2d68907e16b4a9809ca25071c739245c"},
 {"key":"欧哥","name":"❤欧歌｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/og.json?"},
 {"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
