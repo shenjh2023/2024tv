@@ -1,8 +1,9 @@
 ﻿  {"urls":[
 
+{"name":"主源1线","url":"https://git.acwing.com/movie888888/2024tv/-/raw/main/fast.txt"},
+{"name":"VIP线","url":"https://4708.kstore.space/svip/svip.json"},
 
-{"name": "✌️天威",  "url": "https://7337.kstore.space/twvip/自用测试.json"  }, 
-
+{"name":"主源2线","url":"https://d.kstore.dev/download/3527/fast.txt"},
 {"name":"主源3线","url":"https://ghfast.top/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fast.txt"},
 {"name":"备2","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fast.txt"},
 {"name":"备3","url":"https://ghproxy.cc/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fast.txt"},
