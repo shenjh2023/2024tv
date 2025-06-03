@@ -1,5 +1,5 @@
 {
-        "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727428271693/fan.txt;md5;3d161697458ecbcd2651a749db761ba1",
+    "spider":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad",
           
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   
@@ -270,6 +270,86 @@
         "人兽性交"
       ]
     },
+    
+   {
+  "key": "乐哥特供-KISSAV(女优)",
+  "name": "KISSAV(女优)",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "主页url": "https://www.kissavtv.com/index/getActorList/sort/count",
+    "数组": "bind_video_img\">&&</h",
+    "图片": "data-src=\"&&\"",
+    "标题": "title\"><a*>&&</a",
+    "副标题": "label\">&&<",
+    "简介": "header-left\">&&<php",
+    "链接": "href=\"&&\"",
+    "搜索模式": "1",
+    "搜索url": "https://www.kissavtv.com/search/page/{pg}/wd/{wd}.html",
+    "分类数组": "<div class=\"col-6 col-sm-4 col-lg-3\">&&<span",
+    "分类标题": "title\">&&</h",
+    "分类ID": "https://www.kissavtv.com/index/getActorMvs/actorId/&&\"",
+    "分类url": "https://www.kissavtv.com/index/getactormvs/actorId/{cateId}/sort/update/page/{catePg};;z"
+  }
+},
+
+{
+  "key": "乐哥特供-KISSAV(标签)",
+  "name": "KISSAV(标签)",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "主页url": "https://www.kissavtv.com",
+    "数组": "bind_video_img\">&&</h",
+    "图片": "data-src=\"&&\"",
+    "标题": "title\"><a*>&&</a",
+    "副标题": "label\">&&<",
+    "简介": "header-left\">&&<php",
+    "链接": "href=\"&&\"",
+    "搜索模式": "1",
+    "搜索url": "https://www.kissavtv.com/search/page/{pg}/wd/{wd}.html",
+    "分类数组": "<a class=\"tag text-light&&</a",
+    "分类标题": "title=\"&&\"",
+    "分类ID": "https://www.kissavtv.com/index/tagMvs/tags/&&\"",
+    "分类url": "https://www.kissavtv.com/index/tagmvs/tags/{cateId}/sort/update/page/{catePg};;z"
+  }
+},
+
+{
+  "key": "乐哥特供-KISSAV(主题)",
+  "name": "KISSAV",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "主页url": "https://www.kissavtv.com",
+    "数组": "bind_video_img\">&&</h",
+    "图片": "data-src=\"&&\"",
+    "标题": "title\"><a*>&&</a",
+    "副标题": "label\">&&<",
+    "简介": "header-left\">&&<php",
+    "链接": "href=\"&&\"",
+    "搜索模式": "1",
+    "搜索url": "https://www.kissavtv.com/search/page/{pg}/wd/{wd}.html",
+    "分类数组": "class=\"horizontal-img-box&&</a",
+    "分类标题": "alt=\"&&\"",
+    "分类ID": "/index/getStyleMvs/id/&&\"",
+    "分类url": "https://www.kissavtv.com/index/getstylemvs/id/{cateId}/sort/update/page/{catePg};;z"
+  }
+},
+
+
    {"key":"麻豆","name":"🔞麻豆采集","type":1,"api":"https://www.md91.cc/api.php/provide/vod/","style":{"ratio":1.7}},
         
         
@@ -296,15 +376,6 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
   
- {
-      "name": "S1",
-      "type": 0,
-      "url": "https://github.jiexi.de/https://raw.githubusercontent.com/shenjh2023/2024tv/main/色最全eiXY.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-  
     {
       "name": "S6",
       "type": 0,
@@ -313,9 +384,17 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
+      "name": "S1",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/shenjh2023/2024tv/main/色最全eiXY.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "S7",
       "type": 0,
-      "url": "https://github.jiexi.de/raw.githubusercontent.com/vicjl/myIPTV/main/Adult.m3u",
+      "url": "https://ghfast.top/raw.githubusercontent.com/vicjl/myIPTV/main/Adult.m3u",
       "ua": "okhttp/3.15",
       "playerType": 2
     }
