@@ -1,19 +1,12 @@
 {
-    "spider":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad",
-          
-  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
-  
+"wallpaper":"https://tv.nxog.top/m/t/",
+"logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
+"spider":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad",
+"warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
+
   
   "sites": [
-    {
-      "key": "豆豆",
-      "name": "👇长按 主页 刷新-无片源就换 线路",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+    {"key":"豆瓣2","name":"❤👇失效-换线路 或 配置-换源❤","type":3,"api":"csp_Douban","searchable":0},
  
  {
       "key": "量子",
