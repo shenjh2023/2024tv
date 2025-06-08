@@ -12,7 +12,7 @@
 
 
 {"name": "讴歌","url":"https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh"}, 
- {"name": "采集克隆","url":"http://zhangqun66.com/zq/api.json"},
+ {"name": "饭太硬","url":"http://www.饭太硬.com/tv"},    
    {
       "name": "采集之王",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/jiushizhe/daozhang/main/drpy_dzlive6.21/index.json"
@@ -61,8 +61,8 @@
       "url": "http://meowtv.cn/tv"
     },
 
- {"name": "饭太硬","url":"http://www.饭太硬.com/tv"},    
-    {"name": "业余", "url": "https://yydf.540734621.xyz/QQ/yydf2024.json"},
+ 
+    
     
        {"name": "青龙",  "url": "https://gitee.com/yiwu369/6758/raw/master/1.json"}, 
    
