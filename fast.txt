@@ -10,7 +10,7 @@
   {
       "name": "zb1",
       "type": 0,
-      "url": "https://git.acwing.com/movie888888/2024tv/-/raw/main/ZB1.txt",
+      "url": "https://gh-proxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB1.txt",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -18,9 +18,9 @@
     },   
     
     {
-            "name": "AI肥羊",
+            "name": "公子直播",
             "type": 0,
-            "url": "https://nptv.freetv.top/juhe.m3u",
+            "url": "http://lzo.xh.sd/tvbox/live.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
@@ -28,41 +28,6 @@
         },
         
         {
-      "name": "电视家",
-      "type": 0,
-      "url": "http://live.nctv.top/x.txt",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
-    },
-    
-        
-    {
-      "name": "zb2电视家2",
-      "type": 0,
-      "url": "https://git.acwing.com/bang359/ba/-/raw/main/dsj4.16.txt",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },   
-
-    
-   
-
-
-  {
-      "name": "胡云",
-      "type": 0,
-      "url": "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
-    },  
-  
-    {
       "name": "③猫TV线路(EXO)",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
@@ -81,19 +46,54 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     
-    {"name":"AI直播","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
+    {"name":"欧歌tv","type":0,"url":"https://tv.nxog.top/m/tv/?ou=欧歌APP",
+"epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10},
+{"name":"欧歌直播","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+"epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
     
-    
+        
+        
+
+{"name":"青龙直播",
+
+"type":0,
+
+"url":"https://6758.kstore.space/666.txt",
+
+"playerType":1,
+
+"User-Agent":"okhttp/5.0.0-alpha.14",
+
+"epg":"https://diyp10.112114.xyz/",
+
+"logo":"https://epg.112114.xyz/logo/{name}.png"},
+        
     {
-      "name": "⑪V6明线路",
+      "name": "zb2电视家2",
       "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 2,
+      "url": "https://git.acwing.com/bang359/ba/-/raw/main/dsj4.16.txt",
       "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },   
+
+  {
+      "name": "胡云",
+      "type": 0,
+      "url": "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt",
+      "ua": "okhttp/3",
+      "playerType": 2,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },  
+     
+  {"name":"饭太V4","type":0,
+"url":"https://gh-proxy.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+"playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+"logo":"https://epg.v1.mk/logo/{name}.png"},
+  
+  {
       "name": "②⑥范明线路",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
