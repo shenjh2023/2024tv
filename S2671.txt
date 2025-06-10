@@ -42,7 +42,7 @@
    {"key":"精品采集","name":"🔞精品X资源 ","type":1,"api":"http://www.jingpinx.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},     
   {"key":"采集E(草榴)","name":"🔞采集草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"处女控","name":"🔞处女控采集","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"易看资源-伦理","name":"🔞易看采集","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 
 {"key": "采集G(jkun)","name": "🔞采集jkun","type": 1,"api": "https://www.jkunzyapi.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 {"key": "155","name": "🔞采集155🚁", "type": 0,"playerType": 2,"api": "https://155api.com/api.php/provide/vod/at/xml","searchable": 0,"quickSearch": 0},
@@ -264,31 +264,7 @@
       ]
     },
     
-   {
-  "key": "乐哥特供-KISSAV(女优)",
-  "name": "KISSAV(女优)",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "主页url": "https://www.kissavtv.com/index/getActorList/sort/count",
-    "数组": "bind_video_img\">&&</h",
-    "图片": "data-src=\"&&\"",
-    "标题": "title\"><a*>&&</a",
-    "副标题": "label\">&&<",
-    "简介": "header-left\">&&<php",
-    "链接": "href=\"&&\"",
-    "搜索模式": "1",
-    "搜索url": "https://www.kissavtv.com/search/page/{pg}/wd/{wd}.html",
-    "分类数组": "<div class=\"col-6 col-sm-4 col-lg-3\">&&<span",
-    "分类标题": "title\">&&</h",
-    "分类ID": "https://www.kissavtv.com/index/getActorMvs/actorId/&&\"",
-    "分类url": "https://www.kissavtv.com/index/getactormvs/actorId/{cateId}/sort/update/page/{catePg};;z"
-  }
-},
+   
 
 {
   "key": "乐哥特供-KISSAV(标签)",
