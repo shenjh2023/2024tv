@@ -2,10 +2,8 @@
 
 
 
-{"name":"主源3线","url":"https://ghfast.top/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fast.txt"},
-{"name":"备2","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fast.txt"},
-{"name":"备3","url":"https://ghproxy.cc/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fast.txt"},
-{"name":"备4","url":"https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fast.txt"},
+{"name":"主源3线","url":"https://cdn.jsdelivr.net/gh/shenjh2023/2024tv@main/fast.txt"},
+{"name":"拾光VIP线","url":"https://4708.kstore.space/svip/svip.json"},
 
 
 
@@ -13,28 +11,19 @@
  {"name": "饭太硬","url":"http://www.饭太硬.com/tv"},    
    {
       "name": "采集之王",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/jiushizhe/daozhang/main/drpy_dzlive6.21/index.json"
+      "url": "https://cdn.jsdelivr.net/gh/jiushizhe/daozhang@main/drpy_dzlive6.21/index.json"
     },
    
     {
       "name": "宝盒vip专享",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
+      "url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json"
     },
-    
-       
-    
-    {"name": "潇洒本地线路","url":"clan://localhost/TVBoxOSC/tvbox/api.json"}, 
    
-    {
-      "name": "菜妮丝",
-      "url": "https://tv.xn--yhqu5zs87a.top"
-    },
+    
     {
       "name": "运输车",
       "url": "https://weixine.net/ysc.json"
-    },
-    
-    
+    },  
     
     {
       "name": "肥猫",
@@ -42,44 +31,37 @@
     },
   
     {
-      "name": "小米",
-      "url": "http://www.mpanso.com/小米/DEMO.json"
+      "name": "时光趣味",
+      "url": "https://4708.kstore.space/box/svip.json"
     },
- 
-  
-   
+
     {
       "name": "二小",
       "url": "http://tvbox.王二小放牛娃.top"
     },
-    
+    {
+      "name": "菜妮丝",
+      "url": "https://tv.xn--yhqu5zs87a.top"
+    },
     
     {
       "name": "一粒沙",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json"
+      "url": "https://cdn.jsdelivr.net/gh/maoystv/6@main/000.json"
     },
-
- 
-    
-    
-       {"name": "青龙",  "url": "https://gitee.com/yiwu369/6758/raw/master/1.json"}, 
    
       {   "name": "挺好",   "url": "https://ztha.top/TVBox/thdjk.json"},
 
     {"name": "星辰",  "url": "https://fmbox.cc/" },
 
   { "name": "短剧1", "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"},
- {"name": "短剧2","url": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json"},
+ {"name": "短剧2","url": "https://cdn.jsdelivr.net/gh/lege0001/TVbox@refs/heads/main/TV/dj.json"},
 
 {"name":"短剧3","url":"http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json"},
-
+{"name": "潇洒本地线路","url":"clan://localhost/TVBoxOSC/tvbox/api.json"}, 
   
 {"name": "公子","url":"http://源.l5.ca/"},
-  {"name": "专线1","url":"https://ghfast.top/https://raw.githubusercontent.com/shenjh2023/2024tv/main/S2671.txt"},
-  {"name": "专线2","url":"https://ghfast.top/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json"},
-  {"name": "专线3","url":"https://ghfast.top/https://raw.githubusercontent.com/shenjh2023/2024tv/main/SS267.txt"},
-  {"name":"专线4","url":"https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"},
-    {"name":"专线5","url":"https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json-18x"},
+  {"name": "专线1","url":"https://cdn.jsdelivr.net/gh/shenjh2023/2024tv@main/S2671.txt"},
+    {"name":"专线2","url":"https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json-18x"},
  
  
  {"name": "请勿贩卖","url": "http://tvkj.top/QXZJ/svip.json"}]
