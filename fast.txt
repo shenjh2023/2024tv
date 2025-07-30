@@ -10,7 +10,7 @@
   {
       "name": "zb1",
       "type": 0,
-      "url": "https://git.acwing.com/movie888888/2024tv/-/raw/main/ZB1.txt",
+      "url": "https://cdn.jsdelivr.net/gh/shenjh2023/2024tv@main/ZB1.txt",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
