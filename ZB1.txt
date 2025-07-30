@@ -3,17 +3,26 @@
 浙江：新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+浙江经济生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
+浙江教科,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+浙江民生,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
+浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
+
+
+
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 绍兴文化,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
@@ -583,9 +592,6 @@
 可克达拉综合,http://test5.btzx.com.cn/live/kkdl.str
 
 📡  自看,#genre#
-凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -609,51 +615,269 @@ Bloomberg News,https://lz.雾.top/刘公子.php?id=bloomberg_twn
 Fox News,https://lz.雾.top/刘公子.php?id=foxnews_twn
 KBS World,https://lz.雾.top/刘公子.php?id=KBS
 
-鳳凰衛視,https://lz.雾.top/刘公子.php?id=phoenixtv_hd
-鳳凰資訊,https://lz.雾.top/刘公子.php?id=phoenixinfo_hd
-鳳凰香港,https://lz.雾.top/刘公子.php?id=hkphoenix_twn
-寰宇新聞,https://lz.雾.top/刘公子.php?id=huanyuxinwen_twn
-中天新聞,https://lz.雾.top/刘公子.php?id=ctinews
-年代新聞,https://lz.雾.top/刘公子.php?id=niandainews_twn
-東森新聞,https://lz.雾.top/刘公子.php?id=ettvnews
-民視新聞,https://lz.雾.top/刘公子.php?id=ftvnew_taiwan
-TVBS新聞,https://lz.雾.top/刘公子.php?id=tvbs_n
-TVBS,https://lz.雾.top/刘公子.php?id=tvbs
-東森財經新聞,https://lz.雾.top/刘公子.php?id=ettvcaijing_twn
-非凡新聞,https://lz.雾.top/刘公子.php?id=feifannews_twn
-CCTV-1,https://lz.雾.top/刘公子.php?id=cctv1
-CCTV-2,https://lz.雾.top/刘公子.php?id=cctv2
-CCTV-3,https://lz.雾.top/刘公子.php?id=cctv3
-CCTV-4,https://lz.雾.top/刘公子.php?id=cctv4
-CCTV-5,https://lz.雾.top/刘公子.php?id=cctv5
-CCTV-5+,https://lz.雾.top/刘公子.php?id=cctv5plus
-CCTV-6,https://lz.雾.top/刘公子.php?id=cctv6
-CCTV-7,https://lz.雾.top/刘公子.php?id=cctv7
-CCTV-8,https://lz.雾.top/刘公子.php?id=cctv8hd
-CCTV-9,https://lz.雾.top/刘公子.php?id=cctv9hd
-CCTV-10,https://lz.雾.top/刘公子.php?id=cctv10hd
-CCTV-11,https://lz.雾.top/刘公子.php?id=cctv11
-CCTV-12,https://lz.雾.top/刘公子.php?id=cctv12
-CCTV-13,https://lz.雾.top/刘公子.php?id=cctv13
-CCTV-14,https://lz.雾.top/刘公子.php?id=cctv14
-CCTV-15,https://lz.雾.top/刘公子.php?id=cctv15
-CCTV-16,https://lz.雾.top/刘公子.php?id=cctv16
-CCTV-17,https://lz.雾.top/刘公子.php?id=cctv17
-湖南衛視,https://lz.雾.top/刘公子.php?id=hunan_twn
-浙江衛視,https://lz.雾.top/刘公子.php?id=zhejiang_twn
-江蘇衛視,https://lz.雾.top/刘公子.php?id=jiangsu_twn
-深圳衛視,https://lz.雾.top/刘公子.php?id=shenzhen
-大灣區衛視,https://lz.雾.top/刘公子.php?id=nanfang_twn
-廣東衛視,https://lz.雾.top/刘公子.php?id=guangdongweishi_twn
-北京衛視,https://lz.雾.top/刘公子.php?id=beijing
-廣東珠江,https://lz.雾.top/刘公子.php?id=zhujiang
-廣西衛視,https://lz.雾.top/刘公子.php?id=guangxi
-湖北衛視,https://lz.雾.top/刘公子.php?id=hubei
-四川衛視,https://lz.雾.top/刘公子.php?id=sichuan_twn
-東方衛視,https://lz.雾.top/刘公子.php?id=dongfangweishi_twn
+台视新闻台,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
+凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
+中视新闻台,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
+中天亚洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
+龙华经典台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+寰宇新闻台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+TVBS 欢乐台 （备份）,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
+非凡新闻台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
+TVB Asia,https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
+TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
+中天新闻 HD,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+纬来电影台,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
+卫视电影台,https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
+民视 HD,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
+纬来精彩,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
+华视 CTS HD,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
+
+CCTV1,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
+CCTV2,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225923/index.m3u8
+CCTV3,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227256/index.m3u8
+CCTV4,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
+CCTV5http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227283/index.m3u8
+CCTV5+,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225939/index.m3u8
+CCTV5+,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
+CCTV6,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227275/index.m3u8
+CCTV6,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227260/index.m3u8
+CCTV7,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
+CCTV7,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225927/index.m3u8
+CCTV8,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227266/index.m3u8
+CCTV9,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8
+CCTV10,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225931/index.m3u8
+CCTV10,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8
+CCTV11,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225815/index.m3u8
+CCTV12,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225932/index.m3u8
+CCTV12,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225816/index.m3u8
+CCTV13,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225817/index.m3u8
+CCTV13http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227279/index.m3u8
+CCTV14,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225819/index.m3u8
+CCTV15,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
+CCTV15http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227270/index.m3u8
+CCTV16,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227125/index.m3u8
+CCTV16,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227148/index.m3u8
+CCTV16_4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
+CCTV17,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/index.m3u8
+CCTV4K,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227510/index.m3u8
+CCTV2,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225800/index.m3u8
+CCTV7,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
+CCTV4,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
+CCV10,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8
+CCTV1,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
+CCTV11,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225815/index.m3u8
+广东卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
+浙江卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
+北京卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
+湖南卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
+天津卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225830/index.m3u8
+重庆卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225831/index.m3u8
+辽宁卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
+江西卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
+四川卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
+贵州卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
+湖北卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225840/index.m3u8
+河南卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225842/index.m3u8
+山东卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
+安徽卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
+甘肃卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225845/index.m3u8
+江苏卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
+深圳卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225848/index.m3u8
+新疆卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225852/index.m3u8
+康巴卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
+黑龙江卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
+东方卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225828/index.m3u8
+天津卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225830/index.m3u8
+CCTV5+,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
+湖南卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
+广东卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
+CCTV9,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8
+东南卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8
+江西卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
+浙江卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
+辽宁卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
+贵州卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
+山西卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225839/index.m3u8
+河南卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225842/index.m3u8
+四川卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
+山东卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
+内蒙古卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225846/index.m3u8
+安徽卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
+江苏卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
+吉林卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225851/index.m3u8
+陕西卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225850/index.m3u8
+黑龙江卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
+北京卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
+优购物,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225879/index.m3u8
+青海卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225841/index.m3u8
+贵州卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227201/index.m3u8
+西藏卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227217/index.m3u8
+重庆卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227240/index.m3u8
+广西卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227250/index.m3u8
+哈哈炫动,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
+广东卫视4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
+深圳卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227489/index.m3u8
+兵团卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227168/index.m3u8
+三沙卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
+四川卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227182/index.m3u8
+福建文体,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227188/index.m3u8
+海峡卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227198/index.m3u8
+中国天气,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227210/index.m3u8
+CCTV10,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225931/index.m3u8
+CCTV9,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225929/index.m3u8
+CCTV14,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225933/index.m3u8
+百视通,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226560/index.m3u8
+百视通,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226568/index.m3u8
+百视通,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226573/index.m3u8
+百视通,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226603/index.m3u8
+百视通,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226565/index.m3u8
+百视通,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226642/index.m3u8
+百视通,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226646/index.m3u8
+纯享4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226825/index.m3u8
+快乐垂钓,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
+青海卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227119/index.m3u8
+优购物,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225879/index.m3u8
+百视通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226564/index.m3u8
+百视通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226565/index.m3u8
+百视通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226569/index.m3u8
+百视通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226573/index.m3u8
+百视通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226603/index.m3u8
+百视通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226638/index.m3u8
+百视通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226642/index.m3u8
+先锋乒羽,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
+茶频道,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226859/index.m3u8
+导视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226866/index.m3u8
+快乐垂钓,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
+睛彩竞技,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227047/index.m3u8
+福建电视剧,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227079/index.m3u8
+福建综合,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227149/index.m3u8
+睛彩篮球,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227158/index.m3u8
+黑莓动画,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
+古装剧场,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227307/index.m3u8
+潮妈辣婆,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227311/index.m3u8
+精品大剧,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227315/index.m3u8
+优购物,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227319/index.m3u8
+CETV1,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227323/index.m3u8
+哒啵赛事,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227331/index.m3u8
+优漫卡通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227339/index.m3u8
+优优宝贝,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227367/index.m3u8
+黑莓电影,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
+军事评论,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227452/index.m3u8
+卡酷少儿,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227456/index.m3u8
+家庭剧场,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227457/index.m3u8
+怡伴健康,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227460/index.m3u8
+精品纪录,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227461/index.m3u8
+爱情喜剧,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227462/index.m3u8
+军旅剧场,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227465/index.m3u8
+优购物,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227466/index.m3u8
+金牌综艺,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227469/index.m3u8
+精品体育,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227470/index.m3u8
+中国功夫,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227473/index.m3u8
+山东教育卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227474/index.m3u8
+环球奇观,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227490/index.m3u8
+生态环境,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227494/index.m3u8
+新动漫,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227498/index.m3u8
+中华特产,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227502/index.m3u8
+CCTV2,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225800/index.m3u8
+CCTV4,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
+CCTV7 http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
+CCTV1,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
+CGTN纪录,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225813/index.m3u8
+CCTV10,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8
+CCTV11,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225815/index.m3u8
+CCTV12,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225816/index.m3u8
+CCTV13,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225817/index.m3u8
+CCTV15,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
+CCTV14,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225819/index.m3u8
+CCTV9,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8
+CCTV5+,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
+CGTN,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225822/index.m3u8
+广东卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
+浙江卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
+北京卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
+湖南卫视http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
+CCTV1,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225829/index.m3u8
+重庆卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225831/index.m3u8
+辽宁卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
+东南卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8
+江西卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
+四川卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
+广西卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225836/index.m3u8
+贵州卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
+山西卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225839/index.m3u8
+湖北卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225840/index.m3u8
+青海卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225841/index.m3u8
+山东卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
+安徽卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
+甘肃卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225845/index.m3u8
+内蒙古卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225846/index.m3u8
+江苏卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
+宁夏卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225849/index.m3u8
+陕西卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225850/index.m3u8
+吉林卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225851/index.m3u8
+新疆卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225852/index.m3u8
+云南卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225853/index.m3u8
+康巴卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
+黑龙江卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
+动作电影,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225879/index.m3u8
+CCTV2,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225923/index.m3u8
+CCTV7,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225927/index.m3u8
+CCTV9,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225929/index.m3u8
+CCTV10,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225931/index.m3u8
+CCTV12,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225932/index.m3u8
+CCTV14,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225933/index.m3u8
+CCTV5+,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225939/index.m3u8
+纪实科教,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225944/index.m3u8
+百视通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226560/index.m3u8
+百视通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226564/index.m3u8
+百视通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226565/index.m3u8
+百视通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226568/index.m3u8
+百视通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226569/index.m3u8
+百视通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226573/index.m3u8
+百视通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226599/index.m3u8
+百视通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226603/index.m3u8
+百视通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226642/index.m3u8
+百视通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226646/index.m3u8
+百视通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226895/index.m3u8
+CCTV1,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226908/index.m3u8
+金鹰纪实,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226937/index.m3u8
+CCTV1,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227014/index.m3u8
+CGTN俄语,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227103/index.m3u8
+青海卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227119/index.m3u8
+云南卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227181/index.m3u8
+精品萌宠,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227183/index.m3u8
+江西卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227209/index.m3u8
+海南卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227216/index.m3u8
+CGTN法语,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227220/index.m3u8
+CGTN阿语,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227224/index.m3u8
+CCTV4,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227225/index.m3u8
+CCTV5,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227229/index.m3u8
+嘉佳卡通,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227230/index.m3u8
+CCTV11,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227233/index.m3u8
+CCTV13,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227237/index.m3u8
+CGTN西语,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227238/index.m3u8
+北京卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227246/index.m3u8
+新疆卫视,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227248/index.m3u8
+电子竞技,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227252/index.m3u8
+黑莓动画,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
+古装剧场,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227307/index.m3u8
+潮妈辣婆,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227311/index.m3u8
+睛彩青少,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227314/index.m3u8
+精品大剧,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227315/index.m3u8
+CETV1,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227323/index.m3u8
+CCTV5,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227430/index.m3u8
+CCTV6,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227438/index.m3u8
+CCTV4,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227441/index.m3u8
+CCTV3,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227445/index.m3u8
+CCTV8,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227449/index.m3u8
+央广购物,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227462/index.m3u8
 
 
-📡  央卫测试1,#genre#
+📡  央卫1,#genre#
 
 
 CCTV01,http://hbhyjq.ufyct.com:1088/hls/9/index.m3u8
@@ -853,60 +1077,7 @@ CETV2,http://hbhyjq.ufyct.com:1088/hls/6/index.m3u8
 百事通4K儿童,http://nxlj.cn:1688//rtp/239.45.1.1:5140
 
 
-央卫测试2,#genre#
-CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
-CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
-CCTV3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
-CCTV4,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
-CCTV5,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
-CCTV5+,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5p
-CCTV6,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
-CCTV7,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
-CCTV8,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
-CCTV9,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
-CCTV10,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
-CCTV11,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
-CCTV12,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
-CCTV13,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
-CCTV14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
-CCTV15,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
-CCTV16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
-CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
-CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
-CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
-CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
-
-湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
-浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
-江苏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
-广东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广东卫视
-东方卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
-东南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
-辽宁卫视,http://qwt.zhibotv.top:2016/全网通.php?id=辽宁卫视
-深圳卫视,http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
-天津卫视,http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
-安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
-河北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
-重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
-吉林卫视,http://qwt.zhibotv.top:2016/全网通.php?id=吉林卫视
-黑龙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
-山东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
-海南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
-贵州卫视,http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
-湖北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
-河南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河南卫视
-广西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
-江西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=江西卫视
-陕西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
-宁夏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=宁夏卫视
-内蒙古卫视,http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
-西藏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=西藏卫视
-四川卫视,http://qwt.zhibotv.top:2016/全网通.php?id=四川卫视
-山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
-甘肃卫视,http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
-新疆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=新疆卫视
-青海卫视,http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
-
+央卫2,#genre#
 CCTV1,http://dl.zhoujie218.top/migu/migu.php?id=cctv1
 CCTV2,http://dl.zhoujie218.top/migu/migu.php?id=cctv2
 CCTV3,http://dl.zhoujie218.top/migu/migu.php?id=cctv3
@@ -925,6 +1096,22 @@ CCTV13,http://dl.zhoujie218.top/migu/migu.php?id=cctv13
 CCTV14,http://dl.zhoujie218.top/migu/migu.php?id=cctv14
 CCTV15,http://dl.zhoujie218.top/migu/migu.php?id=cctv15
 CCTV17,http://dl.zhoujie218.top/migu/migu.php?id=cctv17
+CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1
+CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2
+CCTV3,http://106.52.196.79:80/TV/mui.php?id=cctv3
+CCTV4,http://106.52.196.79:80/TV/mui.php?id=cctv4
+CCTV5,http://106.52.196.79:80/TV/mui.php?id=cctv5
+CCTV6,http://106.52.196.79:80/TV/mui.php?id=cctv6
+CCTV7,http://106.52.196.79:80/TV/mui.php?id=cctv7
+CCTV8,http://106.52.196.79:80/TV/mui.php?id=cctv8
+CCTV9,http://106.52.196.79:80/TV/mui.php?id=cctv9
+CCTV10,http://106.52.196.79:80/TV/mui.php?id=cctv10
+CCTV12,http://106.52.196.79:80/TV/mui.php?id=cctv12
+CCTV13,http://106.52.196.79:80/TV/mui.php?id=cctv13
+CCTV14,http://106.52.196.79:80/TV/mui.php?id=cctv14
+CCTV15,http://106.52.196.79:80/TV/mui.php?id=cctv15
+CCTV17,http://106.52.196.79:80/TV/mui.php?id=cctv17
+
 
 CCTV发现之旅,http://dl.zhoujie218.top/migu/migu.php?id=fxzl
 CCTV老故事,http://dl.zhoujie218.top/migu/migu.php?id=lgs
@@ -1188,193 +1375,157 @@ CCTV15,http://221.226.51.220:50081/newlive/live/hls/15/live.m3u8
 三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
 
 
-央视频道,#genre#
-CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+央卫3,#genre#
+CCTV1,http://go.bkpcp.top/mg/cctv1 
+CCTV2,http://go.bkpcp.top/mg/cctv2 
+CCTV3,http://go.bkpcp.top/mg/cctv3 
+CCTV4,http://go.bkpcp.top/mg/cctv4 
+CCTV5,http://go.bkpcp.top/mg/cctv5 
+CCTV5+,http://go.bkpcp.top/mg/cctv5p
+CCTV6,http://go.bkpcp.top/mg/cctv6 
+CCTV7,http://go.bkpcp.top/mg/cctv7 
+CCTV8,http://go.bkpcp.top/mg/cctv8 
+CCTV9,http://go.bkpcp.top/mg/cctv9 
+CCTV10,http://go.bkpcp.top/mg/cctv10 
+CCTV11,http://go.bkpcp.top/mg/cctv11 
+CCTV12,http://go.bkpcp.top/mg/cctv12 
+CCTV13,http://go.bkpcp.top/mg/cctv13 
+CCTV14,http://go.bkpcp.top/mg/cctv14 
+CCTV15,http://go.bkpcp.top/mg/cctv15 
+CCTV16,http://go.bkpcp.top/mg/cctv16 
+CCTV17,http://go.bkpcp.top/mg/cctv17 
+北京卫视,http://go.bkpcp.top/mg/bjws
+东方卫视,http://go.bkpcp.top/mg/dfws 
+江苏卫视,http://go.bkpcp.top/mg/jsws 
+湖南卫视,http://go.bkpcp.top/mg/hunws 
+广东卫视,http://go.bkpcp.top/mg/gdws 
+深圳卫视,http://go.bkpcp.top/mg/szws 
+山东卫视,http://go.bkpcp.top/mg/sdws 
+河南卫视,http://go.bkpcp.top/mg/hnws 
+江西卫视,http://go.bkpcp.top/mg/jxws 
+湖北卫视,http://go.bkpcp.top/mg/hubws 
+海南卫视,http://go.bkpcp.top/mg/hinws 
+陕西卫视,http://go.bkpcp.top/mg/sxws 
+兵团卫视,http://go.bkpcp.top/mg/btws 
+黑龙江卫视,http://go.bkpcp.top/mg/hljws 
+
+
 CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-CCTV-2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 CCTV-2,http://58.19.43.46:9901/tsfile/live/1021_1.m3u8
-CCTV-2,http://goo.bkpcp.top/mg/CCTV2
 CCTV-2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
-CCTV-3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
 CCTV-3,http://120.76.248.139/live/bfgd/4200000062.m3u8
 CCTV-3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
 CCTV-3,http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8
-CCTV-4,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-CCTV-5,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
 CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-CCTV-5+,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5+
 CCTV-5+,http://nas.hssvm.com:8888/udp/225.1.1.121:5002
 CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-CCTV-6,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
 CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
-CCTV-7,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
 CCTV-7,http://8.138.7.223/tv/cctv7.m3u8
 CCTV-7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
-CCTV-7,http://119.32.12.17:2901/udp/224.1.100.27:11111
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV-7,http://goo.bkpcp.top/mg/CCTV7
 CCTV-7,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
-CCTV-8,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
 CCTV-8,http://110.7.131.79:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://110.7.131.40:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://goo.bkpcp.top/mg/cctv8
 CCTV-8,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
-CCTV-9,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
 CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
-CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV-9,http://183.11.239.36:808/hls/27/index.m3u8
 CCTV-9,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
-CCTV-10,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
-CCTV-10,http://119.32.12.17:2901/udp/224.1.100.76:11111
 CCTV-10,http://116.9.204.242:9901/tsfile/live/0010_1.m3u8
-CCTV-10,http://goo.bkpcp.top/mg/cctv10
 CCTV-10,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
-CCTV-11,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
 CCTV-11,http://1b6467f415.iok.la:9931/tsfile/live/1031_1.m3u8
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
-CCTV-12,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
 CCTV-12,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
-CCTV-13,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
-CCTV-14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
 CCTV-14,http://182.150.23.74:808/hls/14/index.m3u8
 CCTV-14,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
-CCTV-15,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
 CCTV-15,http://58.221.214.82:9901/tsfile/live/0015_1.m3u8
 CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
 CCTV-15,http://[2409:8087:1a01:df::4033]:80/TVOD/88888888/224/3221226127/main.m3u8
-CCTV-16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
 CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8
 
-卫视频道,#genre#
-安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://218.3.138.25:1111/tsfile/live/1021_1.m3u8
 北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-东方卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
 东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
-东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-东南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111
 东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-甘肃卫视,http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-广东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广东卫视
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
-广东卫视,http://goo.bkpcp.top/mg/gdws
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-广西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
-广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
-贵州卫视,http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-海南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-海南卫视,http://119.32.12.17:2901/udp/224.1.100.16:11111
-河北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河北卫视,http://nas.hssvm.com:8888/udp/225.1.2.27:5002
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
 河北卫视,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河南卫视
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://183.11.239.36:808/hls/51/index.m3u8
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-湖北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
-湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
 湖南卫视,http://123.129.70.178:9901/tsfile/live/0128_1.m3u8
-黑龙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
 黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-吉林卫视,http://qwt.zhibotv.top:2016/全网通.php?id=吉林卫视
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
-吉林卫视,http://119.32.12.17:2901/udp/224.1.100.60:11111
-江苏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
 江苏卫视,http://183.11.239.36:808/hls/38/index.m3u8
 江苏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-江西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=江西卫视
 江西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-辽宁卫视,http://qwt.zhibotv.top:2016/全网通.php?id=辽宁卫视
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000185.m3u8
-内蒙古卫视,http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-内蒙古卫视,https://hyf000.eu.org/80947108/NMGWS
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8
-宁夏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=宁夏卫视
-青海卫视,http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 青海卫视,http://61.138.128.226:19901/tsfile/live/0140_1.m3u8
-山东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-陕西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
-四川卫视,http://qwt.zhibotv.top:2016/全网通.php?id=四川卫视
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
-四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
 四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-深圳卫视,http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=c509d0ea1747156492
-天津卫视,http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
 天津卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8
-西藏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=西藏卫视
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8
 云南卫视,http://183.11.239.36:808/hls/52/index.m3u8
-延边卫视,http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
-浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 兵团卫视,http://110.7.131.40:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://110.7.131.79:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 
-央卫测试3,#genre#
+央卫4,#genre#
 CCTV-1 综合 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV-2 财经,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV-3 综艺 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
@@ -1437,7 +1588,6 @@ tvN,https://live.tvfix.org/live/tvn/index.m3u8
 AXN,https://live.tvfix.org/live/axn/index.m3u8
 CGTN记录,https://live.tvfix.org/live/cgtndochd/index.m3u8
 CGTN英语,https://live.tvfix.org/live/cgtnhd/index.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
@@ -1453,13 +1603,9 @@ CGTN英语,https://live.tvfix.org/live/cgtnhd/index.m3u8
 今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 NHK新闻英,http://61.221.215.25:8800/hls/51/index.m3u8
 香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -1468,12 +1614,8 @@ NHK新闻英,http://61.221.215.25:8800/hls/51/index.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 美亚电视C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 TAIWANPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
-1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -1481,31 +1623,19 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 
 凤凰资讯高清,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
 凤凰香港高清,http://223.105.252.59/PLTV/3/224/3221228530/index.m3u8
-ViuTV6,http://m.osvs.asia:8000/bysid/96
-ViuTV,http://m.osvs.asia:8000/bysid/99
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 美亚电影频粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港_C+_,http://ottproxy2.ist.ooo/
 
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVBJ2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 
 凤凰资讯,http://39.164.174.139:5000/nl.m3u8?id=FHZXHD
 凤凰中文,http://39.164.174.139:5000/nl.m3u8?id=FHZWHD
@@ -1522,30 +1652,21 @@ TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
 TVBS,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS新闻台,https://live.tvfix.org/live/tvbsnews/index.m3u8
-TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 亚洲新闻台,https://live.tvfix.org/live/newsasia/index.m3u8
 娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
 Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
-Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
@@ -1557,39 +1678,18 @@ Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 天映频道, http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
 
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-Hoy Tv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 
 CCTV1港澳版,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
-TVB PLUS,https://cdn.163189.xyz/live/tvbp/stream.m3u8
-HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
-澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
-澳视卫星,https://cdn.163189.xyz/live/as/stream.m3u8
-重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
-TVB J1,https://cdn3.163189.xyz/live/j1/stream.m3u8
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -1611,8 +1711,6 @@ RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-香港33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8 
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8 
 动物星球,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8 
 
@@ -1653,8 +1751,6 @@ ETRV美国,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-华语电视2,http://38.64.72.148/hls/modn/list/4002/chunklist0.m3u8
-华语电视3,http://38.64.72.148/hls/modn/list/4003/chunklist0.m3u8
 面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq#http://www.hkstv.tv/player/flash/SewisePlayer.swf?autoStart=true&programId=mutfysrq&type=m3u8&serverPath=http://lives.hkstv.tv:5080/api/player/&server=live&volume=1&url=live://lives.hkstv.tv:5080/mutfysrq/hls#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -1727,8 +1823,6 @@ CINEMA,http://37.27.111.214:8080/live/30/hls.m3u8
 黑莓电影,https://epg.pw/stream/35d067b9bcb2480ccf5448a670af39922363cf6e42a24ec4a361aa2e0ebbb726.m3u8
 黑莓电影,https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8
 黑莓电影,https://epg.pw/stream/7a552c36ab63bf8ca14b3a6e05ce188d3243c9c6534d67d70ff72905aabca67e.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 邵氏影院,https://www.goodiptv.club/douyu/4246519
 绍兴影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
@@ -1737,11 +1831,9 @@ CINEMA,http://37.27.111.214:8080/live/30/hls.m3u8
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 冰冰影厅,http://zzy789.xyz/douyu1.php?id=74374
 奇光影院,http://zzy789.xyz/douyu1.php?id=8009547
-奶虫影院,http://zzy789.xyz/douyu1.php?id=263824
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
@@ -1753,7 +1845,6 @@ CINEMA,http://37.27.111.214:8080/live/30/hls.m3u8
 热门港剧,http://zzy789.xyz/douyu1.php?id=5522351
 
 🌆音乐频道,#genre#
-ТНТ Music,http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 未知音乐2,https://vd2.bdstatic.com/mda-mm4dszarfc74t9mx/sc/cae_h264/1638819159347843097/mda-mm4dszarfc74t9mx.mp4
 怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
 怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
@@ -1762,6 +1853,8 @@ CINEMA,http://37.27.111.214:8080/live/30/hls.m3u8
 AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
 湖南音乐之声·芒果音乐台,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 江苏经典流行音乐廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+
+
 
 📡  动作频道,#genre#
 
@@ -1875,7 +1968,6 @@ AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
 杀手游戏2024(美国动作片),https://v.cdnlz3.com/20241115/29204_1da25572/index.m3u8
 猎毒行动：终极对决2024(大陆动作片),https://v.cdnlz21.com/20241115/2419_c60f9875/index.m3u8
 ★惊天大营救2024(大陆动作片),https://v.gsuus.com/play/9b6OYvRd/index.m3u8
-基督山伯爵2024(法国动作片),https://v.cdnlz3.com/20241104/28652_a3cb69c4/index.m3u8
 机密行动2024(保加利亚动作片),https://v.cdnlz12.com/20241029/17513_dea04bef/index.m3u8
 黑雀特工2024【国语】(英国动作片),https://v.cdnlz12.com/20241024/17362_0b0ffd01/index.m3u8
 黑雀特工2024【原声】(英国动作片),https://v.cdnlz12.com/20241024/17363_b3f19a50/index.m3u8
@@ -1954,7 +2046,6 @@ AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
 天道王2020(大陆动作片),https://v.cdnlz12.com/20240821/16506_34b65a03/index.m3u8
 红右手2024(美国动作片),https://v.cdnlz12.com/20240819/16490_2fb29d99/index.m3u8
 复仇长官2024(美国动作片),https://v.cdnlz12.com/20240819/16482_117a208e/index.m3u8
-同盟2024(美国动作片),https://v.cdnlz12.com/20240816/16450_7a6d1e31/index.m3u8
 堕落天使Ⅱ：和平卫士2023(美国动作片),https://v.cdnlz12.com/20240812/16380_12d1b7cd/index.m3u8
 印度英雄Ⅱ2024(印度动作片),https://v.cdnlz12.com/20240812/16343_b4ea6225/index.m3u8
 极速战警之毒暴2024(大陆动作片),https://v.cdnlz12.com/20240811/16340_958f0af8/index.m3u8
@@ -1963,8 +2054,6 @@ AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
 跨界任务2024(韩国动作片),https://v.cdnlz21.com/20240811/1457_9bbadbac/index.m3u8
 热血天使2024(大陆动作片),https://v.cdnlz12.com/20240810/16302_eb141faf/index.m3u8
 大明锦衣之暗夜风云2019(大陆动作片),https://v.cdnlz12.com/20240809/16300_decc9406/index.m3u8
-跨界任务2024(韩国动作片),https://v.cdnlz21.com/20240809/1366_575e1f8b/index.m3u8
-海关战线2024(香港动作片),https://v.cdnlz21.com/20240809/1366_575e1f8b/index.m3u8
 快人一步2024(美国动作片),https://v.cdnlz3.com/20240808/25426_aac2a913/index.m3u8
 沙漠袭击2019(动作片),https://v.cdnlz12.com/20240805/16217_0aed81b2/index.m3u8
 醉后一拳2024(大陆动作片),https://v.cdnlz12.com/20240803/16179_6cd1d337/index.m3u8
@@ -4047,7 +4136,6 @@ InfiniTForce剧场版(日本科幻片),https://vip1.lz-cdn1.com/20220819/14822_5
 长腿2024(美国恐怖片),https://v.cdnlz12.com/20240823/16568_2f84858d/index.m3u8
 格吉（杀人鬼）2024(泰国恐怖片),https://v.cdnlz12.com/20240823/16567_a5c50d29/index.m3u8
 咖啡桌2022(西班牙恐怖片),https://v.cdnlz12.com/20240823/16560_cb2d3533/index.m3u8
-咒物寻凶2024(爱尔兰恐怖片),https://v.cdnlz12.com/20240821/16508_bf07b321/index.m3u8
 吞噬2024(美国恐怖片),https://v.cdnlz12.com/20240821/16507_ac85c482/index.m3u8
 病态忧郁的猫2015(澳大利亚恐怖片),https://v.cdnlz12.com/20240820/16498_5a479a12/index.m3u8
 迷离无迹2023(澳大利亚恐怖片),https://v.cdnlz12.com/20240820/16495_026455b6/index.m3u8
@@ -6091,7 +6179,6 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 八四年夏天(加拿大恐怖片),https://vip.lz-cdn3.com/20220804/10679_c7da6cad/index.m3u8
 俄国新娘(美国恐怖片),https://vip.lz-cdn3.com/20220804/10673_1e3be67a/index.m3u8
 仿形魔(美国恐怖片),https://vip.lz-cdn3.com/20220804/10666_ca7f65e6/index.m3u8
-鬼娘子2018(印度恐怖片),https://vip.lz-cdn3.com/20220804/10664_514c3a89/index.m3u8
 最后的尖叫(英国恐怖片),https://vip.lz-cdn3.com/20220803/10609_6e67a7d8/index.m3u8
 在某人受伤害之前(美国恐怖片),https://vip.lz-cdn3.com/20220803/10589_c17ea925/index.m3u8
 地狱旅程2018(南非恐怖片),https://vip.lz-cdn3.com/20220802/10576_04c71813/index.m3u8
@@ -6121,18 +6208,9 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 暗礁狂鲨(澳大利亚恐怖片),https://vip1.lz-cdn10.com/20220729/2119_8e8b23d0/index.m3u8
 毛骨悚然的同居(韩国恐怖片),https://vip1.lz-cdn10.com/20220728/2115_3e18dac6/index.m3u8
 玛丽号(美国恐怖片),https://vip.lz-cdn3.com/20220728/10227_646e7a8e/index.m3u8
-骷髅头：面具(恐怖片),https://vip.lz-cdn3.com/20220728/10226_12f01d5d/index.m3u8
 猎人气候(美国恐怖片),https://vip.lz-cdn3.com/20220728/10220_bdb614e8/index.m3u8
-银瀑2：重现(美国恐怖片),https://vip.lz-cdn3.com/20220728/10217_c02bc196/index.m3u8
 最后的吸血鬼2009(法国/中国香港/中国大陆恐怖片),https://vip1.lz-cdn.com/20220727/25781_6369cb7e/index.m3u8
-此房是我造(丹麦/法国/瑞典/德国/比利时/突尼斯恐怖片),https://vip.lz-cdn3.com/20220727/10193_8a8c6c8c/index.m3u8
-林屋惊魂(美国恐怖片),https://vip.lz-cdn3.com/20220727/10173_e1f42531/index.m3u8
-命运改变者(加拿大恐怖片),https://vip.lz-cdn3.com/20220727/10153_f6c7e489/index.m3u8
-失心病狂(美国恐怖片),https://vip.lz-cdn3.com/20220727/10146_784e5653/index.m3u8
-邪灵女巫(英国恐怖片),https://vip.lz-cdn3.com/20220727/10127_6c0b2262/index.m3u8
-遗传厄运(美国恐怖片),https://vip.lz-cdn3.com/20220726/10113_4bcf652d/index.m3u8
 觅踪寻迹(印度恐怖片),https://vip1.lz-cdn10.com/20220726/2100_7fa94f41/index.m3u8
-真心话大冒险2018(美国恐怖片),https://vip.lz-cdn3.com/20220726/10104_3c1359d3/index.m3u8
 鸡皮疙瘩剧场版2(日本恐怖片),https://vip1.lz-cdn6.com/20220726/20074_02b47aee/index.m3u8
 鸡皮疙瘩剧场版2外传(日本恐怖片),https://vip1.lz-cdn6.com/20220726/20076_87698024/index.m3u8
 鸡皮疙瘩剧场版(日本恐怖片),https://vip1.lz-cdn6.com/20220726/20073_24878fa2/index.m3u8
@@ -6144,31 +6222,9 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 鸡皮疙瘩NO3(日本恐怖片),https://vip1.lz-cdn6.com/20220726/20069_a461d2cd/index.m3u8
 鸡皮疙瘩NO2(日本恐怖片),https://vip1.lz-cdn6.com/20220726/20068_48e3ddee/index.m3u8
 鸡皮疙瘩NO1(日本恐怖片),https://vip1.lz-cdn6.com/20220726/20067_73125099/index.m3u8
-地下2019(美国恐怖片),https://vip.lz-cdn3.com/20220726/10071_4a28bab9/index.m3u8
-噩梦画廊(美国恐怖片),https://vip.lz-cdn3.com/20220726/10064_6ccf0d18/index.m3u8
 心碎2022(美国恐怖片),https://vip1.lz-cdn10.com/20220726/2097_54c45e58/index.m3u8
-家庭血液(美国恐怖片),https://vip.lz-cdn3.com/20220725/10060_c9703c44/index.m3u8
-解除好友2：暗网(美国恐怖片),https://vip.lz-cdn3.com/20220725/10059_f8a90c5b/index.m3u8
-铁耙(美国恐怖片),https://vip.lz-cdn3.com/20220725/10054_d8d13a93/index.m3u8
-另一个灵魂(美国恐怖片),https://vip.lz-cdn3.com/20220725/10049_1abca8c6/index.m3u8
-妖法(美国恐怖片),https://vip.lz-cdn3.com/20220725/10027_620d178c/index.m3u8
-温彻斯特(美国恐怖片),https://vip.lz-cdn3.com/20220725/10025_a16f833e/index.m3u8
-月光光心慌慌2018(美国恐怖片),https://vip.lz-cdn3.com/20220725/10015_e24fd8f6/index.m3u8
-绑架女模特(美国恐怖片),https://vip.lz-cdn3.com/20220725/10001_edf25e58/index.m3u8
-昆池岩(韩国恐怖片),https://vip.lz-cdn3.com/20220724/9979_afd46447/index.m3u8
-精神错乱2018(美国恐怖片),https://vip.lz-cdn3.com/20220724/9970_1adb8cf5/index.m3u8
-伤害2018(美国恐怖片),https://vip.lz-cdn3.com/20220724/9968_dfd2682c/index.m3u8
-大恶魔(美国恐怖片),https://vip.lz-cdn3.com/20220724/9961_8007ce19/index.m3u8
-小丑龙卷风(美国恐怖片),https://vip.lz-cdn3.com/20220724/9936_baf2c8f0/index.m3u8
 我的朋友都恨我(英国恐怖片),https://vip1.lz-cdn10.com/20220724/2093_16b116ad/index.m3u8
 阿蒂克(美国恐怖片),https://vip1.lz-cdn10.com/20220724/2090_fedb42c6/index.m3u8
-游乐园(美国恐怖片),https://vip.lz-cdn3.com/20220723/9907_237cc424/index.m3u8
-爱哭鬼上学记(美国恐怖片),https://vip.lz-cdn3.com/20220723/9892_c6fd8d0a/index.m3u8
-仲夏夜惊魂(美国恐怖片),https://vip.lz-cdn3.com/20220723/9889_a81d53cb/index.m3u8
-召唤之物(美国恐怖片),https://vip.lz-cdn3.com/20220723/9878_672605eb/index.m3u8
-地表惊旅(英国恐怖片),https://vip.lz-cdn3.com/20220722/9864_8ce196af/index.m3u8
-黑色圣诞节2019(美国恐怖片),https://vip.lz-cdn3.com/20220722/9863_e3d0770a/index.m3u8
-旅馆闹鬼2021(马来西亚恐怖片),https://vip.lz-cdn3.com/20220722/9855_d7b02593/index.m3u8
 第七日2021(美国恐怖片),https://vip.lz-cdn3.com/20220722/9835_fcb8f952/index.m3u8
 60秒致死3(英国恐怖片),https://vip.lz-cdn3.com/20220722/9823_78b42a1d/index.m3u8
 兴安岭猎人传说(大陆恐怖片),https://vip.lz-cdn3.com/20220722/9819_933e1269/index.m3u8
@@ -6376,7 +6432,6 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 鬼娃回魂6(美国恐怖片),https://vip1.lz-cdn1.com/20220531/7119_78a4a5bd/index.m3u8
 恶魔的艺术2：邪降(泰国恐怖片),https://vip1.lz-cdn1.com/20220531/7114_560e8e62/index.m3u8
 鲨颤(英国恐怖片),https://vip1.lz-cdn1.com/20220531/7103_a500d0dc/index.m3u8
-第九道门(法国恐怖片),https://vip1.lz-cdn1.com/20220531/7095_dce33d7f/index.m3u8
 死路寻死(美国恐怖片),https://vip1.lz-cdn1.com/20220531/7097_95ff0c45/index.m3u8
 夜缉者1971(美国恐怖片),https://vip1.lz-cdn1.com/20220531/7061_05cbb414/index.m3u8
 真相背后2021(泰国恐怖片),https://vip1.lz-cdn1.com/20220531/7052_3f48b0f3/index.m3u8
@@ -7305,7 +7360,6 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 吕正操一九四二2005(大陆战争片),https://v.cdnlz20.com/20240505/6847_814f3501/index.m3u8
 卡尔巴拉(波兰战争片),https://v.cdnlz19.com/20240426/31196_71cd9c51/index.m3u8
 天空2023(俄罗斯战争片),https://v.cdnlz2.com/20240424/30444_56a3b118/index.m3u8
-战火中的小狐狸2022(德国/奥地利战争片),https://v.cdnlz2.com/20240423/30429_9ac232f9/index.m3u8
 谢尔沙(印度战争片),https://v.cdnlz19.com/20240414/27279_da7735c3/index.m3u8
 热血地雷战2024(大陆战争片),https://v.cdnlz12.com/20240302/12284_9df31a2d/index.m3u8
 伊丽莎白2：黄金时代(英国战争片),https://v.cdnlz12.com/20240222/11733_c6dcd584/index.m3u8
@@ -8051,7 +8105,6 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 拆弹部队(美国战争片),https://vip.lzcdn2.com/20220329/1072_66c895ea/index.m3u8
 疯狗强尼(法国战争片),https://vip.lzcdn2.com/20220329/1082_9797f9bf/index.m3u8
 焦土之城(加拿大战争片),https://vip.lzcdn2.com/20220329/1093_de5ff4c6/index.m3u8
-必要的杀戮(波兰/挪威/爱尔兰/匈牙利/英国战争片),https://vip.lz-c.com/20220329/1021_15d208e0/index.m3u8
 战争与和平1966一(苏联战争片),https://vip1.lz-cdn1.com/20220327/609_70e20196/index.m3u8
 战争与和平1966二(苏联战争片),https://vip1.lz-cdn1.com/20220327/607_45aa7e58/index.m3u8
 战争与和平1966三(苏联战争片),https://vip1.lz-cdn1.com/20220327/606_0a24108d/index.m3u8
@@ -8161,7 +8214,6 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 四川🥝剑阁新闻综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8
 四川🥝青川新闻综合,http://qcfile.qcrmt.com:80/nmip-media/channellive/channel100933/playlist.m3u8
 四川🥝旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
-四川🥝昭化综合频道,http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
 四川🥝彭山综合频道,http://m3u8tv.psrm.net:80/nmip-media/channellive/channel100740/playlist.m3u8
 四川🥝西昌综合频道,http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
 四川🥝峨边电视台,rtmp://tv.ebrm.lsrm.org.cn/channellive/ch1
@@ -8234,8 +8286,6 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 
 吉林,#genre#
-吉林🍊延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
-吉林🍊延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild#http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
 吉林🍊德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?zjild
 吉林🍊九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 吉林🍊双阳综合,http://stream11.jlntv.cn/shuangyang/sd/live.m3u8?zjild
@@ -8258,18 +8308,11 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 内蒙古🍊鄂托克旗,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8#http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?#http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?zneimd
 内蒙古🍊可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
 
-青海,#genre#
 
-青海🥝门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
-青海🥝民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
 
-青海🥝兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
-青海🥝化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 
 山西,#genre#
-山西🍊古县综合,https://l2fpdktp.live.sxmty.com:443/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8#https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 
-山西🍊吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 
 
 山西🍊万荣综合频道,http://60.222.246.220:19433/hls1.m3u8
@@ -8281,7 +8324,6 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 山西🍊晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8?zshanxd
 山西🍊壶关电视台,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8?zshanxd
 山西🍊武乡新闻综合,http://60.220.198.84:81/0.m3u8#http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd#http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
-山西🍊吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd#http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 山西🍊闻喜综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 山西🍊怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
 山西🍊五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
@@ -8302,11 +8344,6 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 
 
-云南,#genre#
-云南🍊麻栗坡,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8#https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel107237/playlist.m3u8#http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
-福建,#genre#
-福建🍊漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
-
 湖北,#genre#
 湖北🍊荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 湖北🍊荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
@@ -8322,8 +8359,8 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 
 
 广西,#genre#
-广西🥝桂林新闻综合,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 广西🥝贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+
 
 🎸音乐电台,#genre#
 
@@ -8437,7 +8474,8 @@ Stellar - Study,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggMa84gUowOHVxgE.
 编号,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 🔞直播󠁧󠁢󠁥󠁮18加_267,#genre#
-
+台视,http://play-cdn-226.jr365m.cc/live/c6f934fa012d05f781e7781059bb7df3.m3u8
+极限台,http://play-cdn-226.jr365m.cc/live/f87615a283683c40ac132f31792b4d17
 松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
 俄罗斯成人1台,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
@@ -8508,8 +8546,6 @@ Stellar - Study,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggMa84gUowOHVxgE.
 午夜时刻1,http://live.redtraffic.xyz:80/threesome.m3u8
 午夜时刻2,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
 午夜时刻3,http://cdn.adultiptv.net/lesbian.m3u8
-午夜时刻4,http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
-午夜时刻5,http://myott.tv/stream/S8JK2Q2BVB/183.m3u8
 午夜时刻6,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 午夜时刻7,http://live.mycamtv.com/asian.m3u8
 午夜时刻8,http://live.mycamtv.com/bigass.m3u8
@@ -8600,9 +8636,306 @@ CamTV Teen,https://live.mycamtv.com/teen.m3u8
 CamTV White,https://live.mycamtv.com/white.m3u8
 CamTV Young Girls,https://live.mycamtv.com/young.m3u8
 
-🌹福利25_267,#genre#
+🌹福利_267,#genre#
+一本道_1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+一本道_2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+一本道_3,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+一本道_4,https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8
+一本道_5,https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8
+一本道_6,https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8
+一本道_7,https://vip4.ddyunbo.com/20210203/DYtc79vE/index.m3u8
+一本道_8,https://vip4.ddyunbo.com/20210202/cy0urBhD/index.m3u8
+一本道_9,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8
+一本道_10,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8
+一本道_11,https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8
+一本道_12,https://vip4.ddyunbo.com/20190904/HqGckgKl/index.m3u8
+一本道_13,https://vip4.ddyunbo.com/20190904/m94xaoPh/index.m3u8
+一本道_14,https://vip4.ddyunbo.com/20190908/1oZ5V2g2/index.m3u8
+一本道_15,https://vip4.ddyunbo.com/20190904/wJoZlwtT/index.m3u8
+一本道_16,https://vip4.ddyunbo.com/20190904/ZnGN7sEl/index.m3u8
+一本道_18,https://vip4.ddyunbo.com/20190908/ETghLd5D/index.m3u8
+一本道_20,https://vip4.ddyunbo.com/20190908/zSd2DI9R/index.m3u8
+一本道_34,https://vip4.ddyunbo.com/20191007/IFlq5eON/index.m3u8
+一本道_36,https://vip4.ddyunbo.com/20190907/PH1oGegu/index.m3u8
+一本道_37,https://vip4.ddyunbo.com/20191206/aIGd1S2S/index.m3u8
+一本道_39,https://vip4.ddyunbo.com/20191209/eOWqpnjK/index.m3u8
+一本道_40,https://vip4.ddyunbo.com/20191203/kT2Rfcof/index.m3u8
+一本道_41,https://vip4.ddyunbo.com/20191203/eKcaCDs1/index.m3u8
+一本道_42,https://vip4.ddyunbo.com/20191204/jouQzYVh/index.m3u8
+一本道_43,https://vip4.ddyunbo.com/20190824/InhHOPJz/index.m3u8
+一本道_44,https://vip4.ddyunbo.com/20191201/yKe6LATy/index.m3u8
+一本道_46,https://vip4.ddyunbo.com/20191104/NAZTGvOC/index.m3u8
+一本道_47,https://vip4.ddyunbo.com/20190724/fpVllSSA/index.m3u8
+一本道_48,https://vip4.ddyunbo.com/20191115/nz0OLAD7/index.m3u8
+一本道_50,https://vip4.ddyunbo.com/20191111/YQ1Jvlo7/index.m3u8
+一本道_51,https://vip4.ddyunbo.com/20191203/mXPJeA8L/index.m3u8
+一本道_54,https://vip4.ddyunbo.com/20191211/EmnFBcTv/index.m3u8
+一本道_56,https://vip4.ddyunbo.com/20191207/3l1NKbd9/index.m3u8
+一本道_58,https://vip4.ddyunbo.com/20191121/NoBsuuFA/index.m3u8
+一本道_71,https://vip4.ddyunbo.com/20191128/J5nWdwcz/index.m3u8
+一本道_77,https://vip4.ddyunbo.com/20191104/5Br1zP28/index.m3u8
+一本道_80,https://vip4.ddyunbo.com/20191205/0oLr2jlQ/index.m3u8
+一本道_81,https://vip4.ddyunbo.com/20191110/Z3mWJbrz/index.m3u8
+一本道_82,https://vip4.ddyunbo.com/20190724/SRcabvNZ/index.m3u8
+一本道_83,https://vip4.ddyunbo.com/20191127/52rP822O/index.m3u8
+一本道_84,https://vip4.ddyunbo.com/20191207/p0zvtDBY/index.m3u8
+一本道_85,https://vip4.ddyunbo.com/20191208/dw94ieYl/index.m3u8
+一本道_86,https://vip4.ddyunbo.com/20190913/MA5Cn7rw/index.m3u8
+一本道_87,https://vip4.ddyunbo.com/20191210/tyN6I80q/index.m3u8
+一本道_88,https://vip4.ddyunbo.com/20191122/QMk66MvN/index.m3u8
+一本道_89,https://vip4.ddyunbo.com/20191206/trGVPzmt/index.m3u8
+一本道_90,https://vip4.ddyunbo.com/20191010/xcMAZOOw/index.m3u8
+一本道_91,https://vip4.ddyunbo.com/20191207/tBB5RkgE/index.m3u8
+一本道_101,https://vip4.ddyunbo.com/20190801/68w4hmaH/index.m3u8
+一本道_102,https://vip4.ddyunbo.com/20191203/AdOtik4n/index.m3u8
+一本道_105,https://vip4.ddyunbo.com/20191203/lrQfHler/index.m3u8
+一本道_106,https://vip4.ddyunbo.com/20191203/5E24xFQu/index.m3u8
+一本道_107,https://vip4.ddyunbo.com/20191206/wElIhu09/index.m3u8
+一本道_109,https://vip4.ddyunbo.com/20191130/5D8rho9Y/index.m3u8
+一本道_110,https://vip4.ddyunbo.com/20191125/b7iK6Oay/index.m3u8
+一本道_111,https://vip4.ddyunbo.com/20191118/pa08NZI8/index.m3u8
+一本道_113,https://vip4.ddyunbo.com/20191208/YoOOpIoB/index.m3u8
+一本道_114,https://vip4.ddyunbo.com/20191206/KlOfpmXm/index.m3u8
+一本道_115,https://vip4.ddyunbo.com/20191128/bhlfixkB/index.m3u8
+一本道_118,https://vip4.ddyunbo.com/20191020/HFA1EICB/index.m3u8
+一本道_119,https://vip4.ddyunbo.com/20190725/QoR2tEMa/index.m3u8
+一本道_123,https://vip4.ddyunbo.com/20191206/beXglix7/index.m3u8
+一本道_132,https://vip4.ddyunbo.com/20191008/aJt3osLQ/index.m3u8
+一本道_134,https://vip4.ddyunbo.com/20190712/AWmTfG0V/index.m3u8
+一本道_137,https://vip4.ddyunbo.com/20191205/ZhyfTfzD/index.m3u8
+一本道_138,https://vip4.ddyunbo.com/20191209/Cg46YFFD/index.m3u8
+一本道_140,https://vip4.ddyunbo.com/20191206/D2NceISA/index.m3u8
+一本道_141,https://vip4.ddyunbo.com/20190703/TS1mxp2x/index.m3u8
+一本道_142,https://vip4.ddyunbo.com/20191127/28kOylU9/index.m3u8
+一本道_143,https://vip4.ddyunbo.com/20190924/1r6n6c3u/index.m3u8
+一本道_144,https://vip4.ddyunbo.com/20191201/8UTueLDg/index.m3u8
+一本道_146,https://vip4.ddyunbo.com/20191109/7zPRNKbZ/index.m3u8
+一本道_147,https://vip4.ddyunbo.com/20191208/0gSaR7IX/index.m3u8
+一本道_149,https://vip4.ddyunbo.com/20191108/iI37Slwz/index.m3u8
+一本道_151,https://vip4.ddyunbo.com/20191206/DRjLLulI/index.m3u8
+一本道_152,https://vip4.ddyunbo.com/20191208/F59kEATh/index.m3u8
+一本道_153,https://vip4.ddyunbo.com/20191205/u11PSJcw/index.m3u8
+一本道_154,https://vip4.ddyunbo.com/20191203/PldaO4lb/index.m3u8
+一本道_155,https://vip4.ddyunbo.com/20191206/AYu0BDSt/index.m3u8
+一本道_156,https://vip4.ddyunbo.com/20191211/M3q09qGG/index.m3u8
+一本道_163,https://vip4.ddyunbo.com/20191121/5fNyVOF0/index.m3u8
+一本道_164,https://vip4.ddyunbo.com/20191120/c3IW5efi/index.m3u8
+一本道_173,https://vip4.ddyunbo.com/20191201/XJwjwidw/index.m3u8
+一本道_175,https://vip4.ddyunbo.com/20190918/dW0J9fzv/index.m3u8
+一本道_176,https://vip4.ddyunbo.com/20191125/vpMcTD6O/index.m3u8
+一本道_182,https://vip4.ddyunbo.com/20191203/nYjY9u2u/index.m3u8
+一本道_186,https://vip4.ddyunbo.com/20191110/7bbcTr2N/index.m3u8
+一本道_187,https://vip4.ddyunbo.com/20191127/65PpXoMw/index.m3u8
+一本道_197,https://vip4.ddyunbo.com/20190924/cJ5trNUQ/index.m3u8
+一本道_202,https://vip4.ddyunbo.com/20191203/52ec89LM/index.m3u8
+一本道_207,https://vip4.ddyunbo.com/20191206/KcxaHKNK/index.m3u8
+一本道_208,https://vip4.ddyunbo.com/20191130/aACNUDUx/index.m3u8
+一本道_211,https://vip4.ddyunbo.com/20191110/NwogQedH/index.m3u8
+一本道_219,https://vip4.ddyunbo.com/20191201/Lwlr3Bkj/index.m3u8
+一本道_227,https://vip4.ddyunbo.com/20191201/K4Kv3dAa/index.m3u8
+一本道_234,https://vip4.ddyunbo.com/20191212/HePcXP5K/index.m3u8
+一本道_242,https://vip4.ddyunbo.com/20191203/eBg5Mcqa/index.m3u8
+一本道_243,https://vip4.ddyunbo.com/20191028/bnoZp1dl/index.m3u8
+一本道_249,https://vip4.ddyunbo.com/20191102/E6lR5iaR/index.m3u8
+一本道_261,https://vip4.ddyunbo.com/20190729/aN7GcbnY/index.m3u8
+一本道_264,https://vip4.ddyunbo.com/20191201/YEg5oWil/index.m3u8
+一本道_268,https://vip4.ddyunbo.com/20191208/BS0JwI5Z/index.m3u8
+一本道_274,https://vip4.ddyunbo.com/20191102/thRqkr3J/index.m3u8
+一本道_275,https://vip4.ddyunbo.com/20191008/ONnuL7h3/index.m3u8
+一本道_276,https://vip4.ddyunbo.com/20190904/f9ADZ1CY/index.m3u8
+一本道_277,https://vip4.ddyunbo.com/20190904/UfqniQi1/index.m3u8
+一本道_278,https://vip4.ddyunbo.com/20191211/FFE0h29v/index.m3u8
+一本道_280,https://vip4.ddyunbo.com/20191121/VmpUGI2G/index.m3u8
+一本道_281,https://vip4.ddyunbo.com/20190909/jRVMH9sc/index.m3u8
+一本道_301,https://vip4.ddyunbo.com/20191213/J6Cv9gPJ/index.m3u8
+一本道_305,https://vip4.ddyunbo.com/20191128/dkDIOfQC/index.m3u8
+一本道_306,https://vip4.ddyunbo.com/20191130/c6PcG5MJ/index.m3u8
+一本道_309,https://vip4.ddyunbo.com/20191111/DlyNFtz9/index.m3u8
+一本道_310,https://vip4.ddyunbo.com/20191106/yFE2T1bI/index.m3u8
+一本道_311,https://vip4.ddyunbo.com/20191128/0UFCYn1m/index.m3u8
+一本道_313,https://vip4.ddyunbo.com/20191208/2uX0tXFP/index.m3u8
+一本道_314,https://vip4.ddyunbo.com/20191112/xgfe7yP7/index.m3u8
+一本道_315,https://vip4.ddyunbo.com/20191204/vbdhMyr9/index.m3u8
+一本道_317,https://vip4.ddyunbo.com/20191211/mKHj4MjF/index.m3u8
+一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
+一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
+一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+东北往事之黑道风云二十年11,https://vip.ffzy-online4.com/20230404/18386_b159ee99/2000k/hls/mixed.m3u8
+东北往事之黑道风云二十年17,https://vip.lz-cdn16.com/20230731/33145_85f5b5e4/2000k/hls/mixed.m3u8
+销魂玉,https://hd.ijycnd.com/play/QdJqQ0ob/index.m3u8
+淫乱人间,https://yzzy.play-cdn14.com/20230715/29635_6f025e2a/index.m3u8
+春宫豪放女,https://cdn14.yzzy-dy-cdn.com/20230812/31319_c22431b9/index.m3u8
+春宫妖姬,https://yzzy.play-cdn14.com/20230621/26931_f06631ae/index.m3u8
+红楼18春,https://hd.ijycnd.com/play/QbYGwpez/index.m3u8#https://jpzy01.com/20230105/NDbZf3ps/index.m3u8
+镜花风月之螺女挑情,https://hd.ijycnd.com/play/PdRgXDVe/index.m3u8
+轻轻的第一次,https://jpzy01.com/20230503/1cCkbjcE/1000kb/hls/index.m3u8
+都是匋宏惹的祸,https://bfikuncdn.com/20240425/t9snRY2q/2000kb/hls/index.m3u8
+星路梦回,https://bfikuncdn.com/20240423/sE9FUTu9/2000kb/hls/index.m3u8
+欲火雄风龙凤配,https://bfikuncdn.com/20240423/wn6CjpAM/2000kb/hls/index.m3u8
+天边一朵云,https://ukzyll.ukubf6.com/20220706/IDF6m8YC/2000kb/hls/index.m3u8
+北投狼人,https://ukzyll.ukubf6.com/20220706/IDF6m8YC/2000kb/hls/index.m3u8
+化骨棉掌,https://vv.jisuzyv.com/play/zbq6VBpd/index.m3u8
+色欲档案之麻雀台上淫,https://vod11.wgslsw.com/20240413/mPdnvTK2/index.m3u8
+星路梦回,https://bfikuncdn.com/20240423/sE9FUTu9/2000kb/hls/index.m3u8
+叛客与雷鬼,https://vod11.wgslsw.com/20240413/uKXqj2F5/index.m3u8
+美丽的杀手,https://vod11.wgslsw.com/20240413/Y64XRP7r/index.m3u8
+欲火狂情,https://jpzy01.com/20240617/0hX4bLa4/3869kb/hls/index.m3u8
+唇香.体香.女人香,https://ukzyll.ukubf6.com/20220615/7QyPrrZ4/2000kb/hls/index.m3u8
+枪下新娘,https://vod11.wgslsw.com/20240413/SMo8cYau/index.m3u8
+困着她的心灵,https://vod11.wgslsw.com/20240413/VQsRVkll/index.m3u8
+占有欲强的女人,https://vod11.wgslsw.com/20240413/h8sbinOI/index.m3u8
+追你一世,https://vod11.wgslsw.com/20240413/vbIonnAi/index.m3u8
+午夜叫声,https://vod11.wgslsw.com/20240413/IqaxkjFG/index.m3u8
+脱轨边缘人,https://ukzyll.ukubf6.com/20220528/woEv6Q0L/2000kb/hls/index.m3u8
+山庄情挑,https://vod11.wgslsw.com/20240413/cdGDaZ0F/index.m3u8
+造爱人间,https://vod11.wgslsw.com/20240413/cdGDaZ0F/index.m3u8
+变身,https://vod11.wgslsw.com/20240413/7zBawDWh/index.m3u8
+危情杀机,https://ukzyll.ukubf6.com/20220528/0I2i37Pd/2000kb/hls/index.m3u8
+欲海双艳,https://bfikuncdn.com/20240423/KYN3UNMr/2000kb/hls/index.m3u8
+纵欲聊斋,https://ukzyll.ukubf6.com/20220717/a7JPTuHX/2000kb/hls/index.m3u8
+灵山奇谭,https://ukzyll.ukubf6.com/20220717/a7JPTuHX/2000kb/hls/index.m3u8
+空虚少妇性告白,https://vod11.wgslsw.com/20240413/UncMrKj6/index.m3u8
+野店,https://bfikuncdn.com/20240423/QKJ45DP5/2000kb/hls/index.m3u8
+镜花风月之春降,https://bfikuncdn.com/20240423/QKJ45DP5/2000kb/hls/index.m3u8
+花女破处实录,https://ukzyll.ukubf6.com/20220615/PtWcgHlT/2000kb/hls/index.m3u8
+百合情韵,https://ukzyll.ukubf6.com/20220525/lvkbIXnN/2000kb/hls/index.m3u8
+寡妇的男人,https://vod11.wgslsw.com/20240413/zTORtTQC/index.m3u8
+性妲己,https://play.hhuus.com/play/1aMXmyPe/index.m3u8
+火爆倩女,https://vod11.wgslsw.com/20240413/GEd0CwIy/index.m3u8
+武林皇后,https://jpzy01.com/20230213/u8NEqYNY/1000kb/hls/index.m3u8
+血泪江湖,https://vod11.wgslsw.com/20240413/qZrPV9gu/index.m3u8
+灵与肉,https://vod11.wgslsw.com/20240413/qZrPV9gu/index.m3u8
+侦探艳史,https://ukzyll.ukubf6.com/20220615/DapSX6Ko/2000kb/hls/index.m3u8
+处女奇兵,https://jpzy01.com/20230419/4VRzn3X3/1000kb/hls/index.m3u8
+洪晓芸写真,https://jpzy01.com/20230425/N6PaeUMX/1000kb/hls/index.m3u8
+大盜情人,https://jpzy01.com/20221218/SLC0mG0K/1000kb/hls/index.m3u8
+鼠年12性肖淫程,https://jpzy01.com/20230219/Yq5GEHnY/1000kb/hls/index.m3u8
+风情小姨子,https://bfikuncdn.com/20240422/HaCx3UB7/2000kb/hls/index.m3u8
+浪漫女家教,https://jpzy01.com/20221230/k0F7eNsD/1000kb/hls/index.m3u8
+催眠指令,https://jpzy01.com/20240809/PhsKKUvl/2887kb/hls/index.m3u8
+黄色追杀令,https://jpzy01.com/20230106/T4zi4Bj7/1000kb/hls/index.m3u8
+女狱秘闻,https://vod11.wgslsw.com/20240413/kLCCiN0g/index.m3u8
+荡女诉心声,https://jpzy01.com/20220529/26Mf7kvk/1000kb/hls/index.m3u8
+女鬼丽影,https://jpzy01.com/20230503/fF15eaAN/1000kb/hls/index.m3u8
+打山鸡,https://jpzy01.com/20230622/7ALCcm82/1000kb/hls/index.m3u8
+色欲野鸳鸯,https://jpzy01.com/20230612/pkOheIEk/1000kb/hls/index.m3u8?
+山中艳潭,https://vip.ffzy-play8.com/20230914/1929_4a35a2ea/2000k/hls/mixed.m3u8
+亡命霸王花,https://jpzy01.com/20230618/6bTrfQW6/1000kb/hls/index.m3u8
+怀香少女,https://vip.ffzy-play8.com/20240620/2805_28c0ebb3/2000k/hls/mixed.m3u8
+恶煞生死线,https://jpzy01.com/20230220/iNP8YaB2/1000kb/hls/index.m3u8?
+葵花宝典,https://jpzy01.com/20230213/Yty5YnPl/1000kb/hls/index.m3u8
+欲望街车,https://ukzyll.ukubf6.com/20220530/OfkXaU3C/2000kb/hls/index.m3u8
+红粉幽魂,https://jpzy01.com/20240518/UbYpvMNI/1100kb/hls/index.m3u8
+灵幻新娘,https://jpzy01.com/20211227/buk5gjdf/800kb/hls/index.m3u8?
+台湾AN4U美女刘雪嬅写真,https://jpzy01.com/20220124/SlxXmej5/900kb/hls/index.m3u8
+色狼传说,https://jpzy01.com/20230505/xZNHaCG4/1000kb/hls/index.m3u8
+满床春水,https://jpzy01.com/20230213/VkFliFY2/1000kb/hls/index.m3u8
+台湾內衣女孩写真,https://jpzy01.com/20240421/ciky3Gar/1100kb/hls/index.m3u8?
+蓬莱仙山写真-夏日玫瑰,https://jpzy01.com/20230626/vILqH6XK/1000kb/hls/index.m3u8
+蓬莱仙山写真-夏日玫瑰2,https://jpzy01.com/20230626/4hYahMIm/1000kb/hls/index.m3u8
+蓬莱仙山写真-夏日玫瑰3,https://jpzy01.com/20230626/OItHgyRe/1000kb/hls/index.m3u8
+蓬莱仙山写真-夏日玫瑰4,https://jpzy01.com/20230626/MAFTOVhW/1000kb/hls/index.m3u8
+勾魂恶梦,https://f005.paopao.video:443/B20EBA2BFEC71DA3123E87903B3B36B02ECE4E03
+野浪花,https://jpzy01.com/20211222/RzkHVbuD/index.m3u8
+三奸https://cf005.paopao.video:443/B5AE58AE870ACB3F876096DD76D5285611177118
+名妓游江南https://cf005.paopao.video:443/54B8A9B09EFE3102CA59787382F6518EA8A95343
+倩女销魂,https://z20241124.com/videos/202411/21/673e65c13276de039d31a55e/233d55/index.m3u8
+浪女迷魂记,https://v2.jegms.com/20221127/meWanQrB/index.m3u8
+色欲狂徙,https://v3.nfm3u8.com/20230529/mpoJFtuk/1100kb/hls/index.m3u8
+山中艳谭,https://v8.tlkqc.com/wjv8/202310/10/hLztMZdFui1/video/index.m3u8#https://vod11.wgslsw.com/20240413/64Du35S7/index.m3u8
+红楼春梦,https://jpzy01.com/20230217/bxiNUdqO/index.m3u8
+茜长的女儿,https://jpzy01.com/20240613/bqp9M9T6/index.m3u8
+赶尸艳谭,https://jpzy01.com/20211219/dSwaLrCK/index.m3u8
+淫童
+前世情迷,https://jpzy01.com/20230101/PUXaWyBh/index.m3u8
+留住真情,https://jpzy01.com/20230106/JDeeat2r/index.m3u8#https://ckzy1com.com/20230106/JDeeat2r/1000kb/hls/index.m3u8
+茶山春色,https://ckzy1com.com/20221217/XitsTZMj/index.m3u8
+
+carib363西川,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+Kpop Girl Does Porn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8
+学生眼中的女老师,https://vip15.play-cdn15.com/20230830/24366_2f5cc427/index.m3u8
+コスプレアイドルに,https://cf005.paopao.video:443/9C3C292CD89D64F2E8A14717A50881B08E7105B9
+JOA,https://2.ddyunbo.com/20190914/vL0TDJOa/index.m3u8
+1pon081712k,https://f005.paopao.video:443/C6AF681FDD0B9D9BFF8150630F0E1B56CF491DCD
+012823_001-1pon,https://f005.paopao.video:443/375BCA6C2E5BF6817E6778681D6535B5FE8318E7
+
+1pon_川原みのりエンドレスセックス,https://vip3.lbbf9.com/20220113/subsDqjy/1000kb/hls/index.m3u8
+1pon113017_612市来美保究極マゾ,https://www.lbbf9.com/20210617/BQKojYIM/700kb/hls/index.m3u8
+1pon113017_612市来美保究極マゾhttps://www.lbbf9.com/20210617/ox8fTZKt/700kb/hls/index.m3u8
+1pon061110_854,https://www.lbbf9.com/20200521/p3mHHHdx/700kb/hls/index.m3u8
+1pon_北条麻妃美痴女,https://vip3.lbbf9.com/20220109/mTNDPovo/1000kb/hls/index.m3u8
+面具,https://f005.paopao.video:443/18E688416EB56BE25C14D5BD5E4A3F7E4193BE4C
+0227 0258,https://cf005.paopao.video:443/59EF94373AAD6324AFB818600DE2B058E82D04E0
+051911 097,https://cf005.paopao.video:443/06E600E7941DDFD0FD093B847768BBD7582F538B
+080916 226,https://f005.paopao.video:443/CD75E5E526B646D2A27F16EF68205796B0A71E20
+091413 001,https://f005.paopao.video:443/6E6BC1C84C94FF19E11B24A4DFDA0DBA2B1E86FD
+100115 163,https://f005.paopao.video:443/E37C68B7385D180542C83C4BB4C8D8437D299F23
+123118 790,https://f005.paopao.video:443/F86A415FAEA74828F696516635216F5B65AD6B4F
+390JAC 044,https://f005.paopao.video:443/A7D6AB44EA0FAD936B70AD9632C6BEE666897549
+dv1233,https://f005.paopao.video:443/8E2D4FA205372AC60264C65E0C000DCCF27673E5
+room009,https://f005.paopao.video:443/673987CA919E2B4D834B88E00CF0EA80D89EBBBC
+meyd388,https://f005.paopao.video:443/48F3A7BB4385C062EE5B927F24FA8AA7B1137CBC
+sdmf008,https://cf005.paopao.video:443/121DC2092E1EE394639F13CD146FD17FE0F8A397
+SMBD115,https://cf005.paopao.video:443/5B62BED84B5207685E62A714C41F7FCE38BDF5C1
+SMD115,https://f005.paopao.video:443/B36BA120140657544BCEC64BA409007428DA8E37
+SRS039,https://f005.paopao.video:443/4EAB6AC8EDE8BDD80998EEED1B9D4C95DBCC1812
+SSNI781,https://f005.paopao.video:443/E4041EBB9AA9E890A920F1B573D5D1485AA08B6E
+n1161,https://cf005.paopao.video:443/A25142CA4B8780733F4BDBFB0DCB597FCCF104D3
+880652,https://cf005.paopao.video:443/07A92C8D2ABC87F9F9905B9400218AD0BC2318B3
+sis0321,https://f005.paopao.video:443/CACF9474997475A5FA022C252B64ED84D7B1A48D
+sis0322,https://f005.paopao.video:443/983D96FE18CE10F54F65D92BFAD634D42A619758
+7138,https://f005.paopao.video:443/0751117D54D35845129C3DA1131C9228E5996F74
+heyzo1031,https://f005.paopao.video:443/0BD73681E256D14FEE871B6B5DC45D2C86DB1F9C
 明里紬,https://618378.xyz/web/512695k.m3u8
 
+顶的让人仙仙欲死,https://m3u8.93cdn.com/newhd/202404/6630cbdbe2519513f3e84ca6/hls/index.m3u8
+巨乳女友的深情服务❤️,https://m3u8.76cdn.com/newhd/202401/65b9217b37926f1bd8c6824e/hls/index.m3u8
+欲求不满 乖乖趴好等著大肉棒伺候,https://m3u8.93cdn.com/newhd/202401/65b9217b37926f1bd8c68251/hls/index.m3u8
+想要被棒棒伺候自己脱,https://m3u8.93cdn.com/newhd/202401/65b9217b37926f1bd8c6824f/hls/index.m3u8
+和家人的温泉旅行被倦怠期的姐姐诱惑还是处男的我直到早晨的中出SEX神宫寺奈绪,https://m3u8.44cdn.com/newhd/202409/66d939b4e2519513f3eaf50f/hls/index.m3u8
+交换妻子,https://1080p.huyall.com/play/lej19M4d/index.m3u8
+
+
+東熱人生初中出,https://vip2.slbfsl.com/20230308/kjHlB1Na/index.m3u8
+東熱流3穴破壊カ,https://vip2.slbfsl.com/20230308/gagzlQzc/index.m3u8
+爆裂東熱混合潮,https://vip2.slbfsl.com/20230405/pcJn86Cv/index.m3u8
+东京松冈美织,https://fc.maa1804.com/e/lyimkdjwgp/lyimkdjwgp.m3u8
+东京_白石,https://fc.maa1804.com/n/qdbhccbuda/qdbhccbuda.m3u8
+东京_酒井,https://fc.maa1804.com/d/pilicllabs/pilicllabs.m3u8
+美月,https://fc.maa1804.com/g/ijttkoqump/ijttkoqump.m3u8
+音羽,https://fc.maa1804.com/f/rnczxtyxch/rnczxtyxch.m3u8
+西川,https://fc.maa1804.com/d/fhctzryess/fhctzryess.m3u8
+七濑,https://fc.maa1804.com/h/evzmbhpmfo/evzmbhpmfo.m3u8
+羽田真裡,https://fc.maa1804.com/f/jlntoqhqui/jlntoqhqui.m3u8
+美笑结衣,https://fc.maa1804.com/e/okxoirrjpv/okxoirrjpv.m3u8
+中野,https://fc.maa1804.com/n/paeuhdhlfl/paeuhdhlfl.m3u8
+水鸟文乃,https://fc.maa1804.com/h/irpvrehslk/irpvrehslk.m3u8
+东京热03,https://vip4.ddyunbo.com/20210610/jhj7S029/600kb/hls/index.m3u8
+东京热04,https://vip5.3sybf.com/20210502/0T9XpSwR/2000kb/hls/index.m3u8
+波多野结衣①,https://dadi-bo.com/20181219/DDIoB9jj/index.m3u8
+KpopGirlDoesPorn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8
+看護師２６歳-Part3,https://vip2.slbfsl.com/20230417/ljzPgqGF/index.m3u8
+可愛いママ友に魅かれて,https://vip2.slbfsl.com/20230417/IacWvSc8/index.m3u8
+恐怖で震えながら強制連続中出し。,https://vip2.slbfsl.com/20230417/NVITp81V/index.m3u8
+令嬢と召使?舌をいっぱい出してワレメを舐めなさいよ?,https://vip2.slbfsl.com/20230418/wayddC9H/index.m3u8
+流出版-大橋優子無碼流出,https://vip2.slbfsl.com/20230418/KXcOJc28/index.m3u8
+流出版-吉澤明步無碼流出-Part3,https://vip2.slbfsl.com/20230419/SPmxpGOs/index.m3u8
+流出版-水無瀨優夏無碼流出,https://vip2.slbfsl.com/20230419/epdFbro2/index.m3u8
+东京热04,https://vip5.3sybf.com/20210502/0T9XpSwR/2000kb/hls/index.m3u8
+淫亂_吳芳宜,https://47b61.cdnedge.live/file/avple-images/hls/61efa0b25d579208810784f6/playlist.m3u8
+小花のん白衣の爆乳,https://video57.msn17.com/video/20230707/f4c566a9706eec28ebe637fa20a5d404/index.m3u8
+巨乳护士,https://video45.msn17.com/video/20230201/7648b43e6117da9370ca8f9113ba328c/index.m3u8
+一本道_餐馆的女员工被同事们中出调教雾生ゆきな,https://v.didivod.com/20220817/Fnmgqp2H/index.m3u8
+人妻不伦温泉:水野葵,https://v.didivod.com/20220817/iaOGRbxL/index.m3u8
+混血巨乳风俗美女仲村纱梨的服务,https://v.didivod.com/20220817/oRaM5dEn/index.m3u8
+DRG-15北条麻妃,https://v.didivod.com/20220817/iuppqoGA/index.m3u8
+仲村さりくわえたい冲动のエロカワ美女?喉奥いっぱいぶち込んでく,https://v.didivod.com/20220817/2FEgrAkk/index.m3u8
+一道本_狂野美女LUNA的无码出道作,https://v.didivod.com/20220817/aauVbk9F/index.m3u8
+一本道_上原亜衣?本気スペシャル?,https://v.didivod.com/20220817/YbbuEWgp/index.m3u8
+一根肉棒不能满足！东山実,https://v.didivod.com/20220817/VjqTvnaA/index.m3u8
+榨干你三次还不罢休的极上无毛女优Ray,https://v.didivod.com/20220817/KLe5s3wJ/index.m3u8
+名模精选姬川优奈,https://video35.msn17.com/video/20220804/0e70d23c034810cd1ce5a82815db0a69/index.m3u8
+东京热_群P,https://video36.msn17.com/video/20220817/047b26f49a809e7f7d93924cdaadac11/index.m3u8
 
 爱情公寓5, https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/01e75fc2/index.m3u8
 m3u8/2021/01/11/182e1931/index.m3u8
@@ -8868,21 +9201,6 @@ m3u8/2021/01/11/182e1931/index.m3u8
 欧美15,https://vod.mycamtv.net/15.m3u8
 欧美156,https://vod.mycamtv.net/156.m3u8
 
-Girl & Girl 1,http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/3599.mp4
-Girl & Girl 13,http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/5028.mp4
-Girl & Girl 14,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/7244.mp4
-Girl & Girl 15,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/10334.mp4
-Girl & Girl 16,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/1110.mp4
-Girl & Girl 17,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/6892.mp4
-Girl & Girl 18,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/18160.mp4
-Girl & Girl 19,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/23621.mp4
-Girl & Girl 20,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/460.mp4
-Girl & Girl 22,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/4507.mp4
-Girl & Girl 24,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/12646.mp4
-Girl & Girl 25,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/3108.mp4
-Girl & Girl 27,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/14002.mp4
-Girl & Girl 29,http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/4972.mp4
-Girl & Girl 30,http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/20606.mp4
 Young coach seduced and fucked busty mature woman India Summermp4,https://vip1.slbfsl.com/20221016/mGB4OsHe/index.m3u8
 Kendra Lust - Married swinger couple seduced sweet girl Holly Michaels,https://vip1.slbfsl.com/20221025/tMO6PZ2h/index.m3u8
 Black policewoman Misty Stone takes a big cock in the interrogation cell,https://vip1.slbfsl.com/20221026/LvxQ9MSM/index.m3u8
@@ -8893,326 +9211,10 @@ Athletic fitness trainer Victoria June gets hard fucked during workout,https://v
 Young blonde Naomi Woods and her mature mentor Karla Kush on black penis,https://vip1.slbfsl.com/20221027/vGoKS7Y4/index.m3u8
 [美国]门环公爵2(1992),https://vip2.slbfsl.com/20230330/BoK9KIV6/index.m3u8
 
-MIAA-248奏音花音,https://videomy.yongaomy.com/20210721/6NCwf1nt/1500kb/hls/index.m3u8
-妹妹,https://videomy.yongaomy.com:8091/20200126/SW-587/1500kb/hls/index.m3u8
-悲剧女主播,https://videomy.yongaomy.com:8091/20191223/TOz9KzyG/1500kb/hls/index.m3u8
 WhiteBoxxx,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6267/index.m3u8
-大觉醒伊贺,https://videomy.yongaomy.com:8091/20200126/SSNI-681/1500kb/hls/index.m3u8
 Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
 Fetish,http://cdn.adultiptv.net/fetish.m3u8
-风俗女郎都咲乃,https://videomy.yongaomy.com:8091/20191223/jYalymoY/1500kb/hls/index.m3u8
 LiveCams,http://cdn.adultiptv.net/livecams.m3u8
-
-🌹其他肾宝_267,#genre#
-
-
-
-顶的让人仙仙欲死,https://m3u8.93cdn.com/newhd/202404/6630cbdbe2519513f3e84ca6/hls/index.m3u8
-巨乳女友的深情服务❤️,https://m3u8.76cdn.com/newhd/202401/65b9217b37926f1bd8c6824e/hls/index.m3u8
-欲求不满 乖乖趴好等著大肉棒伺候,https://m3u8.93cdn.com/newhd/202401/65b9217b37926f1bd8c68251/hls/index.m3u8
-想要被棒棒伺候自己脱,https://m3u8.93cdn.com/newhd/202401/65b9217b37926f1bd8c6824f/hls/index.m3u8
-和家人的温泉旅行被倦怠期的姐姐诱惑还是处男的我直到早晨的中出SEX神宫寺奈绪,https://m3u8.44cdn.com/newhd/202409/66d939b4e2519513f3eaf50f/hls/index.m3u8
-交换妻子,https://1080p.huyall.com/play/lej19M4d/index.m3u8
-
-
-東熱人生初中出,https://vip2.slbfsl.com/20230308/kjHlB1Na/index.m3u8
-東熱流3穴破壊カ,https://vip2.slbfsl.com/20230308/gagzlQzc/index.m3u8
-爆裂東熱混合潮,https://vip2.slbfsl.com/20230405/pcJn86Cv/index.m3u8
-东京松冈美织,https://fc.maa1804.com/e/lyimkdjwgp/lyimkdjwgp.m3u8
-东京_白石,https://fc.maa1804.com/n/qdbhccbuda/qdbhccbuda.m3u8
-东京_酒井,https://fc.maa1804.com/d/pilicllabs/pilicllabs.m3u8
-美月,https://fc.maa1804.com/g/ijttkoqump/ijttkoqump.m3u8
-音羽,https://fc.maa1804.com/f/rnczxtyxch/rnczxtyxch.m3u8
-西川,https://fc.maa1804.com/d/fhctzryess/fhctzryess.m3u8
-七濑,https://fc.maa1804.com/h/evzmbhpmfo/evzmbhpmfo.m3u8
-羽田真裡,https://fc.maa1804.com/f/jlntoqhqui/jlntoqhqui.m3u8
-美笑结衣,https://fc.maa1804.com/e/okxoirrjpv/okxoirrjpv.m3u8
-中野,https://fc.maa1804.com/n/paeuhdhlfl/paeuhdhlfl.m3u8
-水鸟文乃,https://fc.maa1804.com/h/irpvrehslk/irpvrehslk.m3u8
-东京热03,https://vip4.ddyunbo.com/20210610/jhj7S029/600kb/hls/index.m3u8
-东京热04,https://vip5.3sybf.com/20210502/0T9XpSwR/2000kb/hls/index.m3u8
-波多野结衣①,https://dadi-bo.com/20181219/DDIoB9jj/index.m3u8
-KpopGirlDoesPorn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8
-看護師２６歳-Part3,https://vip2.slbfsl.com/20230417/ljzPgqGF/index.m3u8
-可愛いママ友に魅かれて,https://vip2.slbfsl.com/20230417/IacWvSc8/index.m3u8
-恐怖で震えながら強制連続中出し。,https://vip2.slbfsl.com/20230417/NVITp81V/index.m3u8
-令嬢と召使?舌をいっぱい出してワレメを舐めなさいよ?,https://vip2.slbfsl.com/20230418/wayddC9H/index.m3u8
-流出版-大橋優子無碼流出,https://vip2.slbfsl.com/20230418/KXcOJc28/index.m3u8
-流出版-吉澤明步無碼流出-Part3,https://vip2.slbfsl.com/20230419/SPmxpGOs/index.m3u8
-流出版-水無瀨優夏無碼流出,https://vip2.slbfsl.com/20230419/epdFbro2/index.m3u8
-东京热04,https://vip5.3sybf.com/20210502/0T9XpSwR/2000kb/hls/index.m3u8
-淫亂_吳芳宜,https://47b61.cdnedge.live/file/avple-images/hls/61efa0b25d579208810784f6/playlist.m3u8
-小花のん白衣の爆乳,https://video57.msn17.com/video/20230707/f4c566a9706eec28ebe637fa20a5d404/index.m3u8
-巨乳护士,https://video45.msn17.com/video/20230201/7648b43e6117da9370ca8f9113ba328c/index.m3u8
-一本道_餐馆的女员工被同事们中出调教雾生ゆきな,https://v.didivod.com/20220817/Fnmgqp2H/index.m3u8
-人妻不伦温泉:水野葵,https://v.didivod.com/20220817/iaOGRbxL/index.m3u8
-混血巨乳风俗美女仲村纱梨的服务,https://v.didivod.com/20220817/oRaM5dEn/index.m3u8
-DRG-15北条麻妃,https://v.didivod.com/20220817/iuppqoGA/index.m3u8
-仲村さりくわえたい冲动のエロカワ美女?喉奥いっぱいぶち込んでく,https://v.didivod.com/20220817/2FEgrAkk/index.m3u8
-一道本_狂野美女LUNA的无码出道作,https://v.didivod.com/20220817/aauVbk9F/index.m3u8
-一本道_上原亜衣?本気スペシャル?,https://v.didivod.com/20220817/YbbuEWgp/index.m3u8
-一根肉棒不能满足！东山実,https://v.didivod.com/20220817/VjqTvnaA/index.m3u8
-榨干你三次还不罢休的极上无毛女优Ray,https://v.didivod.com/20220817/KLe5s3wJ/index.m3u8
-名模精选姬川优奈,https://video35.msn17.com/video/20220804/0e70d23c034810cd1ce5a82815db0a69/index.m3u8
-东京热_群P,https://video36.msn17.com/video/20220817/047b26f49a809e7f7d93924cdaadac11/index.m3u8
-
-🌹一本道_267,#genre#
-一本道_1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
-一本道_2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-一本道_3,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-一本道_4,https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8
-一本道_5,https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8
-一本道_6,https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8
-一本道_7,https://vip4.ddyunbo.com/20210203/DYtc79vE/index.m3u8
-一本道_8,https://vip4.ddyunbo.com/20210202/cy0urBhD/index.m3u8
-一本道_9,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8
-一本道_10,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8
-一本道_11,https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8
-一本道_12,https://vip4.ddyunbo.com/20190904/HqGckgKl/index.m3u8
-一本道_13,https://vip4.ddyunbo.com/20190904/m94xaoPh/index.m3u8
-一本道_14,https://vip4.ddyunbo.com/20190908/1oZ5V2g2/index.m3u8
-一本道_15,https://vip4.ddyunbo.com/20190904/wJoZlwtT/index.m3u8
-一本道_16,https://vip4.ddyunbo.com/20190904/ZnGN7sEl/index.m3u8
-一本道_18,https://vip4.ddyunbo.com/20190908/ETghLd5D/index.m3u8
-一本道_20,https://vip4.ddyunbo.com/20190908/zSd2DI9R/index.m3u8
-一本道_34,https://vip4.ddyunbo.com/20191007/IFlq5eON/index.m3u8
-一本道_36,https://vip4.ddyunbo.com/20190907/PH1oGegu/index.m3u8
-一本道_37,https://vip4.ddyunbo.com/20191206/aIGd1S2S/index.m3u8
-一本道_39,https://vip4.ddyunbo.com/20191209/eOWqpnjK/index.m3u8
-一本道_40,https://vip4.ddyunbo.com/20191203/kT2Rfcof/index.m3u8
-一本道_41,https://vip4.ddyunbo.com/20191203/eKcaCDs1/index.m3u8
-一本道_42,https://vip4.ddyunbo.com/20191204/jouQzYVh/index.m3u8
-一本道_43,https://vip4.ddyunbo.com/20190824/InhHOPJz/index.m3u8
-一本道_44,https://vip4.ddyunbo.com/20191201/yKe6LATy/index.m3u8
-一本道_46,https://vip4.ddyunbo.com/20191104/NAZTGvOC/index.m3u8
-一本道_47,https://vip4.ddyunbo.com/20190724/fpVllSSA/index.m3u8
-一本道_48,https://vip4.ddyunbo.com/20191115/nz0OLAD7/index.m3u8
-一本道_50,https://vip4.ddyunbo.com/20191111/YQ1Jvlo7/index.m3u8
-一本道_51,https://vip4.ddyunbo.com/20191203/mXPJeA8L/index.m3u8
-一本道_54,https://vip4.ddyunbo.com/20191211/EmnFBcTv/index.m3u8
-一本道_56,https://vip4.ddyunbo.com/20191207/3l1NKbd9/index.m3u8
-一本道_58,https://vip4.ddyunbo.com/20191121/NoBsuuFA/index.m3u8
-一本道_71,https://vip4.ddyunbo.com/20191128/J5nWdwcz/index.m3u8
-一本道_77,https://vip4.ddyunbo.com/20191104/5Br1zP28/index.m3u8
-一本道_80,https://vip4.ddyunbo.com/20191205/0oLr2jlQ/index.m3u8
-一本道_81,https://vip4.ddyunbo.com/20191110/Z3mWJbrz/index.m3u8
-一本道_82,https://vip4.ddyunbo.com/20190724/SRcabvNZ/index.m3u8
-一本道_83,https://vip4.ddyunbo.com/20191127/52rP822O/index.m3u8
-一本道_84,https://vip4.ddyunbo.com/20191207/p0zvtDBY/index.m3u8
-一本道_85,https://vip4.ddyunbo.com/20191208/dw94ieYl/index.m3u8
-一本道_86,https://vip4.ddyunbo.com/20190913/MA5Cn7rw/index.m3u8
-一本道_87,https://vip4.ddyunbo.com/20191210/tyN6I80q/index.m3u8
-一本道_88,https://vip4.ddyunbo.com/20191122/QMk66MvN/index.m3u8
-一本道_89,https://vip4.ddyunbo.com/20191206/trGVPzmt/index.m3u8
-一本道_90,https://vip4.ddyunbo.com/20191010/xcMAZOOw/index.m3u8
-一本道_91,https://vip4.ddyunbo.com/20191207/tBB5RkgE/index.m3u8
-一本道_101,https://vip4.ddyunbo.com/20190801/68w4hmaH/index.m3u8
-一本道_102,https://vip4.ddyunbo.com/20191203/AdOtik4n/index.m3u8
-一本道_105,https://vip4.ddyunbo.com/20191203/lrQfHler/index.m3u8
-一本道_106,https://vip4.ddyunbo.com/20191203/5E24xFQu/index.m3u8
-一本道_107,https://vip4.ddyunbo.com/20191206/wElIhu09/index.m3u8
-一本道_109,https://vip4.ddyunbo.com/20191130/5D8rho9Y/index.m3u8
-一本道_110,https://vip4.ddyunbo.com/20191125/b7iK6Oay/index.m3u8
-一本道_111,https://vip4.ddyunbo.com/20191118/pa08NZI8/index.m3u8
-一本道_113,https://vip4.ddyunbo.com/20191208/YoOOpIoB/index.m3u8
-一本道_114,https://vip4.ddyunbo.com/20191206/KlOfpmXm/index.m3u8
-一本道_115,https://vip4.ddyunbo.com/20191128/bhlfixkB/index.m3u8
-一本道_118,https://vip4.ddyunbo.com/20191020/HFA1EICB/index.m3u8
-一本道_119,https://vip4.ddyunbo.com/20190725/QoR2tEMa/index.m3u8
-一本道_123,https://vip4.ddyunbo.com/20191206/beXglix7/index.m3u8
-一本道_132,https://vip4.ddyunbo.com/20191008/aJt3osLQ/index.m3u8
-一本道_134,https://vip4.ddyunbo.com/20190712/AWmTfG0V/index.m3u8
-一本道_137,https://vip4.ddyunbo.com/20191205/ZhyfTfzD/index.m3u8
-一本道_138,https://vip4.ddyunbo.com/20191209/Cg46YFFD/index.m3u8
-一本道_140,https://vip4.ddyunbo.com/20191206/D2NceISA/index.m3u8
-一本道_141,https://vip4.ddyunbo.com/20190703/TS1mxp2x/index.m3u8
-一本道_142,https://vip4.ddyunbo.com/20191127/28kOylU9/index.m3u8
-一本道_143,https://vip4.ddyunbo.com/20190924/1r6n6c3u/index.m3u8
-一本道_144,https://vip4.ddyunbo.com/20191201/8UTueLDg/index.m3u8
-一本道_146,https://vip4.ddyunbo.com/20191109/7zPRNKbZ/index.m3u8
-一本道_147,https://vip4.ddyunbo.com/20191208/0gSaR7IX/index.m3u8
-一本道_149,https://vip4.ddyunbo.com/20191108/iI37Slwz/index.m3u8
-一本道_151,https://vip4.ddyunbo.com/20191206/DRjLLulI/index.m3u8
-一本道_152,https://vip4.ddyunbo.com/20191208/F59kEATh/index.m3u8
-一本道_153,https://vip4.ddyunbo.com/20191205/u11PSJcw/index.m3u8
-一本道_154,https://vip4.ddyunbo.com/20191203/PldaO4lb/index.m3u8
-一本道_155,https://vip4.ddyunbo.com/20191206/AYu0BDSt/index.m3u8
-一本道_156,https://vip4.ddyunbo.com/20191211/M3q09qGG/index.m3u8
-一本道_163,https://vip4.ddyunbo.com/20191121/5fNyVOF0/index.m3u8
-一本道_164,https://vip4.ddyunbo.com/20191120/c3IW5efi/index.m3u8
-一本道_173,https://vip4.ddyunbo.com/20191201/XJwjwidw/index.m3u8
-一本道_175,https://vip4.ddyunbo.com/20190918/dW0J9fzv/index.m3u8
-一本道_176,https://vip4.ddyunbo.com/20191125/vpMcTD6O/index.m3u8
-一本道_182,https://vip4.ddyunbo.com/20191203/nYjY9u2u/index.m3u8
-一本道_186,https://vip4.ddyunbo.com/20191110/7bbcTr2N/index.m3u8
-一本道_187,https://vip4.ddyunbo.com/20191127/65PpXoMw/index.m3u8
-一本道_197,https://vip4.ddyunbo.com/20190924/cJ5trNUQ/index.m3u8
-一本道_202,https://vip4.ddyunbo.com/20191203/52ec89LM/index.m3u8
-一本道_207,https://vip4.ddyunbo.com/20191206/KcxaHKNK/index.m3u8
-一本道_208,https://vip4.ddyunbo.com/20191130/aACNUDUx/index.m3u8
-一本道_211,https://vip4.ddyunbo.com/20191110/NwogQedH/index.m3u8
-一本道_219,https://vip4.ddyunbo.com/20191201/Lwlr3Bkj/index.m3u8
-一本道_227,https://vip4.ddyunbo.com/20191201/K4Kv3dAa/index.m3u8
-一本道_234,https://vip4.ddyunbo.com/20191212/HePcXP5K/index.m3u8
-一本道_242,https://vip4.ddyunbo.com/20191203/eBg5Mcqa/index.m3u8
-一本道_243,https://vip4.ddyunbo.com/20191028/bnoZp1dl/index.m3u8
-一本道_249,https://vip4.ddyunbo.com/20191102/E6lR5iaR/index.m3u8
-一本道_261,https://vip4.ddyunbo.com/20190729/aN7GcbnY/index.m3u8
-一本道_264,https://vip4.ddyunbo.com/20191201/YEg5oWil/index.m3u8
-一本道_268,https://vip4.ddyunbo.com/20191208/BS0JwI5Z/index.m3u8
-一本道_274,https://vip4.ddyunbo.com/20191102/thRqkr3J/index.m3u8
-一本道_275,https://vip4.ddyunbo.com/20191008/ONnuL7h3/index.m3u8
-一本道_276,https://vip4.ddyunbo.com/20190904/f9ADZ1CY/index.m3u8
-一本道_277,https://vip4.ddyunbo.com/20190904/UfqniQi1/index.m3u8
-一本道_278,https://vip4.ddyunbo.com/20191211/FFE0h29v/index.m3u8
-一本道_280,https://vip4.ddyunbo.com/20191121/VmpUGI2G/index.m3u8
-一本道_281,https://vip4.ddyunbo.com/20190909/jRVMH9sc/index.m3u8
-一本道_301,https://vip4.ddyunbo.com/20191213/J6Cv9gPJ/index.m3u8
-一本道_305,https://vip4.ddyunbo.com/20191128/dkDIOfQC/index.m3u8
-一本道_306,https://vip4.ddyunbo.com/20191130/c6PcG5MJ/index.m3u8
-一本道_309,https://vip4.ddyunbo.com/20191111/DlyNFtz9/index.m3u8
-一本道_310,https://vip4.ddyunbo.com/20191106/yFE2T1bI/index.m3u8
-一本道_311,https://vip4.ddyunbo.com/20191128/0UFCYn1m/index.m3u8
-一本道_313,https://vip4.ddyunbo.com/20191208/2uX0tXFP/index.m3u8
-一本道_314,https://vip4.ddyunbo.com/20191112/xgfe7yP7/index.m3u8
-一本道_315,https://vip4.ddyunbo.com/20191204/vbdhMyr9/index.m3u8
-一本道_317,https://vip4.ddyunbo.com/20191211/mKHj4MjF/index.m3u8
-一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
-一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
-一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
-东北往事之黑道风云二十年11,https://vip.ffzy-online4.com/20230404/18386_b159ee99/2000k/hls/mixed.m3u8
-东北往事之黑道风云二十年17,https://vip.lz-cdn16.com/20230731/33145_85f5b5e4/2000k/hls/mixed.m3u8
-销魂玉,https://hd.ijycnd.com/play/QdJqQ0ob/index.m3u8
-淫乱人间,https://yzzy.play-cdn14.com/20230715/29635_6f025e2a/index.m3u8
-春宫豪放女,https://cdn14.yzzy-dy-cdn.com/20230812/31319_c22431b9/index.m3u8
-春宫妖姬,https://yzzy.play-cdn14.com/20230621/26931_f06631ae/index.m3u8
-红楼18春,https://hd.ijycnd.com/play/QbYGwpez/index.m3u8#https://jpzy01.com/20230105/NDbZf3ps/index.m3u8
-镜花风月之螺女挑情,https://hd.ijycnd.com/play/PdRgXDVe/index.m3u8
-轻轻的第一次,https://jpzy01.com/20230503/1cCkbjcE/1000kb/hls/index.m3u8
-都是匋宏惹的祸,https://bfikuncdn.com/20240425/t9snRY2q/2000kb/hls/index.m3u8
-星路梦回,https://bfikuncdn.com/20240423/sE9FUTu9/2000kb/hls/index.m3u8
-欲火雄风龙凤配,https://bfikuncdn.com/20240423/wn6CjpAM/2000kb/hls/index.m3u8
-天边一朵云,https://ukzyll.ukubf6.com/20220706/IDF6m8YC/2000kb/hls/index.m3u8
-北投狼人,https://ukzyll.ukubf6.com/20220706/IDF6m8YC/2000kb/hls/index.m3u8
-化骨棉掌,https://vv.jisuzyv.com/play/zbq6VBpd/index.m3u8
-色欲档案之麻雀台上淫,https://vod11.wgslsw.com/20240413/mPdnvTK2/index.m3u8
-星路梦回,https://bfikuncdn.com/20240423/sE9FUTu9/2000kb/hls/index.m3u8
-叛客与雷鬼,https://vod11.wgslsw.com/20240413/uKXqj2F5/index.m3u8
-美丽的杀手,https://vod11.wgslsw.com/20240413/Y64XRP7r/index.m3u8
-欲火狂情,https://jpzy01.com/20240617/0hX4bLa4/3869kb/hls/index.m3u8
-唇香.体香.女人香,https://ukzyll.ukubf6.com/20220615/7QyPrrZ4/2000kb/hls/index.m3u8
-枪下新娘,https://vod11.wgslsw.com/20240413/SMo8cYau/index.m3u8
-困着她的心灵,https://vod11.wgslsw.com/20240413/VQsRVkll/index.m3u8
-占有欲强的女人,https://vod11.wgslsw.com/20240413/h8sbinOI/index.m3u8
-追你一世,https://vod11.wgslsw.com/20240413/vbIonnAi/index.m3u8
-午夜叫声,https://vod11.wgslsw.com/20240413/IqaxkjFG/index.m3u8
-脱轨边缘人,https://ukzyll.ukubf6.com/20220528/woEv6Q0L/2000kb/hls/index.m3u8
-山庄情挑,https://vod11.wgslsw.com/20240413/cdGDaZ0F/index.m3u8
-造爱人间,https://vod11.wgslsw.com/20240413/cdGDaZ0F/index.m3u8
-变身,https://vod11.wgslsw.com/20240413/7zBawDWh/index.m3u8
-危情杀机,https://ukzyll.ukubf6.com/20220528/0I2i37Pd/2000kb/hls/index.m3u8
-欲海双艳,https://bfikuncdn.com/20240423/KYN3UNMr/2000kb/hls/index.m3u8
-纵欲聊斋,https://ukzyll.ukubf6.com/20220717/a7JPTuHX/2000kb/hls/index.m3u8
-灵山奇谭,https://ukzyll.ukubf6.com/20220717/a7JPTuHX/2000kb/hls/index.m3u8
-空虚少妇性告白,https://vod11.wgslsw.com/20240413/UncMrKj6/index.m3u8
-野店,https://bfikuncdn.com/20240423/QKJ45DP5/2000kb/hls/index.m3u8
-镜花风月之春降,https://bfikuncdn.com/20240423/QKJ45DP5/2000kb/hls/index.m3u8
-花女破处实录,https://ukzyll.ukubf6.com/20220615/PtWcgHlT/2000kb/hls/index.m3u8
-百合情韵,https://ukzyll.ukubf6.com/20220525/lvkbIXnN/2000kb/hls/index.m3u8
-寡妇的男人,https://vod11.wgslsw.com/20240413/zTORtTQC/index.m3u8
-性妲己,https://play.hhuus.com/play/1aMXmyPe/index.m3u8
-火爆倩女,https://vod11.wgslsw.com/20240413/GEd0CwIy/index.m3u8
-武林皇后,https://jpzy01.com/20230213/u8NEqYNY/1000kb/hls/index.m3u8
-血泪江湖,https://vod11.wgslsw.com/20240413/qZrPV9gu/index.m3u8
-灵与肉,https://vod11.wgslsw.com/20240413/qZrPV9gu/index.m3u8
-杏林春暖,https://play.gayzyv.com/play/nelYXxVa/index.m3u8
-淫荡书生众美女,https://play.gayzyv.com/play/nelYXxVa/index.m3u8
-绝世妖女,https://m3u.nikanba.live/share/43b58cc467de5cff40c1ae5fce26ef1a.m3u8
-侦探艳史,https://ukzyll.ukubf6.com/20220615/DapSX6Ko/2000kb/hls/index.m3u8
-处女奇兵,https://jpzy01.com/20230419/4VRzn3X3/1000kb/hls/index.m3u8
-洪晓芸写真,https://jpzy01.com/20230425/N6PaeUMX/1000kb/hls/index.m3u8
-大盜情人,https://jpzy01.com/20221218/SLC0mG0K/1000kb/hls/index.m3u8
-鼠年12性肖淫程,https://jpzy01.com/20230219/Yq5GEHnY/1000kb/hls/index.m3u8
-淫欲女秘书,https://v.ykv3.com/20240521/lFfRxy2B/1000kb/hls/index.m3u8
-风情小姨子,https://bfikuncdn.com/20240422/HaCx3UB7/2000kb/hls/index.m3u8
-浪漫女家教,https://jpzy01.com/20221230/k0F7eNsD/1000kb/hls/index.m3u8
-催眠指令,https://jpzy01.com/20240809/PhsKKUvl/2887kb/hls/index.m3u8
-黄色追杀令,https://jpzy01.com/20230106/T4zi4Bj7/1000kb/hls/index.m3u8
-台北强奸春潮,https://play.gayzyv.com/play/BeXDqLoe/index.m3u8
-女狱秘闻,https://vod11.wgslsw.com/20240413/kLCCiN0g/index.m3u8
-荡女诉心声,https://jpzy01.com/20220529/26Mf7kvk/1000kb/hls/index.m3u8
-女鬼丽影,https://jpzy01.com/20230503/fF15eaAN/1000kb/hls/index.m3u8
-打山鸡,https://jpzy01.com/20230622/7ALCcm82/1000kb/hls/index.m3u8
-色欲野鸳鸯,https://jpzy01.com/20230612/pkOheIEk/1000kb/hls/index.m3u8?
-山中艳潭,https://vip.ffzy-play8.com/20230914/1929_4a35a2ea/2000k/hls/mixed.m3u8
-亡命霸王花,https://jpzy01.com/20230618/6bTrfQW6/1000kb/hls/index.m3u8
-怀香少女,https://vip.ffzy-play8.com/20240620/2805_28c0ebb3/2000k/hls/mixed.m3u8
-恶煞生死线,https://jpzy01.com/20230220/iNP8YaB2/1000kb/hls/index.m3u8?
-葵花宝典,https://jpzy01.com/20230213/Yty5YnPl/1000kb/hls/index.m3u8
-欲望街车,https://ukzyll.ukubf6.com/20220530/OfkXaU3C/2000kb/hls/index.m3u8
-红粉幽魂,https://jpzy01.com/20240518/UbYpvMNI/1100kb/hls/index.m3u8
-灵幻新娘,https://jpzy01.com/20211227/buk5gjdf/800kb/hls/index.m3u8?
-台湾AN4U美女刘雪嬅写真,https://jpzy01.com/20220124/SlxXmej5/900kb/hls/index.m3u8
-色狼传说,https://jpzy01.com/20230505/xZNHaCG4/1000kb/hls/index.m3u8
-满床春水,https://jpzy01.com/20230213/VkFliFY2/1000kb/hls/index.m3u8
-台湾內衣女孩写真,https://jpzy01.com/20240421/ciky3Gar/1100kb/hls/index.m3u8?
-蓬莱仙山写真-夏日玫瑰,https://jpzy01.com/20230626/vILqH6XK/1000kb/hls/index.m3u8
-蓬莱仙山写真-夏日玫瑰2,https://jpzy01.com/20230626/4hYahMIm/1000kb/hls/index.m3u8
-蓬莱仙山写真-夏日玫瑰3,https://jpzy01.com/20230626/OItHgyRe/1000kb/hls/index.m3u8
-蓬莱仙山写真-夏日玫瑰4,https://jpzy01.com/20230626/MAFTOVhW/1000kb/hls/index.m3u8
-勾魂恶梦,https://f005.paopao.video:443/B20EBA2BFEC71DA3123E87903B3B36B02ECE4E03
-野浪花,https://jpzy01.com/20211222/RzkHVbuD/index.m3u8
-三奸https://cf005.paopao.video:443/B5AE58AE870ACB3F876096DD76D5285611177118
-名妓游江南https://cf005.paopao.video:443/54B8A9B09EFE3102CA59787382F6518EA8A95343
-倩女销魂,https://z20241124.com/videos/202411/21/673e65c13276de039d31a55e/233d55/index.m3u8
-浪女迷魂记,https://v2.jegms.com/20221127/meWanQrB/index.m3u8
-色欲狂徙,https://v3.nfm3u8.com/20230529/mpoJFtuk/1100kb/hls/index.m3u8
-色欲野鸳鸯,https://v3.nfm3u8.com/20230529/g02Dx5q8/index.m3u8
-山中艳谭,https://v8.tlkqc.com/wjv8/202310/10/hLztMZdFui1/video/index.m3u8#https://vod11.wgslsw.com/20240413/64Du35S7/index.m3u8
-红楼春梦,https://jpzy01.com/20230217/bxiNUdqO/index.m3u8
-茜长的女儿,https://jpzy01.com/20240613/bqp9M9T6/index.m3u8
-赶尸艳谭,https://jpzy01.com/20211219/dSwaLrCK/index.m3u8
-淫童
-前世情迷,https://jpzy01.com/20230101/PUXaWyBh/index.m3u8
-留住真情,https://jpzy01.com/20230106/JDeeat2r/index.m3u8#https://ckzy1com.com/20230106/JDeeat2r/1000kb/hls/index.m3u8
-茶山春色,https://ckzy1com.com/20221217/XitsTZMj/index.m3u8
-
-carib363西川,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
-Kpop Girl Does Porn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8
-学生眼中的女老师,https://vip15.play-cdn15.com/20230830/24366_2f5cc427/index.m3u8
-コスプレアイドルに,https://cf005.paopao.video:443/9C3C292CD89D64F2E8A14717A50881B08E7105B9
-JOA,https://2.ddyunbo.com/20190914/vL0TDJOa/index.m3u8
-1pon081712k,https://f005.paopao.video:443/C6AF681FDD0B9D9BFF8150630F0E1B56CF491DCD
-012823_001-1pon,https://f005.paopao.video:443/375BCA6C2E5BF6817E6778681D6535B5FE8318E7
-
-1pon_川原みのりエンドレスセックス,https://vip3.lbbf9.com/20220113/subsDqjy/1000kb/hls/index.m3u8
-1pon113017_612市来美保究極マゾ,https://www.lbbf9.com/20210617/BQKojYIM/700kb/hls/index.m3u8
-1pon113017_612市来美保究極マゾhttps://www.lbbf9.com/20210617/ox8fTZKt/700kb/hls/index.m3u8
-1pon061110_854,https://www.lbbf9.com/20200521/p3mHHHdx/700kb/hls/index.m3u8
-1pon_北条麻妃美痴女,https://vip3.lbbf9.com/20220109/mTNDPovo/1000kb/hls/index.m3u8
-面具,https://f005.paopao.video:443/18E688416EB56BE25C14D5BD5E4A3F7E4193BE4C
-0227 0258,https://cf005.paopao.video:443/59EF94373AAD6324AFB818600DE2B058E82D04E0
-051911 097,https://cf005.paopao.video:443/06E600E7941DDFD0FD093B847768BBD7582F538B
-080916 226,https://f005.paopao.video:443/CD75E5E526B646D2A27F16EF68205796B0A71E20
-091413 001,https://f005.paopao.video:443/6E6BC1C84C94FF19E11B24A4DFDA0DBA2B1E86FD
-100115 163,https://f005.paopao.video:443/E37C68B7385D180542C83C4BB4C8D8437D299F23
-123118 790,https://f005.paopao.video:443/F86A415FAEA74828F696516635216F5B65AD6B4F
-390JAC 044,https://f005.paopao.video:443/A7D6AB44EA0FAD936B70AD9632C6BEE666897549
-dv1233,https://f005.paopao.video:443/8E2D4FA205372AC60264C65E0C000DCCF27673E5
-room009,https://f005.paopao.video:443/673987CA919E2B4D834B88E00CF0EA80D89EBBBC
-meyd388,https://f005.paopao.video:443/48F3A7BB4385C062EE5B927F24FA8AA7B1137CBC
-sdmf008,https://cf005.paopao.video:443/121DC2092E1EE394639F13CD146FD17FE0F8A397
-SMBD115,https://cf005.paopao.video:443/5B62BED84B5207685E62A714C41F7FCE38BDF5C1
-SMD115,https://f005.paopao.video:443/B36BA120140657544BCEC64BA409007428DA8E37
-SRS039,https://f005.paopao.video:443/4EAB6AC8EDE8BDD80998EEED1B9D4C95DBCC1812
-SSNI781,https://f005.paopao.video:443/E4041EBB9AA9E890A920F1B573D5D1485AA08B6E
-n1161,https://cf005.paopao.video:443/A25142CA4B8780733F4BDBFB0DCB597FCCF104D3
-880652,https://cf005.paopao.video:443/07A92C8D2ABC87F9F9905B9400218AD0BC2318B3
-sis0321,https://f005.paopao.video:443/CACF9474997475A5FA022C252B64ED84D7B1A48D
-sis0322,https://f005.paopao.video:443/983D96FE18CE10F54F65D92BFAD634D42A619758
-7138,https://f005.paopao.video:443/0751117D54D35845129C3DA1131C9228E5996F74
-heyzo1031,https://f005.paopao.video:443/0BD73681E256D14FEE871B6B5DC45D2C86DB1F9C
-🌹欧美影片_267,#genre#
 60601,http://60106.vod.adultiptv.net/ph5770c2783ffca/play.m3u8
 Losing Kayden
 Beautiful Cocksucker - Veronika Charm,http://12204.vod.adultiptv.net/ph59e4632689f28/play.m3u8
@@ -9350,8 +9352,6 @@ MOM Фигуристая русская рыжая глубоко заглаты
 Соблазнительная Мамочка Моего Друга 73,https://video2.tizam.cc/films/soblaznitel_naya_mamochka_moego_druga_73-1.mp4
 Соблазнительная мама моего друга 46,https://video2.tizam.cc/files/2318400/soblaznitelnaya_mama_moego_druga_46.mp4
 Соблазнительные Девушки 3,https://video1.tizam.cc/files/2549576/curvy_girls_3.mp4
-10musume  030118_01 木村涼子,http://video1.rhsj520.com:8091/nyrm3/tianran/030118_01/1500kb/hls/index.m3u8
-10MUSUME 011717_01,http://video1.rhsj520.com:8091/nyrm3/tianran/011717_01/1500kb/hls/index.m3u8
 Анальные Игры,https://video2.tizam.cc/files/2311893/porno_olimpiada___analnye_igry.mp4
 Девственные Задницы,https://video2.tizam.cc/files/2398820/britanskie_devstvennye_zadnitsy.mp4
 Шлюхи,https://video2.tizam.cc/files/2501347/18_slutty.mp4
@@ -9371,17 +9371,6 @@ MyCamTV Anal,http://live.mycamtv.com/anal.m3u8
 Замок анальных утёх,https://video1.tizam.cc/vk/zamok.mp4
 
 
-pigoo,http://ali.hlspull.yximgs.com:80/live/f831b5a0ea2a7931a3f68bf740474ab1.flv
-极限,http://ali.hlspull.yximgs.com:80/live/4b724ab5a3b77bff74855fe81111e708.flv
-hap,http://ali.hlspull.yximgs.com:80/live/45e59c84acc89f09c9d1f4c7133c281a.flv
-香蕉,http://ali.hlspull.yximgs.com:80/live/d54708669063b7a2d0a713e198962124.flv
-经验,http://ali.hlspull.yximgs.com:80/live/26902b97d91dc19b2e07674732d2eba8.flv
-潘朵拉,http://ali.hlspull.yximgs.com:80/live/f3221f0df098ded0e683e21af5383be4.flv
-彩虹,http://ali.hlspull.yximgs.com:80/live/e2005516553acb98f9ed5a23a5ee3a1b.flv
-k,http://ali.hlspull.yximgs.com:80/live/a6e2e5e4a84afaa551b91f0d46696c35.flv
-e,http://ali.hlspull.yximgs.com:80/live/60d90edab99fb0a37f6a14e7127a92e6.flv
-松3,http://ali.hlspull.yximgs.com:80/live/4322a3624955805f0df7e82951d96131.flv
-松1,http://ali.hlspull.yximgs.com:80/live/50ef4b505ee4eaee84695e05dd76416b.flv
 
 EroLuxe Japanese,http://cdntv.online/high/ynemik5cl9/1694.mpeg
 femjoy,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/6212/index.m3u8
@@ -9391,20 +9380,6 @@ Playboy Plus,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/6242/manifest.m3u8
 Playboy,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/527/index.m3u8
 Playboy Plus,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/6242/index.m3u8
 GON,http://162.19.243.184/716/index.m3u8?token=M4f082ab4c
- Fake Taxi,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58036
- BRAZZERS EXXTRA,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58038
- BRASILEIRINHAS 1,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58039
- ADULT 3,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58045
- BANGBROS,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58048
- RKPrime,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58049
- FAKE HOSTEL,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58054
- FISTING WOMEN,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58055
- PUBLICAGENT,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58056
- MOFOS,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58057
- LA PIZZA ORGIA,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58058
- LA PIZZA ORGIA 2,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58059
- PEGGING,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58060
- PETITE NUBILES 1,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58065
 Hustler HD,http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/93665/hls/pl.m3u8
 Redlight HD,http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/90254/hls/pl.m3u8
 Private TV HD,http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/54375/hls/pl.m3u8
@@ -10295,7 +10270,6 @@ japanhdv,http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
 box,http://206.212.244.71:8080/4wVQA7/625159/159951
 LEGAL,http://168.119.255.170/716/mono.m3u8?token=M4f082ab4c
 DDF,http://tvshare.ottrast.com/iptv/BF9GWX8VNPYM9X/6217/index.m3u8
-legal,http://162.19.243.184/716/mono.m3u8?token=M4f082ab4c
 bl,http://162.19.243.184/715/mono.m3u8?token=M4f082ab4c
 hu,http://162.19.243.184/714/mono.m3u8?token=M4f082ab4c
 pe,http://162.19.243.184/713/mono.m3u8?token=M4f082ab4c
