@@ -1,9 +1,10 @@
 ﻿  {"urls":[
 
 
-{"name":"主源1线","url":"https://d.kstore.dev/download/3527/fast.txt"},
 
-{"name":"主源2线","url":"https://cdn.jsdelivr.net/gh/shenjh2023/2024tv@main/fast.txt"},
+{"name":"主源2线","url":"https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/fast.txt"},
+
+{"name":"主源3线","url":"https://cdn.jsdelivr.net/gh/shenjh2023/2024tv@main/fast.txt"},
 
  {"name": "饭太硬","url":"http://www.饭太硬.com/tv"},    
    
