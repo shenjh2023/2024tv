@@ -1,22 +1,20 @@
 ﻿  {"urls":[
 
 
+{"name":"主源1线","url":"https://cdn.jsdelivr.net/gh/shenjh2023/2024tv@main/fast.txt"},
 
-{"name":"主源3线","url":"https://cdn.jsdelivr.net/gh/shenjh2023/2024tv@main/fast.txt"},
-{"name":"拾光VIP线","url":"https://4708.kstore.space/svip/svip.json"},
+{"name":"主源2线","url":"https://d.kstore.dev/download/3527/fast.txt"},
+
+{"name":"主源3线","url":"https://git.acwing.com/movie888888/2024tv/-/raw/main/fast.txt"},
 
 
 
-{"name": "讴歌","url":"https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh"}, 
+
  {"name": "饭太硬","url":"http://www.饭太硬.com/tv"},    
-   {
-      "name": "采集之王",
-      "url": "https://cdn.jsdelivr.net/gh/jiushizhe/daozhang@main/drpy_dzlive6.21/index.json"
-    },
    
     {
-      "name": "宝盒vip专享",
-      "url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json"
+      "name": "挺好",
+      "url": "https://zthaa.top/thzx/th.json"
     },
    
     
@@ -25,16 +23,7 @@
       "url": "https://weixine.net/ysc.json"
     },  
     
-    {
-      "name": "肥猫",
-      "url": "http://肥猫.com/"
-    },
-  
-    {
-      "name": "时光趣味",
-      "url": "https://4708.kstore.space/box/svip.json"
-    },
-
+    
     {
       "name": "二小",
       "url": "http://tvbox.王二小放牛娃.top"
@@ -45,13 +34,13 @@
     },
     
     {
-      "name": "一粒沙",
-      "url": "https://cdn.jsdelivr.net/gh/maoystv/6@main/000.json"
+      "name": "老刘",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json"
     },
    
-      {   "name": "挺好",   "url": "https://ztha.top/TVBox/thdjk.json"},
+      {   "name": "拾光",   "url": "https://4708.kstore.space/svip/svip.json"},
 
-    {"name": "星辰",  "url": "https://fmbox.cc/" },
+    {"name": "南风",  "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json" },
 
   { "name": "短剧1", "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"},
  {"name": "短剧2","url": "https://cdn.jsdelivr.net/gh/lege0001/TVbox@refs/heads/main/TV/dj.json"},
