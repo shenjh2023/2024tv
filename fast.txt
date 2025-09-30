@@ -10,7 +10,7 @@
   {
       "name": "zb1",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/shenjh2023/2024tv@main/ZB1.txt",
+      "url": "https://d.kstore.dev/download/3527/ZB1.txt",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
