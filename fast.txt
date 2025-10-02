@@ -26,6 +26,16 @@
             "playerType": 2,
             "timeout": 10
         },
+        
+        {
+            "name": "ZBSS",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
                 
   {"name":"tv","type":0,"url":"https://xn--xha-mf3g9f.u.xn--dkw.xn--6qq986b3xl/m/tv/?ou=欧歌APP","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10},
  
@@ -41,7 +51,7 @@
 
 "sites": [
 {"key":"豆瓣2","name":"❤👇软件仅供测试，安装24小时后请卸载❤","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢tv公告❤更新:9/14❤","type":3,"api":"csp_Notice","searchable":0,"changeable":0,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=xx;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext":"https://tv.nxog.top/m/公告.php?b=tv"},
+{"key":"豆瓣1","name":"📢tv公告❤更新:9/30❤","type":3,"api":"csp_Notice","searchable":0,"changeable":0,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=xx;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext":"https://tv.nxog.top/m/公告.php?b=tv"},
 
 {"key":"超全","name":"⚽超全┃看球","type":3,"api":"csp_ZbzGuard","jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},
 "ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
@@ -49,7 +59,7 @@
 {"key":"看球","name":"⚽手机┃看球","type":3,"api":"csp_KanqiuGuard","timeout":15,"jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"Wexlaobaitingshu","name":"🎃‍白兔┃听书🎃","type":3,"api":"csp_WexlaobaitingshuGuard","jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466","searchable":1,"changeable":1},
 {"key":"Wex275tingshu","name":"🎃‍极品┃听书🎃","type":3,"api":"csp_Wex275tingshuGuard","jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466","searchable":1,"changeable":1}, 
-
+{"key":"采集之王","name":"采集之王","type":3,"api":"https://tvbox.catvod.com/js/drpy2.min.js","jar":"https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"},{"key":"采集之王","name":"🦚采集┃之王","type":3,"api":"https://tvbox.catvod.com/pro/js/drpy2.min.js","jar":"https://tvbox.catvod.com/pro/jar/vox.jar","searchable":1,"quickSearch":1,"filterable":1,"order_num":1,"ext":"https://tvbox.catvod.com/pro/js/采集之王.js?type=url&params=.https://tvbox.catvod.com/pro/json/采集.json"},
  
 
 {"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og;md5;d29b7750dc6fc68cfbd5d40b1503d9d0","ext":{"site_urls":["https://woog.nxog.fun","https://woog.nxog.eu.org"],"url_key":"woog","threadinfo":{"chunksize":235,"threads":16}}},
