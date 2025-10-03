@@ -28,19 +28,15 @@
       "name": "潇洒",
       "url": "https://tvbox.catvod.com/xs/api.json"
     },
-  {
-      "name": "4K",
-      "url": "https://9xi4o.tk/0725.json"},
+  
      
     {
       "name": "龙门",
       "url": "https://box.iqinu.com"},
    
-      {   "name": "春意",   "url": "https://ghproxy.net/https://raw.githubusercontent.com/guxiangbin/tvbox2/main/春溢天下.txt"},
-
+      
     {"name": "PG",  "url": "https://tvbox.catvod.com/jsm.json" },
-    {"name": "蜂蜜",  "url": "https://qu.ax/uanw.json" },
-    {"name": "蜂蜜2",  "url": "https://pastebin.com/raw/GnnawsNW" },
+    
 
   { "name": "短剧1", "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"},
  {"name": "短剧2","url": "https://cdn.jsdelivr.net/gh/lege0001/TVbox@refs/heads/main/TV/dj.json"},
