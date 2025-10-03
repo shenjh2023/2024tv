@@ -1,7 +1,7 @@
 ﻿  {"urls":[
 
 
-
+{"name":"主源1线","url":"https://d.kstore.dev/download/3527/fast.txt"},
 {"name":"主源2线","url":"https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/fast.txt"},
 
 {"name":"主源3线","url":"https://cdn.jsdelivr.net/gh/shenjh2023/2024tv@main/fast.txt"},
@@ -15,8 +15,8 @@
    
     
     {
-      "name": "运输车",
-      "url": "https://weixine.net/ysc.json"
+      "name": "VOX",
+      "url": "https://tvbox.catvod.com/pro/demo.json"
     },  
     
     
@@ -25,18 +25,22 @@
       "url": "http://tvbox.王二小放牛娃.top"
     },
     {
-      "name": "菜妮丝",
-      "url": "https://tv.xn--yhqu5zs87a.top"
+      "name": "潇洒",
+      "url": "https://tvbox.catvod.com/xs/api.json"
     },
-    
+  {
+      "name": "4K",
+      "url": "https://9xi4o.tk/0725.json"},
+     
     {
-      "name": "老刘",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json"
-    },
+      "name": "龙门",
+      "url": "https://box.iqinu.com"},
    
-      {   "name": "拾光",   "url": "https://4708.kstore.space/svip/svip.json"},
+      {   "name": "春意",   "url": "https://ghproxy.net/https://raw.githubusercontent.com/guxiangbin/tvbox2/main/春溢天下.txt"},
 
-    {"name": "南风",  "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json" },
+    {"name": "PG",  "url": "https://tvbox.catvod.com/jsm.json" },
+    {"name": "蜂蜜",  "url": "https://qu.ax/uanw.json" },
+    {"name": "蜂蜜2",  "url": "https://pastebin.com/raw/GnnawsNW" },
 
   { "name": "短剧1", "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"},
  {"name": "短剧2","url": "https://cdn.jsdelivr.net/gh/lege0001/TVbox@refs/heads/main/TV/dj.json"},
