@@ -35,9 +35,6 @@
   { "key": "KxrbspE", "name": "🔞淫水机资源", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   { "key": "gdlsE", "name": "🔞香奶儿资源", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   { "key": "kxgav", "name": "🔞白嫖资源", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-
-   
-  {"key": "草榴资源","name": "🔞草榴资源","type": 1,"api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
     { "key": "S猫资源", "name": "🔞S猫资源", "type": 0, "api": "https://api.maozyapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },    
    {"key":"精品采集","name":"🔞精品X资源 ","type":1,"api":"http://www.jingpinx.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},     
   {"key":"采集E(草榴)","name":"🔞采集草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1}, 
@@ -318,9 +315,7 @@
   }
 },
    {"key":"麻豆","name":"🔞麻豆采集","type":1,"api":"https://www.md91.cc/api.php/provide/vod/","style":{"ratio":1.7}},
-        
-
-
+    
   {"key":"py_色播聚合","name":"py_色播聚合","type":3,"api":"https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_色播聚合.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 {"key":"直播转点播","name":"🐼️┃电视┃直播","type":3,"searchable":0,"api":"https://www.252035.xyz/p/lib/live2vod.js","ext":"https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/feimaolive.json"},
 {"key":"TGYunPanLocal","name":"TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":120,"ext":{"token":"https://www.252035.xyz/p/lib/tokenm.json","json":"https://www.252035.xyz/p/lib/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"https://tg.252035.xyz","tgsearch_media_url":"https://tg.252035.xyz","channellist":"tgsearchers2","proxy":"proxy","danmu":true},
@@ -337,8 +332,43 @@
 {"key":"松视开通1","name":"松视1","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"松视开通2","name":"松视2","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"松视开通3","name":"松视3","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},      
-     
-      {
+
+
+ {"key": "py_MrJav",  "name": "🔞MrJav",  "type": 4,  "api": "https://py.doube.eu.org/spider?site=MrJav",  "searchable": 1,  "quickSearch": 0,  "filterable": 0,  "changeable": 0,  "style": {    "type": "rect",    "ratio": 1.5  }},
+  {"key": "py_AiDou",  "name": "🔞愛豆-T4",  "type": 4,  "api": "https://py.doube.eu.org/spider?site=AiDou",  "searchable": 1,  "quickSearch": 0,  "filterable": 0,  "changeable": 0,  "style": {    "type": "rect",    "ratio": 1.5  }},      
+   {"key":"csp_XYQHiker_麻豆视频91md","name": "🔞麻豆视频91md","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/麻豆视频91md.json","style": {"type": "rect","ratio": 1.6}}, 
+  {"key":"csp_XYQHiker_91porn","name": "🔞91porn","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/91porn.json","style": {"type": "rect","ratio": 1.6}},
+   {"key":"csp_XYQHiker_91porn_asia","name": "🔞91porn_asia","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/91porn_asia.json","style": {"type": "rect","ratio": 1.75}},
+  {"key":"*91麻豆2🔞","name":"🔞91麻豆┃備2","type":1,"api":"http://www.9191md.me/api.php/provide/vod/","jar":"https://ghproxy.net/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable":1,"quickSearch":1},
+    {"key":"*大地资源","name":"🔞大地资源","type":0,"api":"http://ddkbo.com/api.php","jar":"https://ghproxy.net/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable":1,"quickSearch":1},  
+   {"key":"csp_XYQHiker_444咖啡","name": "🔞444咖啡","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/444咖啡.json","style": {"type": "rect","ratio": 1.6}},
+ {"key":"998资源(采集)🔞","name":"🔞998资源","type":1,"api":"https://api.998zy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
+ {"key":"csp_XYQHiker_airav","name": "🔞AirAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/airav.json","style": {"type": "rect","ratio": 1.6}},
+  {"key":"AIvin(采集)","name":"🔞AIvin","type":1,"api":"http://lbapiby.com/api.php/provide/vod/","jar":"https://ghproxy.net/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable":1,"quickSearch":1,"style": {"type": "rect","ratio": 1.6}},
+  {"key": "CK资源","name": "🔞CK资源","type": 1,"api": "https://ckzy.me/api.php/provide/vod/","jar":"https://ghproxy.net/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","changeable": 0,"filterable": 1},
+   {"key":"csp_XYQHiker_hohoj","name": "🔞HOHOJ","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/hohoj.json","style": {"type": "rect","ratio": 1.6}},
+  {"key":"csp_XYQHiker_ixxxj","name": "🔞IXXXJ","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/ixxxj.json","style": {"type": "rect","ratio": 1.6}},
+  {"key":"JKUN(采集)","name":"🔞JKUN","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"style": {"type": "rect","ratio": 1.6}},
+ {"key":"csp_XYQHiker_kanav","name": "🔞KANAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/kanav.json","style": {"type": "rect","ratio": 1.6}}, 
+   {"key":"csp_XYQHiker_stripchat直播","name": "🔞stripchat直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/stripchat直播.json","style": {"type": "rect","ratio": 1.6}},
+  {"key": "api.sexnguon.com",  "name": "🔞Sexnguon",  "type": 1,  "api": "http://api.sexnguon.com/api.php/provide/vod/",  "searchable": 1,  "recordable": 0,  "style": {    "type": "rect",    "ratio": 1.6  }},
+  {"key":"csp_XYQHiker_taiav","name": "TaiAv","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/taiav.json","style": {"type": "rect","ratio": 1.6}},
+  {"key":"csp_XYQHiker_xHamster","name": "🔞xHamster","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/xHamster.json","style": {"type": "rect","ratio": 1.6}},
+  {"key":"csp_XYQHiker_xtoons","name": "🔞Xtoons动漫","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/xtoons.json","style": {"type": "rect","ratio": 1.6}},
+  {"key": "didizy.com","name": "🔞滴滴","type": 1,"api": "https://api.ddapi.cc/api.php/provide/vod/","jar":"https://ghproxy.net/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable": 0,"style": {"type": "rect", "ratio": 1.33}},
+   {"key": "hav6.beauty",  "name": "🔞黄AV",  "type": 0,  "api": "https://www.pgxdy.com/api/xml.php",  "searchable": 1,  "recordable": 0,  "style": {    "type": "rect",    "ratio": 1.6  }},
+  {"key": "py_BadNews",  "name": "🔞壞壞惹人愛",  "type": 4,  "api": "https://py.doube.eu.org/spider?site=BadNews",  "searchable": 1,  "quickSearch": 0,  "filterable": 0,  "changeable": 0},
+  {"key": "优异资源","name": "🔞优异资源","type": 1,"api": "https://a.uezy.pw/api.php/provide/vod/","jar":"https://ghproxy.net/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"},    
+  {"key":"csp_XYQHiker_酷爱成人网>","name": "🔞酷爱成人网✈️","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/酷爱成人网.json","style": {"type": "rect","ratio": 1.6}},
+    {"key":"csp_XYQHiker_鲨鱼av","name": "🔞鲨鱼av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/鲨鱼av.json","style": {"type": "rect","ratio": 1.6}},
+   {"key":"csp_XYQHiker_日日撸","name": "🔞日日撸","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/日日撸.json","style": {"type": "rect","ratio": 1.6}},
+   {"key":"csp_XYQHiker_中国性味","name": "🔞中国性味","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/中国性味.json","style": {"type": "rect","ratio": 1.6}},
+   {"key":"csp_XYQHiker_小丑撸","name": "🔞小丑撸","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/小丑撸.json","style": {"type": "rect","ratio": 1.6}},
+ {"key":"*鲨鱼资源","name":"🔞鲨鱼","type":1,"api":"http://shayuzy1.com/api.php/provide/vod/","jar":"https://ghproxy.net/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable":1,"quickSearch":1},
+  {"key": "湿乐园","name": "🔞湿乐园","type": 1,"api": "https://xxavs.com/api.php/provide/vod/","jar":"https://ghproxy.net/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar"},  
+
+
+    {
       "key": "fan",
       "name": "导航 www.饭太硬.com",
       "type": 3,
@@ -360,13 +390,7 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
   
-    {
-      "name": "S1",
-      "type": 0,
-      "url": "https://git.acwing.com/Mix2025/0/-/raw/0/Mix1.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+
     {
       "name": "S2",
       "type": 0,
