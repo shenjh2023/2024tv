@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/main/custom_spider.jar,
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/main/custom_spider.jar",
   "logo": "https://ghproxy.net/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/美.gif",
   "wallpaper": "https://picsum.photos/1080/",
   "sites": [
