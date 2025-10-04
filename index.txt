@@ -45,7 +45,7 @@
 {"name": "潇洒本地线路","url":"clan://localhost/TVBoxOSC/tvbox/api.json"}, 
   
 {"name": "公子","url":"http://源.l5.ca/"},
-  {"name": "专线1","url":"https://cdn.jsdelivr.net/gh/shenjh2023/2024tv@main/S2671.txt"},
+  {"name": "专线1","url":"https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/S2671.txt"},
     {"name":"专线2","url":"https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json-18x"},
  
  
