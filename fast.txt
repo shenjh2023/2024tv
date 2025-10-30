@@ -36,6 +36,16 @@
             "playerType": 2,
             "timeout": 10
         },
+
+  {
+            "name": "移动专用",
+            "type": 0,
+            "url": "https://ghproxy.net/ https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
                 
   {"name":"tv","type":0,"url":"https://xn--xha-mf3g9f.u.xn--dkw.xn--6qq986b3xl/m/tv/?ou=欧歌APP","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10},
  
