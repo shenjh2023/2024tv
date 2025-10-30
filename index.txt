@@ -15,8 +15,12 @@
    
     
     {
-      "name": "VOX",
-      "url": "https://tvbox.catvod.com/pro/demo.json"
+      "name": "欧歌",
+      "url": "http://tv.nxog.top/m/"
+    },  
+    {
+      "name": "日后",
+      "url": "http://rihou.cc:88/demo.php"
     },  
     
     
