@@ -1,8 +1,7 @@
 ﻿
 {
-"wallpaper":"https://tv.nxog.top/m/t/",
-"logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
-"spider":"https://tv.nxog.top/m/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
+"wallpaper":"http://jar.yy.xn--dkw.xn--6qq986b3xl/m/t/","logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
+"spider":"http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
 "warningText":"tv提示:\n📢接口软件永远免费\n📢长期维护切勿贩卖",
 
 
@@ -47,7 +46,7 @@
             "timeout": 10
         },
                 
-  {"name":"tv","type":0,"url":"https://xn--xha-mf3g9f.u.xn--dkw.xn--6qq986b3xl/m/tv/?ou=欧歌APP","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10},
+  {"name":"tv","type":0,"url":"http://jar.yy.xn--dkw.xn--6qq986b3xl/m/tv/?ou=407","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10},
  
     {
       "name": "③④16万MV",
@@ -59,10 +58,9 @@
   ],
 
 
-"sites": [
-
+"sites":[
 {"key":"豆瓣2","name":"📢仅供测试，安装24小时后请卸载！","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢公告❤更新10.16❤","type":3,"api":"csp_Notice","searchable":0,"changeable":0,"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/ca89297988221a7e6dd9d8106dc102ab.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext":"https://tv.nxog.top/m/公告?b=tv"},
+{"key":"豆瓣1","name":"📢公告❤更新10.31❤","type":3,"api":"csp_Notice","searchable":0,"changeable":0,"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/ca89297988221a7e6dd9d8106dc102ab.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext":"https://tv.nxog.top/m/公告?b=tv"},
 
 {"key":"超全","name":"⚽超全┃看球","type":3,"api":"csp_ZbzGuard","jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},
 "ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
@@ -74,8 +72,8 @@
 
 {"key":"config","name":"🐲歌配置｜中心","type":3,"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/0df0dafe840912a9250167063b1f3cad.jpg;md5;dd19c67b72b708f567d94500d7d9ab4e","api":"csp_Config","searchable":0},
 {"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
-{"key":"csp_woog","name":"🐲玩歌｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1aa78a7afa85d5ace98c1c57e6123f2c.jpg;md5;d29b7750dc6fc68cfbd5d40b1503d9d0","ext":{"site_urls":["https://woog.nxog.fun","https://woog.nxog.eu.org"],"url_key":"woog","threadinfo":{"chunksize":268,"threads":16}}},
-{"key":"欧哥","name":"🐲装歌｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/0df0dafe840912a9250167063b1f3cad.jpg;md5;dd19c67b72b708f567d94500d7d9ab4e","ext":{"site_urls":["https://ogkk.nxog.fun","https://ogkk.nxog.eu.org"],"url_key":"欧哥","threadinfo":{"chunksize":277,"threads":16}}},
+{"key":"csp_woog","name":"🐲玩歌｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1aa78a7afa85d5ace98c1c57e6123f2c.jpg;md5;d29b7750dc6fc68cfbd5d40b1503d9d0","ext":{"site_urls":["https://woog.nxog.fun","https://woog.nxog.eu.org"],"url_key":"woog","threadinfo":{"chunksize":213,"threads":16}}},
+{"key":"欧哥","name":"🐲装歌｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/0df0dafe840912a9250167063b1f3cad.jpg;md5;dd19c67b72b708f567d94500d7d9ab4e","ext":{"site_urls":["https://ogkk.nxog.fun","https://ogkk.nxog.eu.org"],"url_key":"欧哥","threadinfo":{"chunksize":246,"threads":16}}},
 {"key":"夸快","name":"❤夸快｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/og.json"},
 {"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"ext":"https://api.ztcgi.com"},
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1},
@@ -211,15 +209,16 @@
 
 
 
+
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
 ],
 "parses":[
 {"name":"-聚合-","type":3,"url":"Demo"},
 {"name":"欧歌解析","type":"1","url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号装歌APP&mz=0&url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
-{"name":"-关注-","type":1,"url":"https://2.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=1&url="},
-{"name":"-欧歌-","type":1,"url":"https://3.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=2&url="},
-{"name":"-公众号-","type":1,"url":"https://2.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=3&url="},
+{"name":"-关注-","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号装歌APP&mz=1&url="},
+{"name":"-欧歌-","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号装歌APP&mz=2&url="},
+{"name":"-公众号-","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号装歌APP&mz=3&url="},
 {"name":"欧歌APP","type":1,"url":"https://mfjx.iwsyy.xyz/?url="},
 {"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
 {"name":"线路2","type":0,"url":"http://www.ckplayer.vip/jiexi/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
