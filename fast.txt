@@ -26,21 +26,21 @@
             "playerType": 2,
             "timeout": 10
         },
-        
-        {
-            "name": "ZBSS",
+          {
+            "name": "裤佬直播",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
             "timeout": 10
         },
-
-  {
-            "name": "移动专用",
+        
+        
+        {
+            "name": "ZBSS",
             "type": 0,
-            "url": "https://ghproxy.net/ https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
@@ -69,8 +69,7 @@
 {"key":"88","name":"⚽88┃看球","type":3,"api":"csp_Sir88Guard","timeout":15,"jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"看球","name":"⚽手机┃看球","type":3,"api":"csp_KanqiuGuard","timeout":15,"jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"采集之王","name":"采集之王","type":3,"api":"https://tvbox.catvod.com/js/drpy2.min.js","jar":"https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"},{"key":"采集之王","name":"🦚采集┃之王","type":3,"api":"https://tvbox.catvod.com/pro/js/drpy2.min.js","jar":"https://tvbox.catvod.com/pro/jar/vox.jar","searchable":1,"quickSearch":1,"filterable":1,"order_num":1,"ext":"https://tvbox.catvod.com/pro/js/采集之王.js?type=url&params=.https://tvbox.catvod.com/pro/json/采集.json"},
- {"key":"Wexlaobaitingshu","name":"🎃‍白兔┃听书🎃","type":3,"api":"csp_WexlaobaitingshuGuard","jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466","searchable":1,"changeable":1},
-{"key":"Wex275tingshu","name":"🎃‍极品┃听书🎃","type":3,"api":"csp_Wex275tingshuGuard","jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466","searchable":1,"changeable":1}, 
+ 
 
 
 {"key":"config","name":"🐲歌配置｜中心","type":3,"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/0df0dafe840912a9250167063b1f3cad.jpg;md5;dd19c67b72b708f567d94500d7d9ab4e","api":"csp_Config","searchable":0},
@@ -206,6 +205,12 @@
 {"key":"预告","name":"🌸新片｜预告","type":3,"api":"csp_DouBan","searchable":0},
 {"key":"push_agent","name":"📢手机｜推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0},
 {"key":"应用商店","name":"🛒本地包更新","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"http://123.yy.xn--dkw.xn--6qq986b3xl/zm/sd?b=tv"},
+
+{"key":"Wexlaobaitingshu","name":"🎃‍白兔┃听书🎃","type":3,"api":"csp_WexlaobaitingshuGuard","jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466","searchable":1,"changeable":1},
+{"key":"Wex275tingshu","name":"🎃‍极品┃听书🎃","type":3,"api":"csp_Wex275tingshuGuard","jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466","searchable":1,"changeable":1}, 
+
+
+
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
 ],
