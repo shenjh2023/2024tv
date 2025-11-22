@@ -1,5 +1,5 @@
 {"storeHouse": [
-{"sourceName":"主源1","sourceUrl":"https://d.kstore.dev/download/3527/index.txt"},
+{"sourceName":"主源1","sourceUrl":"https://3527.kstore.space/download/3527/index.txt"},
 {"sourceName":"主源2","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/index.txt"},
 {"sourceName":"主源3","sourceUrl":"https://cdn.jsdelivr.net/gh/shenjh2023/2024tv@refs/heads/main/index.txt"},
 

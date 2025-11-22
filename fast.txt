@@ -9,7 +9,18 @@
   {
       "name": "zb1",
       "type": 0,
-      "url": "https://d.kstore.dev/download/3527/ZB1.txt",
+      "url": "https://3527.kstore.space/download/3527/ZB1.txt",
+      "ua": "okhttp/3",
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },   
+    
+        
+        {
+      "name": "日后",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
