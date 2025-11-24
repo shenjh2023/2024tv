@@ -31,25 +31,7 @@
       ]
     },
    
-   { "key": "🔞麻豆视频", "name": "🔞麻豆视频", "type": 0, "api": "https://91md.me/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞91-精品", "name": "🔞91-精品", "type": 0, "api": "https://91jpzyw.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞--AIvin", "name": "🔞--AIvin", "type": 0, "api": "http://lbapiby.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞百万资源", "name": "🔞百万资源", "type": 0, "api": "https://api.bwzyz.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-   { "key": "🔞souavZY", "name": "🔞souavZY", "type": 0, "api": "https://api.souavzy.vip/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 }, 
-    { "key": "🔞155-资源", "name": "🔞155-资源", "type": 0, "api": "https://155api.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞玉兔资源", "name": "🔞玉兔资源", "type": 0, "api": "https://apiyutu.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞番号资源", "name": "🔞番号资源", "type": 0, "api": "http://fhapi9.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞精品资源", "name": "🔞精品资源", "type": 0, "api": "https://www.jingpinx.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞-老色逼", "name": "🔞-老色逼", "type": 0, "api": "https://apilsbzy1.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞桃花资源", "name": "🔞桃花资源", "type": 0, "api": "https://thzy1.me/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞优优资源", "name": "🔞优优资源", "type": 0, "api": "https://www.yyzywcj.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞小鸡资源", "name": "🔞小鸡资源", "type": 0, "api": "https://api.xiaojizy.live/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞黄色仓库", "name": "🔞黄色仓库", "type": 0, "api": "https://hsckzy.xyz/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞大奶子", "name": "🔞大奶子", "type": 0, "api": "https://apidanaizi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞jkun资源", "name": "🔞jkun资源", "type": 0, "api": "https://jkunzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞乐播资源", "name": "🔞乐播资源", "type": 0, "api": "https://lbapi9.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "🔞奶香资源", "name": "🔞奶香资源", "type": 0, "api": "https://Naixxzy.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-
+   
 
  { "key": "ms4nii", "name": "🔞美少女资源", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   { "key": "KxrbspE", "name": "🔞淫水机资源", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
