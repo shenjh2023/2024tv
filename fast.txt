@@ -73,6 +73,15 @@
             "timeout": 10
         },
         {
+            "name": "ZBSS3",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS3.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
             "name": "ZBSS2",
             "type": 0,
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS2.txt",
@@ -90,16 +99,8 @@
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
             "timeout": 10
-        },
-        {
-            "name": "ZBSS3",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS3.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
         }
+        
         
   ],
 
