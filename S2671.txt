@@ -195,7 +195,24 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
   
-
+{
+            "name": "ZBSS5",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS5.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "ZBSS6",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS6.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
     {
       "name": "S2",
       "type": 0,
