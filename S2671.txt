@@ -370,35 +370,6 @@
 {"key":"天堂","name":"🎃美剧┃磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
 
 
-
-//动漫
-{"key":"曼波动漫","name":"🤣曼波｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://app.omofun1.top","dataKey":"66dc309cbeeca454","dataIv":"66dc309cbeeca454","deviceId":"","version":""}},
-{"key":"魔都资源","name":"🤣魔都┃动漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"稀饭动漫","name":"🤣稀饭｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt","dataKey":"1yZ2Spn9krnzVKoC","dataIv":"1yZ2Spn9krnzVKoC","deviceId":"","version":""}},
-{"key":"派对动漫","name":"🤣派对｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://qjappcms.acg.party","dataKey":"AmtMYFCJDPoTlK7z","dataIv":"AmtMYFCJDPoTlK7z","deviceId":"","version":""}},
-{"key":"咕咕动漫","name":"🤣咕咕｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.gugu3.com","dataKey":"nKfZ8KX6JTNWRzTD","dataIv":"nKfZ8KX6JTNWRzTD","deviceId":"","version":""}},
-{"key":"多多动漫","name":"🤣多多｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://app.cf4k.xyz/1.txt","dataKey":"qqqqqqqqqqqqqqqq","dataIv":"qqqqqqqqqqqqqqqq","deviceId":"","version":""}},
-
-//网盘
-
-{"key":"木偶","name":"❤木偶｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/mogg.json"},
-{"key":"蜡笔","name":"❤蜡笔｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/lb.json"},
-{"key":"小米","name":"❤小米｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/xm.json"},
-{"key":"多多","name":"❤多多｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/yyds.json"},
-{"key":"玩偶","name":"❤玩偶｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/wogg.json"},
-
-{"key":"糖果","name":"❤糖果｜搜索","type":3,"api":"csp_TGSou","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"音海","name":"❤音海｜搜索","type":3,"api":"csp_YinHai","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"夸克盘搜","name":"❤夸父｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"quark"}},
-{"key":"UC盘搜","name":"❤优夕｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"uc"}},
-{"key":"百度盘搜","name":"❤肚盘｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"baidu"}},
-
-
-{"key":"阿里云盘","name":"❤我的｜阿离","type":3,"api":"csp_PanAli","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/aliShare.json"},
-{"key":"夸克云盘","name":"❤我的｜夸父","type":3,"api":"csp_PanQuark","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/quarkShare.json"},
-{"key":"UC","name":"❤我的｜优夕","type":3,"api":"csp_PanUc","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433},"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/ucShare.json"},
-{"key":"百度云盘","name":"❤我的｜肚盘","type":3,"api":"csp_PanBaiDu","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433}},
-
 //csp_XBPQ
 
 {"key":"养生堂","name":"🧿养生｜知识","type":3,"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;b8ccf68972d12e3983a93b35b4024345","api":"csp_XBPQ","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/养生堂.json","style":{"type":"rect","ratio":1.597}},
@@ -417,32 +388,6 @@
 {"key":"飞快","name":"🧿飞快｜影视","type":3,"api":"csp_XBPQ","jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;b8ccf68972d12e3983a93b35b4024345","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://feikuai.tv/;;!"}},
 {"key":"快快","name":"🧿快快｜影视","type":3,"api":"csp_XBPQ","jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;b8ccf68972d12e3983a93b35b4024345","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://4k4k.live/;;!"}},
 
-
-{"key":"哔️软件","name":"🅰️软件┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/软件教程.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"哔哩学堂","name":"🅰学堂┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/学堂教育.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"哔哩少儿","name":"🅰少儿┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/少儿合集.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"️小学","name":"🅰️小学┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小学课堂.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"️初中","name":"🅰️初中┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/初中课堂.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"️高中","name":"🅰️高中┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/高中课堂.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"口才","name":"🧒口才┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童口才.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"拼音","name":"🧒拼音┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童拼音.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"识字","name":"🧒识字┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童识字.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"思维","name":"🧒思维┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童思维.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"英语","name":"🧒英语┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童英语.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"科学","name":"🧒科学┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小灯塔科学.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"国学","name":"🧒国学┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小灯塔国学.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"地理","name":"🧒地理┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小灯塔地理.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"编程","name":"🧒编程┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童编程.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"武术","name":"🧒武术┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童武术.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"csp_BBB","name":"🅱️套餐┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/哔哩套餐1.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"csp_111BB","name":"🅱️套餐2┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/哔哩套餐2.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"歌曲","name":"🌈歌曲┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/歌曲MV.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"美食","name":"🌈美食┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/美食.json"},"style":{"type":"rect","ratio":1.597}},
-{"key": "球类","name": "⚽️球类┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/球类合集.json"},"style":{"type":"rect","ratio":1.597}},
-{"key": "️球星","name": "⚽️球星┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/球星合集.json"},"style":{"type":"rect","ratio":1.597}},
-{"key": "️演唱","name": "🅰️演唱┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/演唱会.json"},"style":{"type":"rect","ratio":1.597}},
-{"key": "️戏曲","name": "🅰️戏曲┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/戏曲合集.json"},"style":{"type":"rect","ratio":1.597}},
-{"key":"急救教学","name":"🚑急救｜教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"},
 {"key": "影视影视","name": "🅰影视┃哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/合集.json"},"style":{"type":"rect","ratio":1.597}},
 
 {"key":"本地","name":"🌸本地｜视频","type":3,"api":"csp_LocalFile"},
