@@ -4,6 +4,9 @@
 267综合源,#group#
 
 🛰浙江,#genre#
+凤凰资讯,https://shenjh1976.us.ci/fhzx
+凤凰中文,https://shenjh1976.us.ci//fhzw
+凤凰香港,https://shenjh1976.us.ci/fhhk
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
@@ -16,42 +19,6 @@
 浙江教科影视,http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
 浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 浙江国际,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
-
-by cqshushu | 公众号：医工学习日志
-类型：上海市黄浦区酒店 上海联通 | 节目数量：32
-CCTV1-综合,http://139.227.221.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV2-财经,http://139.227.221.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3-综艺,http://139.227.221.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV4-国际,http://139.227.221.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5-体育,http://139.227.221.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV6-电影,http://139.227.221.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV7-军农,http://139.227.221.119:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV8-电视剧,http://139.227.221.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9-纪录,http://139.227.221.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV10-科教,http://139.227.221.119:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV11-戏曲,http://139.227.221.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV12-社会与法,http://139.227.221.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV13-新闻,http://139.227.221.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14-少儿,http://139.227.221.119:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15-音乐,http://139.227.221.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CGTN,http://139.227.221.119:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-东方卫视,http://139.227.221.119:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://139.227.221.119:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视,http://139.227.221.119:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://139.227.221.119:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://139.227.221.119:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://139.227.221.119:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://139.227.221.119:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳卫视,http://139.227.221.119:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://139.227.221.119:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-旅游卫视,http://139.227.221.119:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://139.227.221.119:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视,http://139.227.221.119:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://139.227.221.119:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://139.227.221.119:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://139.227.221.119:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://139.227.221.119:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-
 
 
 湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl=
