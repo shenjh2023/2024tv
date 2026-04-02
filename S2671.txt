@@ -3,6 +3,8 @@
     "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
     "spider": "https://tv.nxog.top/m/jar?id=index;md5;678e6aa8cd76dad3bf565c8d98238bce",
     "warningText": "tv提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
+
+"lives": [
  {
             "name": "ZBSS1",
             "type": 0,
