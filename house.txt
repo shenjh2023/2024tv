@@ -1,4 +1,5 @@
 {"storeHouse": [
+{"sourceName":"主源1","sourceUrl":"https://3527.kstore.space/index.txt"},
 {"sourceName":"备源2","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/index.txt"},
 {"sourceName":"备源3","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/index.txt"}
 

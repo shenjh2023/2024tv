@@ -43,14 +43,25 @@
             "timeout": 10
         },
    {
-      "name": "catvod",
+      "name": "267部署1",
       "type": 0,
-      "url": "https://live.catvod.com/tv.m3u。",
-      "ua": "okHttp/Mod-1.4.0.0",
+      "url": "https://iptv-sources-1b1.pages.dev/youhun.m3u",
+      "ua": "okhttp/3",
       "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://iptv-sources-1b1.pages.dev/epg/51zmt/{date}/{name}.json",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },   
+ {
+      "name": "267部署2",
+      "type": 0,
+      "url": "https://iptv-sources-1b1.pages.dev/all.m3u",
+      "ua": "okhttp/3",
+      "playerType": 2,
+      "epg": "https://iptv-sources-1b1.pages.dev/epg/51zmt/{date}/{name}.json",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },   
+
+
   {
             "name": "jackTV需翻",
             "type": 0,
