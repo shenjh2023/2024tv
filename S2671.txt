@@ -174,14 +174,8 @@
       ]
     },
    
-   { "key": "sinparty", 
-"name": "🔞 SinParty", 
-"type": 4, 
-"api": "https://267six.13051305.xyz/",
- "filterable": 1 }
-
-
    
+ 
     {
       "key": "乐播",
       "name": "️🔞乐播采集",
