@@ -22,6 +22,38 @@
 广东体育,https://267gd.13051305.xyz/hls/1/index.m3u8
 
 
+凤凰中文,http://wan1.tangwudi.cc:47859/udp/239.94.2.51:5140
+凤凰中文,http://wan1.tangwudi.cc:47859/udp/239.94.2.52:5140
+凤凰中文,http://www.lvyjay.win:4022/udp/233.50.202.35:5140
+凤凰中文,http://www.zlizi.cn:4023/udp/239.76.246.134:1234
+凤凰中文,http://www.zlizi.cn:4023/udp/239.76.253.135:9000
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+凤凰资讯,http://wan1.tangwudi.cc:47859/udp/239.94.2.49:5140
+凤凰资讯,http://wan1.tangwudi.cc:47859/udp/239.94.2.50:5140
+凤凰资讯,http://www.liangcl.top:8686/udp/233.50.202.36:5140
+凤凰资讯,http://www.lvyjay.win:4022/udp/233.50.202.36:5140
+凤凰资讯,http://www.zlizi.cn:4023/udp/239.76.253.134:9000
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+无线新闻,http://r.jdshipin.com/CkuBd
+无线新闻,http://cdn6.163189.xyz/163189/wxxw
+翡翠台,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+翡翠台,http://cdn6.163189.xyz/163189/fct
+翡翠台,http://r.jdshipin.com/GeWKr
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
+翡翠台,http://cdn6.163189.xyz/163189/fct4k
+
 
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
