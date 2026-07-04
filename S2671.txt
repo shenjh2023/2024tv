@@ -160,8 +160,9 @@
 
 "sites": [
     
-  {"key":"豆瓣2","name":"📢267影院仅测试，安装24hr后请卸载！","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢公告❤更新05.26❤","type":3,"api":"csp_Notice","searchable": 1,"jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/f3b31497ca266ea4f8a89c88e9385f48.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a","ext": "https://tv.nxog.top/m/公告?b=tv"},
+ {"key":"豆瓣2","name":"📢267影院仅测试，安装24hr后请卸载！","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣1","name":"📢公告❤更新06.30❤","type":3,"api":"csp_Notice","searchable": 1,"jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/f3b31497ca266ea4f8a89c88e9385f48.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a","ext": "https://tv.nxog.top/m/公告?b=tv"},
+
        
  
     {
