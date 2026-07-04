@@ -9,6 +9,156 @@
 {"key":"豆瓣2","name":"📢267影院仅测试，安装24hr后请卸载！","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"📢公告❤更新06.30❤","type":3,"api":"csp_Notice","searchable": 1,"jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/f3b31497ca266ea4f8a89c88e9385f48.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a","ext": "https://tv.nxog.top/m/公告?b=tv"},
 
+{
+      "key": "非凡",
+      "name": "🔞非凡",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },   
+ 
+    {
+      "key": "乐播",
+      "name": "️🔞乐播采集",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "亚洲情色",
+        "国产主播",
+        "国产自拍",
+        "无码专区",
+        "欧美性爱",
+        "熟女人妻",
+        "强奸乱伦",
+        "巨乳美乳",
+        "中文字幕",
+        "制服诱惑",
+        "女同性恋",
+        "卡通动画",
+        "视频伦理",
+        "少女萝莉",
+        "重口色情",
+        "人兽性交"
+      ]
+    },
+
+     {"key":"csp_XYQHiker_airav","name": "🔞AirAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/airav.json","style": {"type": "rect","ratio": 1.6}},
+
+    {"key":"csp_XYQHiker_xtoons","name": "🔞Xtoons动漫","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/xtoons.json","style": {"type": "rect","ratio": 1.6}},
+
+    {"key": "hav6.beauty",  "name": "🔞黄AV",  "type": 0,  "api": "https://www.pgxdy.com/api/xml.php",  "searchable": 1,  "recordable": 0,  "style": {    "type": "rect",    "ratio": 1.6  }},
+   
+ {
+   "key": "XMVideo",
+   "name": "熊猫视频",
+   "type": 3,
+   "api": "csp_XMVideo",
+   "searchable": 1,
+   "filterable": 1,
+   "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+  },
+ 
+	        {
+      "key": "doudou",
+      "name": "豆豆",
+      "type": 0,
+      "api": "https://api.douapi.cc/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+  {
+      "key": "❤淫水机  ",
+      "name": "❤淫水机",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": " ❤香奶儿  ",
+      "name": "❤香奶儿",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+      "key": "❤美少女   ",
+      "name": "❤美少女",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+  
+    {
+      "key": " ❤白嫖资源 ",
+      "name": "❤白嫖",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "❤黄AV资源 ",
+      "name": "❤黄",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+  {"key": "ynzy", "name": "🔞越南", "type": 1, "api": "https://vnzyz.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    
+    {"key": "xxbzy", "name": "🔞X细胞", "type": 1, "api": "https://www.xxibaozyw.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "91av", "name": "🔞91AV", "type": 1, "api": "https://91av.cyou/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    
+    {"key": "dnzzy", "name": "🔞大奶子", "type": 1, "api": "https://apidanaizi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "ddzy", "name": "🔞滴滴", "type": 1, "api": "https://api.ddapi.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "jkzy", "name": "🔞鸡坤", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "ysjzy", "name": "🔞淫水机", "type": 1, "api": "https://www.xrbsp.com/api/json.php", "searchable": 1, "quickSearch": 1},
+    {"key": "xnezy", "name": "🔞香奶儿", "type": 1, "api": "https://www.gdlsp.com/api/json.php", "searchable": 1, "quickSearch": 1},
+    
+    {"key": "lsbzy", "name": "🔞老色p", "type": 1, "api": "https://apilsbzy1.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "fhzy", "name": "🔞番号", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    
+    {"key": "bhzy", "name": "🔞百花", "type": 1, "api": "https://bhziyuan.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1},
+    
+    {"key": "bpzy", "name": "🔞白嫖", "type": 1, "api": "https://www.kxgav.com/api/json.php", "searchable": 1, "quickSearch": 1},
+    
+    {"key": "155zy", "name": "🔞155", "type": 1, "api": "https://155api.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    
+    
+    {"key": "ytzy", "name": "🔞玉兔", "type": 1, "api": "https://apiyutu.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "alvinzy", "name": "🔞AIvin", "type": 1, "api": "http://lbapiby.com/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1},
+    
+    {"key": "lbzy", "name": "🔞乐播", "type": 1, "api": "https://lbapi9.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    
+        {"key": "fqzy", "name": "🔞番茄", "type": 1, "api": "https://fqzy.me//api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1},
+    
+      {"key": "thzy", "name": "🔞桃花", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1},
+  
+    {"key": "ddzy2", "name": "🔞豆豆", "type": 1, "api": "https://doudouzy.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1},
+
+
+
+
+
 {"key":"采集之王","name":"采集之王","type":3,"api":"https://tvbox.catvod.com/js/drpy2.min.js","jar":"https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"},{"key":"采集之王","name":"🦚采集┃之王","type":3,"api":"https://tvbox.catvod.com/pro/js/drpy2.min.js","jar":"https://tvbox.catvod.com/pro/jar/vox.jar","searchable":1,"quickSearch":1,"filterable":1,"order_num":1,"ext":"https://tvbox.catvod.com/pro/js/采集之王.js?type=url&params=.https://tvbox.catvod.com/pro/json/采集.json"},
 
 
@@ -206,127 +356,7 @@
             "playerType": 2,
             "timeout": 10
         },
-        {
-            "name": "ZBSS2",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS2.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
- {
-            "name": "ZBSS3",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS3.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "ZBSS4",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS4.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-        
-        {
-            "name": "ZBSS5",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS5.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-{
-            "name": "ZBSS6",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS6.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "ZBSS7",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS7.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
- {
-            "name": "ZBSS8",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS8.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "ZBSS9",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS9.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-        
-        {
-            "name": "ZBSS10",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS10.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
- {
-            "name": "ZBSS11",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS11.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
- {
-            "name": "ZBSS12",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS12.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "ZBSS21",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS21.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-        
-        {
-            "name": "ZBSS22",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS22.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-
+  
     {
       "name": "S2",
       "type": 0,
