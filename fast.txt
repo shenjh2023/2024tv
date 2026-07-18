@@ -1,4 +1,4 @@
-"wallpaper":"https://tv.nxog.top/m/t/",
+{"wallpaper":"https://tv.nxog.top/m/t/",
 "logo":"https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
 "spider":"https://ncstatic-file.clewm.net/rsrc/2026/0716/21/c00c29cd6ffb4b40c1b94f69207ecb5e.jpg;md5;c7a619ffb534e64c844dba0a3fe88de5",
 "warningText":"tv提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
