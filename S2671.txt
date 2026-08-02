@@ -358,7 +358,7 @@
 
 "lives": [
 {
-            "name": "S1",
+            "name": "https://267sixzb.13051305.xyz/live.m3u",
             "type": 0,
             "url": "https://267sixzb.13051305.xyz/live.m3u",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
@@ -367,7 +367,7 @@
             "timeout": 10
         },
         {
-            "name": "S2",
+            "name": "https://267six.13051305.xyz/live.m3u",
             "type": 0,
             "url": "https://267six.13051305.xyz/live.m3u",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
