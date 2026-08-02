@@ -358,23 +358,23 @@
 
 "lives": [
 {
-            "name": "https://267sixzb.13051305.xyz/live.m3u",
-            "type": 0,
-            "url": "https://267sixzb.13051305.xyz/live.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 1,
-            "timeout": 10
-        },
-        {
-            "name": "https://267six.13051305.xyz/live.m3u",
-            "type": 0,
-            "url": "https://267six.13051305.xyz/live.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 1,
-            "timeout": 10
-        }
+      "name": "S1",
+      "type": 0,
+      "url": "https://267sixzb.13051305.xyz/live.m3u",
+      "ua": "okhttp/3",
+      "playerType": 2,
+      "epg": "https://iptv-sources-1b1.pages.dev/epg/51zmt/{date}/{name}.json",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },   
+    {
+      "name": "S2",
+      "type": 0,
+      "url": "https://267six.13051305.xyz/live.m3u",
+      "ua": "okhttp/3",
+      "playerType": 2,
+      "epg": "https://iptv-sources-1b1.pages.dev/epg/51zmt/{date}/{name}.json",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
 
   
 
