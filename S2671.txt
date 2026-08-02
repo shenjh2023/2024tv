@@ -374,9 +374,6 @@
             "name": "S1",
             "type": 0,
             "url": "https://267sixzb.13051305.xyz/live.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
             "timeout": 10
         },
  {
