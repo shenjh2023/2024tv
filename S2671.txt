@@ -361,17 +361,15 @@
       "name": "S1",
       "type": 0,
       "url": "https://267sixzb.13051305.xyz/live.m3u",
-      "ua": "okhttp/3",
-      "playerType": 2,
+      "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },   
     {
       "name": "S2",
       "type": 0,
-      "url": "https://267six.13051305.xyz/live.m3u",
-      "ua": "okhttp/3",
-      "playerType": 2,
+      "url": "https://267six.13051305.xyz/live.m3u",     
+      "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
