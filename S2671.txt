@@ -55,16 +55,7 @@
 
     {"key":"csp_XYQHiker_xtoons","name": "🔞Xtoons动漫","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/xtoons.json","style": {"type": "rect","ratio": 1.6}},
     
-   
- {
-   "key": "XMVideo",
-   "name": "熊猫视频",
-   "type": 3,
-   "api": "csp_XMVideo",
-   "searchable": 1,
-   "filterable": 1,
-   "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
-  },
+  
  
 	        {
       "key": "doudou",
@@ -244,7 +235,7 @@
     
       {"key": "thzy", "name": "🔞桃花", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1},
   
-    {"key": "ddzy2", "name": "🔞豆豆", "type": 1, "api": "https://doudouzy.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1},
+
 
 
 
