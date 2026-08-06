@@ -54,8 +54,7 @@
      {"key":"csp_XYQHiker_airav","name": "🔞AirAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/airav.json","style": {"type": "rect","ratio": 1.6}},
 
     {"key":"csp_XYQHiker_xtoons","name": "🔞Xtoons动漫","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/xtoons.json","style": {"type": "rect","ratio": 1.6}},
-
-    {"key": "hav6.beauty",  "name": "🔞黄AV",  "type": 0,  "api": "https://www.pgxdy.com/api/xml.php",  "searchable": 1,  "recordable": 0,  "style": {    "type": "rect",    "ratio": 1.6  }},
+    
    
  {
    "key": "XMVideo",
@@ -123,6 +122,78 @@
       "quickSearch": 1,
       "filterable": 1
     },
+      
+    {
+      "key": "zp100",
+      "name": "🔞乐播",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   
+    {
+      "key": "大地采集",
+      "name": "🔞大地av",
+      "type": 0,
+      "api": "https://dadiapi.com/apple_m3u8.php",
+      "playUrl": "https://play.dadiapi.com/watch?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   
+    {
+      "key": "*番号资源",
+      "name": "🔞番号资源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    
+    
+    {
+      "key": "xrbsp.com",
+      "name": "成人66",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },    
+    
+    {
+      "key": "afasu",
+      "name": "小湿妹资源(已修复)",
+      "type": 0,
+      "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+    {
+      "key": "ap4i156dlyE",
+      "name": "奶茶资源(已修复)",
+      "type": 0,
+      "api": "https://caiji.naichaapi.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.apilyzy.com",
+      "name": "成人71",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    
     {
 
       "key": "火速",
@@ -155,23 +226,19 @@
     {"key": "dnzzy", "name": "🔞大奶子", "type": 1, "api": "https://apidanaizi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
     {"key": "ddzy", "name": "🔞滴滴", "type": 1, "api": "https://api.ddapi.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
     {"key": "jkzy", "name": "🔞鸡坤", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
-    {"key": "ysjzy", "name": "🔞淫水机", "type": 1, "api": "https://www.xrbsp.com/api/json.php", "searchable": 1, "quickSearch": 1},
-    {"key": "xnezy", "name": "🔞香奶儿", "type": 1, "api": "https://www.gdlsp.com/api/json.php", "searchable": 1, "quickSearch": 1},
     
     {"key": "lsbzy", "name": "🔞老色p", "type": 1, "api": "https://apilsbzy1.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
-    {"key": "fhzy", "name": "🔞番号", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    
     
     {"key": "bhzy", "name": "🔞百花", "type": 1, "api": "https://bhziyuan.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1},
     
-    {"key": "bpzy", "name": "🔞白嫖", "type": 1, "api": "https://www.kxgav.com/api/json.php", "searchable": 1, "quickSearch": 1},
     
     {"key": "155zy", "name": "🔞155", "type": 1, "api": "https://155api.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
     
     
     {"key": "ytzy", "name": "🔞玉兔", "type": 1, "api": "https://apiyutu.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
     {"key": "alvinzy", "name": "🔞AIvin", "type": 1, "api": "http://lbapiby.com/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1},
-    
-    {"key": "lbzy", "name": "🔞乐播", "type": 1, "api": "https://lbapi9.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+      
     
         {"key": "fqzy", "name": "🔞番茄", "type": 1, "api": "https://fqzy.me//api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1},
     
