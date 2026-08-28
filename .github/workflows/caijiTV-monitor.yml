@@ -1,0 +1,69 @@
+name: Monitor & Deploy caijiTV
+
+on:
+  schedule:
+    # 每6小时运行一次（UTC时间）
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'caijiTV/monitor.py'
+      - 'caijiTV/requirements.txt'
+      - 'caijiTV/docs/data/sources.json'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "caijiTV-monitor-deploy"
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r caijiTV/requirements.txt pypinyin
+
+      - name: Run monitor script
+        run: python caijiTV/monitor.py
+
+      - name: Clean old history files
+        run: |
+          cd caijiTV/docs/data
+          ls -t monitor_*.json 2>/dev/null | tail -n +6 | xargs rm -f 2>/dev/null || true
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add caijiTV/docs/
+          git diff --cached --quiet || git commit -m "Update caijiTV monitor data: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: caijiTV/docs/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
