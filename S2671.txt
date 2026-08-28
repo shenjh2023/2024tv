@@ -74,7 +74,16 @@
       "quickSearch": 1,
       "filterable": 0
     },
-  
+  {
+      "key": "小鸡资源站",
+      "name": "小鸡资源站",
+      "type": 1,
+      "api": "https://api.xiaojizy.live/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+
     {
       "key": "湿乐园资源站",
       "name": "湿乐园资源站",
@@ -282,10 +291,10 @@
     },
     {
       "key": "大地采集",
-      "name": "🔞大地av",
+      "name": "🔞大地",
       "type": 0,
-      "api": "https://dadiapi.com/apple_m3u8.php",
-      "playUrl": "https://play.dadiapi.com/watch?url=",
+      "api": "https://dadiapi.com/api.php",
+      "playUrl": "https://www.ziyuanzu.com/source/dadiziyuanzhan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
