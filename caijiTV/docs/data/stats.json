@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-08-27 22:11:06",
+  "overview": {
+    "total": 74,
+    "alive": 62,
+    "offline": 12,
+    "onlineRate": 83.8
+  },
+  "responseTime": {
+    "avg": 568.4,
+    "min": 56.56,
+    "max": 2060.16,
+    "median": 449.06
+  },
+  "ratingDistribution": {
+    "4.5-5.0": 11,
+    "4.0-4.5": 63,
+    "3.5-4.0": 0,
+    "3.0-3.5": 0,
+    "below-3.0": 0
+  },
+  "speedDistribution": {
+    "medium": 47,
+    "fast": 17,
+    "slow": 10
+  }
+}

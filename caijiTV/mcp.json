@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ziyuanzhan-monitor": {
+      "command": "python3",
+      "args": [
+        "/path/to/ziyuanzhan/mcp_server.py"
+      ]
+    }
+  }
+}

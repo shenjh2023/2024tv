@@ -1,0 +1,318 @@
+{
+  "timestamp": "2026-08-27 22:11:06",
+  "total": 12,
+  "data": [
+    {
+      "name": "百花资源站",
+      "link": "https://bhziyuan.com",
+      "source_url": "https://www.ziyuanzu.com/source/baihuaziyuanzhan",
+      "api": "https://bhziyuan.com/api.php/provide/vod",
+      "description": "百花资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 11523,
+      "rating": 4.3,
+      "tags": [
+        "影视资源",
+        "热门",
+        "极速"
+      ],
+      "speed": "medium",
+      "responseTime": 540,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://bhziyuan.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "ok资源站",
+      "link": "https://api.okzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/okziyuanzhan",
+      "api": "https://api.okzy.com/api.php/provide/vod",
+      "description": "ok资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "fast",
+      "responseTime": 357,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.okzy.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "u酷资源站",
+      "link": "https://api.ukuzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/ukuziyuanzhan",
+      "api": "https://api.ukuzy.com/api.php/provide/vod",
+      "description": "u酷资源站采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "fast",
+      "responseTime": 233,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.ukuzy.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "优质资源站",
+      "link": "https://api.yzzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/youzhiziyuanzhan",
+      "api": "https://api.yzzy.com/api.php/provide/vod",
+      "description": "优质资源库采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "fast",
+      "responseTime": 184,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.yzzy.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "快车资源站",
+      "link": "https://api.kczy.com",
+      "source_url": "https://www.ziyuanzu.com/source/kuaicheziyuanzhan",
+      "api": "https://api.kczy.com/api.php/provide/vod",
+      "description": "快车资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "fast",
+      "responseTime": 490,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.kczy.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "新浪资源站",
+      "link": "https://api.xlzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/xinlangziyuanzhan",
+      "api": "https://api.xlzy.com/api.php/provide/vod",
+      "description": "新浪资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "slow",
+      "responseTime": 5175,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.xlzy.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "淘片资源站",
+      "link": "https://api.tpzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/taopianziyuanzhan",
+      "api": "https://api.tpzy.com/api.php/provide/vod",
+      "description": "淘片资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "medium",
+      "responseTime": 938,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.tpzy.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "电影天堂资源站",
+      "link": "https://api.dyttzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/dianyingtiantangziyuanzhan",
+      "api": "https://api.dyttzy.com/api.php/provide/vod",
+      "description": "电影天堂资源站采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "medium",
+      "responseTime": 974,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.dyttzy.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "量子资源站",
+      "link": "https://api.lzizy.com",
+      "source_url": "https://www.ziyuanzu.com/source/liangziziyuanzhan",
+      "api": "https://api.lzizy.com/api.php/provide/vod",
+      "description": "量子资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "medium",
+      "responseTime": 1004,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.lzizy.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "闪电资源",
+      "link": "https://api.sdzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/shandianziyuan",
+      "api": "https://api.sdzy.com/api.php/provide/vod",
+      "description": "闪电资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "medium",
+      "responseTime": 1548,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.sdzy.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "雅集资源站",
+      "link": "https://api.yjzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/yajiziyuanzhan",
+      "api": "https://api.yjzy.com/api.php/provide/vod",
+      "description": "雅集资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "medium",
+      "responseTime": 1766,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.yjzy.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "ck资源站",
+      "link": "https://api.ckzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/ckziyuanzhan",
+      "api": "https://api.ckzy.com/api.php/provide/vod",
+      "description": "ck资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "medium",
+      "responseTime": 1838,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.ckzy.com",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    }
+  ]
+}

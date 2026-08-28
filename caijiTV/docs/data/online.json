@@ -1,0 +1,1611 @@
+{
+  "timestamp": "2026-08-27 22:11:06",
+  "total": 62,
+  "data": [
+    {
+      "name": "新极品资源站",
+      "link": "https://jipinvip1.com",
+      "source_url": "https://www.ziyuanzu.com/source/xinjipinziyuanzhan",
+      "api": "https://jipinvip1.com/api.php/provide/vod/",
+      "description": "新极品资源采集站，无广告无水印秒播",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 56144,
+      "rating": 4.8,
+      "tags": [
+        "无广告",
+        "无水印",
+        "秒播",
+        "极品"
+      ],
+      "speed": "medium",
+      "responseTime": 693,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://jipinvip1.com",
+        "status_code": 200,
+        "response_time_ms": 698.35,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "暴风资源站",
+      "link": "https://bfzyapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/baofengziyuanzhan",
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "description": "暴风资源采集站，秒播体验无水印",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 155982,
+      "rating": 4.6,
+      "tags": [
+        "秒播",
+        "无水印",
+        "稳定"
+      ],
+      "speed": "medium",
+      "responseTime": 834,
+      "todayUpdates": 4,
+      "health": {
+        "url": "https://bfzyapi.com",
+        "status_code": 500,
+        "response_time_ms": 618.91,
+        "is_alive": true,
+        "error": "在线（ziyuanzu 确认，本地检测: 500）"
+      }
+    },
+    {
+      "name": "360资源站",
+      "link": "https://360zy.com",
+      "source_url": "https://www.ziyuanzu.com/source/360ziyuanzhan",
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "description": "360资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 69275,
+      "rating": 4.5,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "medium",
+      "responseTime": 952,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://360zy.com",
+        "status_code": 200,
+        "response_time_ms": 1635.07,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "豪华资源站",
+      "link": "https://haohuazy.com",
+      "source_url": "https://www.ziyuanzu.com/source/haohuaziyuanzhan",
+      "api": "https://haohuazy.com/api.php/provide/vod/",
+      "description": "豪华资源采集站，无广告无水印",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 109913,
+      "rating": 4.5,
+      "tags": [
+        "无广告",
+        "无水印",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 871,
+      "todayUpdates": 17,
+      "health": {
+        "url": "https://haohuazy.com",
+        "status_code": 200,
+        "response_time_ms": 972.71,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "无尽资源站",
+      "link": "https://api.wujinapi.me",
+      "source_url": "https://www.ziyuanzu.com/source/wujinziyuanzhan",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "description": "无尽资源采集站，资源丰富稳定",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 118487,
+      "rating": 4.5,
+      "tags": [
+        "资源丰富",
+        "稳定",
+        "采集站"
+      ],
+      "speed": "fast",
+      "responseTime": 354,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://api.wujinapi.me",
+        "status_code": 403,
+        "response_time_ms": 226.55,
+        "is_alive": true,
+        "error": "HTTP 403 (在线但受限)"
+      }
+    },
+    {
+      "name": "最大资源站",
+      "link": "http://zuidazy.me",
+      "source_url": "https://www.ziyuanzu.com/source/zuidaziyuanzhan",
+      "api": "http://zuidazy.me/api.php/provide/vod/",
+      "description": "最大资源采集站，资源量最大",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 122136,
+      "rating": 4.5,
+      "tags": [
+        "资源量大",
+        "老牌",
+        "稳定"
+      ],
+      "speed": "fast",
+      "responseTime": 446,
+      "todayUpdates": 5,
+      "health": {
+        "url": "http://zuidazy.me",
+        "status_code": 200,
+        "response_time_ms": 178.09,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "牛牛资源",
+      "link": "https://api.niuniuzy.me",
+      "source_url": "https://www.ziyuanzu.com/source/niuniuziyuan",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "description": "牛牛资源采集站，稳定高速",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 122131,
+      "rating": 4.5,
+      "tags": [
+        "稳定",
+        "高速",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 506,
+      "todayUpdates": 5,
+      "health": {
+        "url": "https://api.niuniuzy.me",
+        "status_code": 200,
+        "response_time_ms": 449.06,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "红牛资源站",
+      "link": "http://hongniuzy2.com",
+      "source_url": "https://www.ziyuanzu.com/source/hongniuziyuanzhan",
+      "api": "http://hongniuzy2.com/api.php/provide/vod/",
+      "description": "红牛资源采集站，m3u8直链，老牌稳定",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 110302,
+      "rating": 4.5,
+      "tags": [
+        "老牌",
+        "稳定",
+        "m3u8"
+      ],
+      "speed": "medium",
+      "responseTime": 1148,
+      "todayUpdates": 17,
+      "health": {
+        "url": "http://hongniuzy2.com",
+        "status_code": 200,
+        "response_time_ms": 377.83,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "魔都资源站",
+      "link": "https://www.mdzyapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/modouziyuanzhan",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "description": "魔都资源采集站，资源丰富稳定",
+      "status": "down",
+      "uptime": "50%",
+      "resource_count": 87456,
+      "rating": 4.5,
+      "tags": [
+        "资源丰富",
+        "稳定",
+        "采集站"
+      ],
+      "speed": "slow",
+      "responseTime": 15001,
+      "todayUpdates": 17,
+      "health": {
+        "url": "https://www.mdzyapi.com",
+        "status_code": 200,
+        "response_time_ms": 692.83,
+        "is_alive": true,
+        "error": "在线（本地检测恢复，ziyuanzu 仍显示 down）"
+      }
+    },
+    {
+      "name": "奶香香资源站",
+      "link": "https://naixxzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/naixiangxiangziyuanzhan",
+      "api": "https://naixxzy.com/api.php/provide/vod/",
+      "description": "奶香香资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 175434,
+      "rating": 4.5,
+      "tags": [
+        "极速",
+        "综合",
+        "API"
+      ],
+      "speed": "medium",
+      "responseTime": 550,
+      "todayUpdates": 50,
+      "health": {
+        "url": "https://naixxzy.com",
+        "status_code": 200,
+        "response_time_ms": 490.68,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "辣椒资源站",
+      "link": "https://apilj.com",
+      "source_url": "https://www.ziyuanzu.com/source/lajiaoziyuanzhan",
+      "api": "https://apilj.com/api.php/provide/vod/",
+      "description": "辣椒资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 223171,
+      "rating": 4.5,
+      "tags": [
+        "高清",
+        "采集站",
+        "影视资源"
+      ],
+      "speed": "medium",
+      "responseTime": 516,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://apilj.com",
+        "status_code": 200,
+        "response_time_ms": 958.88,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "鸭鸭资源站",
+      "link": "https://cj.yayazy.net",
+      "source_url": "https://www.ziyuanzu.com/source/yayaziyuanzhan",
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "description": "丫丫资源采集站，资源丰富稳定",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 120171,
+      "rating": 4.4,
+      "tags": [
+        "稳定",
+        "资源丰富",
+        "采集站"
+      ],
+      "speed": "fast",
+      "responseTime": 252,
+      "todayUpdates": 5,
+      "health": {
+        "url": "https://cj.yayazy.net",
+        "status_code": 200,
+        "response_time_ms": 272.9,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "天涯影视资源站",
+      "link": "https://tyyszyapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/tianyayingshiziyuanzhan",
+      "api": "https://tyyszyapi.com/api.php/provide/vod/",
+      "description": "天涯影视资源采集站，稳定可靠",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 69330,
+      "rating": 4.4,
+      "tags": [
+        "稳定",
+        "影视资源",
+        "采集站"
+      ],
+      "speed": "fast",
+      "responseTime": 384,
+      "todayUpdates": 13,
+      "health": {
+        "url": "https://tyyszyapi.com",
+        "status_code": 200,
+        "response_time_ms": 674.88,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "极速资源站",
+      "link": "https://jszyapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/jisuziyuanzhan",
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "description": "极速资源采集站，JSON接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 109145,
+      "rating": 4.4,
+      "tags": [
+        "极速",
+        "JSON",
+        "采集站"
+      ],
+      "speed": "fast",
+      "responseTime": 350,
+      "todayUpdates": 16,
+      "health": {
+        "url": "https://jszyapi.com",
+        "status_code": 403,
+        "response_time_ms": 210.13,
+        "is_alive": true,
+        "error": "HTTP 403 (在线但受限)"
+      }
+    },
+    {
+      "name": "爱奇艺资源站",
+      "link": "https://iqiyizyapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/aiqiyiziyuanzhan",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "description": "爱奇艺资源采集站，资源丰富",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 66369,
+      "rating": 4.4,
+      "tags": [
+        "资源丰富",
+        "稳定",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 1415,
+      "todayUpdates": 15,
+      "health": {
+        "url": "https://iqiyizyapi.com",
+        "status_code": 200,
+        "response_time_ms": 1562.54,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "猫眼资源",
+      "link": "https://api.maoyanapi.top",
+      "source_url": "https://www.ziyuanzu.com/source/maoyanziyuan",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "description": "猫眼资源采集站，稳定可靠",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 33824,
+      "rating": 4.4,
+      "tags": [
+        "稳定",
+        "可靠",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 994,
+      "todayUpdates": 30,
+      "health": {
+        "url": "https://api.maoyanapi.top",
+        "status_code": 200,
+        "response_time_ms": 761.41,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "索尼采集站",
+      "link": "https://suonizy.net",
+      "source_url": "https://www.ziyuanzu.com/source/suonicaijizhan",
+      "api": "https://suonizy.net/api.php/provide/vod/",
+      "description": "索尼采集站，资源丰富稳定",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 142917,
+      "rating": 4.4,
+      "tags": [
+        "资源丰富",
+        "稳定",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 571,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://suonizy.net",
+        "status_code": 200,
+        "response_time_ms": 604.78,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "虎牙资源站",
+      "link": "https://huyazy.net",
+      "source_url": "https://www.ziyuanzu.com/source/huyaziyuanzhan",
+      "api": "https://huyazy.net/api.php/provide/vod/",
+      "description": "虎牙资源采集站，资源丰富",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 109818,
+      "rating": 4.4,
+      "tags": [
+        "资源丰富",
+        "稳定",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 767,
+      "todayUpdates": 17,
+      "health": {
+        "url": "https://huyazy.net",
+        "status_code": 200,
+        "response_time_ms": 843.6,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "速播资源站",
+      "link": "https://subocj.com",
+      "source_url": "https://www.ziyuanzu.com/source/suboziyuanzhan",
+      "api": "https://subocj.com/api.php/provide/vod/",
+      "description": "速播资源采集站，JSON接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 110815,
+      "rating": 4.4,
+      "tags": [
+        "JSON",
+        "稳定",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 1442,
+      "todayUpdates": 17,
+      "health": {
+        "url": "https://subocj.com",
+        "status_code": 403,
+        "response_time_ms": 173.72,
+        "is_alive": true,
+        "error": "HTTP 403 (在线但受限)"
+      }
+    },
+    {
+      "name": "金鹰资源站",
+      "link": "https://jyzyapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/jinyingziyuanzhan",
+      "api": "https://jyzyapi.com/provide/vod/",
+      "description": "金鹰资源采集站，m3u8直链",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 110878,
+      "rating": 4.4,
+      "tags": [
+        "m3u8",
+        "直链",
+        "稳定"
+      ],
+      "speed": "medium",
+      "responseTime": 897,
+      "todayUpdates": 17,
+      "health": {
+        "url": "https://jyzyapi.com",
+        "status_code": 403,
+        "response_time_ms": 215.23,
+        "is_alive": true,
+        "error": "HTTP 403 (在线但受限)"
+      }
+    },
+    {
+      "name": "非凡资源站",
+      "link": "https://ffzy5.tv",
+      "source_url": "https://www.ziyuanzu.com/source/feifanziyuanzhan",
+      "api": "https://ffzy5.tv/api.php/provide/vod/",
+      "description": "非凡资源采集站，JSON接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 97851,
+      "rating": 4.4,
+      "tags": [
+        "JSON",
+        "稳定",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 737,
+      "todayUpdates": 12,
+      "health": {
+        "url": "https://ffzy5.tv",
+        "status_code": 200,
+        "response_time_ms": 724.95,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "飘零影院资源站",
+      "link": "https://p2100.net",
+      "source_url": "https://www.ziyuanzu.com/source/piaolingyingyuanziyuanzhan",
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "description": "飘零影院采集站，资源丰富",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 98019,
+      "rating": 4.4,
+      "tags": [
+        "资源丰富",
+        "稳定",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 525,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://p2100.net",
+        "status_code": 403,
+        "response_time_ms": 132.94,
+        "is_alive": true,
+        "error": "在线（本地检测恢复，ziyuanzu 仍显示 down）"
+      }
+    },
+    {
+      "name": "JKUN资源站",
+      "link": "https://jkunzyapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/jkunziyuanzhan",
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "description": "JKUN资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 129699,
+      "rating": 4.4,
+      "tags": [
+        "API",
+        "精品",
+        "新站"
+      ],
+      "speed": "medium",
+      "responseTime": 615,
+      "todayUpdates": 50,
+      "health": {
+        "url": "https://jkunzyapi.com",
+        "status_code": 200,
+        "response_time_ms": 569.81,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "大X子资源站",
+      "link": "https://apidanaizi.com",
+      "source_url": "https://www.ziyuanzu.com/source/daxziziyuanzhan",
+      "api": "https://apidanaizi.com/api.php/provide/vod/",
+      "description": "大X子资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 127826,
+      "rating": 4.4,
+      "tags": [
+        "影视资源",
+        "API",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 526,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://apidanaizi.com",
+        "status_code": 200,
+        "response_time_ms": 318.22,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "樱花资源站",
+      "link": "https://m3u8.apiyhzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/yinghuaziyuanzhan",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "description": "樱花资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 102002,
+      "rating": 4.4,
+      "tags": [
+        "极速",
+        "API",
+        "精品"
+      ],
+      "speed": "medium",
+      "responseTime": 591,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://m3u8.apiyhzy.com",
+        "status_code": 500,
+        "response_time_ms": 363.28,
+        "is_alive": true,
+        "error": "在线（ziyuanzu 确认，本地检测: 500）"
+      }
+    },
+    {
+      "name": "精品X资源站",
+      "link": "https://www.jingpinx.com",
+      "source_url": "https://www.ziyuanzu.com/source/jingpinxziyuanzhan",
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "description": "精品X资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 52951,
+      "rating": 4.4,
+      "tags": [
+        "采集站",
+        "热门",
+        "极速"
+      ],
+      "speed": "medium",
+      "responseTime": 810,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://www.jingpinx.com",
+        "status_code": 200,
+        "response_time_ms": 697.94,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "细胞网资源站",
+      "link": "https://www.xxibaozyw.com",
+      "source_url": "https://www.ziyuanzu.com/source/xibaowangziyuanzhan",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "description": "细胞网资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 12507,
+      "rating": 4.4,
+      "tags": [
+        "API",
+        "影视资源",
+        "新站"
+      ],
+      "speed": "medium",
+      "responseTime": 500,
+      "todayUpdates": 11,
+      "health": {
+        "url": "https://www.xxibaozyw.com",
+        "status_code": 200,
+        "response_time_ms": 711.52,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "鲨鱼资源站",
+      "link": "https://shayuapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/shayuziyuanzhan",
+      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "description": "鲨鱼资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 278130,
+      "rating": 4.4,
+      "tags": [
+        "影视资源",
+        "综合",
+        "新站"
+      ],
+      "speed": "medium",
+      "responseTime": 1524,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://shayuapi.com",
+        "status_code": 200,
+        "response_time_ms": 1396.37,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "黑料资源站",
+      "link": "https://heiliaozyapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/heiliaoziyuanzhan",
+      "api": "https://heiliaozyapi.com/api.php/provide/vod",
+      "description": "黑料资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 98780,
+      "rating": 4.4,
+      "tags": [
+        "采集站",
+        "API",
+        "高清"
+      ],
+      "speed": "medium",
+      "responseTime": 1269,
+      "todayUpdates": 50,
+      "health": {
+        "url": "https://heiliaozyapi.com",
+        "status_code": 500,
+        "response_time_ms": 1051.12,
+        "is_alive": true,
+        "error": "在线（ziyuanzu 确认，本地检测: 500）"
+      }
+    },
+    {
+      "name": "光速资源站",
+      "link": "https://api.guangsuapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/guangsuziyuanzhan",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "description": "光速加载资源站，m3u8直链",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 110878,
+      "rating": 4.3,
+      "tags": [
+        "极速",
+        "m3u8",
+        "直链"
+      ],
+      "speed": "fast",
+      "responseTime": 228,
+      "todayUpdates": 17,
+      "health": {
+        "url": "https://api.guangsuapi.com",
+        "status_code": 403,
+        "response_time_ms": 119.25,
+        "is_alive": true,
+        "error": "HTTP 403 (在线但受限)"
+      }
+    },
+    {
+      "name": "茅台资源站",
+      "link": "https://mtzy5.com",
+      "source_url": "https://www.ziyuanzu.com/source/maotaiziyuanzhan",
+      "api": "https://mtzy5.com/api.php/provide/vod/",
+      "description": "茅台资源采集站，稳定更新",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 141529,
+      "rating": 4.3,
+      "tags": [
+        "稳定",
+        "更新及时",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 1330,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://mtzy5.com",
+        "status_code": 200,
+        "response_time_ms": 2060.16,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "豆瓣资源站",
+      "link": "https://dbzy.tv",
+      "source_url": "https://www.ziyuanzu.com/source/doubanziyuanzhan",
+      "api": "https://dbzy.tv/api.php/provide/vod/",
+      "description": "豆瓣资源采集站，稳定更新",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 139955,
+      "rating": 4.3,
+      "tags": [
+        "稳定",
+        "更新及时",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 914,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://dbzy.tv",
+        "status_code": 200,
+        "response_time_ms": 1112.83,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "155资源站",
+      "link": "https://155api.com",
+      "source_url": "https://www.ziyuanzu.com/source/155ziyuanzhan",
+      "api": "https://155api.com/api.php/provide/vod",
+      "description": "155资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 183497,
+      "rating": 4.3,
+      "tags": [
+        "高清",
+        "API",
+        "极速"
+      ],
+      "speed": "medium",
+      "responseTime": 584,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://155api.com",
+        "status_code": 200,
+        "response_time_ms": 56.56,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "森林资源站",
+      "link": "https://slapibf.com",
+      "source_url": "https://www.ziyuanzu.com/source/senlinziyuanzhan",
+      "api": "https://slapibf.com/api.php/provide/vod/",
+      "description": "森林资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 251456,
+      "rating": 4.3,
+      "tags": [
+        "综合",
+        "影视资源",
+        "热门"
+      ],
+      "speed": "medium",
+      "responseTime": 1363,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://slapibf.com",
+        "status_code": 200,
+        "response_time_ms": 447.67,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "百度云资源站",
+      "link": "https://api.apibdzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/baiduyunziyuanzhan",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "description": "百度云资源采集站，资源丰富稳定",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 48126,
+      "rating": 4.3,
+      "tags": [
+        "资源丰富",
+        "稳定",
+        "采集站"
+      ],
+      "speed": "slow",
+      "responseTime": 2108,
+      "todayUpdates": 3,
+      "health": {
+        "url": "https://api.apibdzy.com",
+        "status_code": 403,
+        "response_time_ms": 132.21,
+        "is_alive": true,
+        "error": "HTTP 403 (在线但受限)"
+      }
+    },
+    {
+      "name": "乐播资源站",
+      "link": "https://lbapi9.com",
+      "source_url": "https://www.ziyuanzu.com/source/leboziyuanzhan",
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "description": "乐播资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 326862,
+      "rating": 4.2,
+      "tags": [
+        "综合",
+        "API",
+        "稳定"
+      ],
+      "speed": "medium",
+      "responseTime": 684,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://lbapi9.com",
+        "status_code": 200,
+        "response_time_ms": 878.64,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "奥斯卡资源站",
+      "link": "https://aosikazy.com",
+      "source_url": "https://www.ziyuanzu.com/source/aosikaziyuanzhan",
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "description": "奥斯卡资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 212318,
+      "rating": 4.2,
+      "tags": [
+        "影视资源",
+        "精品",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 672,
+      "todayUpdates": 50,
+      "health": {
+        "url": "https://aosikazy.com",
+        "status_code": 200,
+        "response_time_ms": 382.21,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "桃花资源站",
+      "link": "https://thzy1.me",
+      "source_url": "https://www.ziyuanzu.com/source/taohuaziyuanzhan",
+      "api": "https://thzy1.me/api.php/provide/vod/",
+      "description": "桃花资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 138381,
+      "rating": 4.2,
+      "tags": [
+        "影视资源",
+        "综合",
+        "精品"
+      ],
+      "speed": "medium",
+      "responseTime": 1006,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://thzy1.me",
+        "status_code": 200,
+        "response_time_ms": 686.38,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "玉兔资源站",
+      "link": "https://apiyutu.com",
+      "source_url": "https://www.ziyuanzu.com/source/yutuziyuanzhan",
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "description": "玉兔资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 209913,
+      "rating": 4.2,
+      "tags": [
+        "影视资源",
+        "API",
+        "高清"
+      ],
+      "speed": "fast",
+      "responseTime": 397,
+      "todayUpdates": 10,
+      "health": {
+        "url": "https://apiyutu.com",
+        "status_code": 200,
+        "response_time_ms": 176.35,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "老色X资源站",
+      "link": "https://apilsbzy1.com",
+      "source_url": "https://www.ziyuanzu.com/source/laosexziyuanzhan",
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "description": "老色X资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 209913,
+      "rating": 4.2,
+      "tags": [
+        "稳定",
+        "极速",
+        "综合"
+      ],
+      "speed": "fast",
+      "responseTime": 393,
+      "todayUpdates": 10,
+      "health": {
+        "url": "https://apilsbzy1.com",
+        "status_code": 200,
+        "response_time_ms": 1505.53,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "色猫资源站",
+      "link": "https://caiji.semaozy.net",
+      "source_url": "https://www.ziyuanzu.com/source/semaoziyuanzhan",
+      "api": "https://caiji.semaozy.net/inc/api.php",
+      "description": "色猫资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 50000,
+      "rating": 4.2,
+      "tags": [
+        "采集站",
+        "影视资源",
+        "高清"
+      ],
+      "speed": "fast",
+      "responseTime": 330,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://caiji.semaozy.net",
+        "status_code": 200,
+        "response_time_ms": 309.83,
+        "is_alive": true,
+        "error": "在线（本地检测恢复，ziyuanzu 仍显示 down）"
+      }
+    },
+    {
+      "name": "香蕉资源站",
+      "link": "https://www.xiangjiaozyw.com",
+      "source_url": "https://www.ziyuanzu.com/source/xiangjiaoziyuanzhan",
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/",
+      "description": "香蕉资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 12491,
+      "rating": 4.2,
+      "tags": [
+        "稳定",
+        "精品",
+        "高清"
+      ],
+      "speed": "medium",
+      "responseTime": 608,
+      "todayUpdates": 9,
+      "health": {
+        "url": "https://www.xiangjiaozyw.com",
+        "status_code": 200,
+        "response_time_ms": 938.48,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "麻豆资源站",
+      "link": "https://91md.me",
+      "source_url": "https://www.ziyuanzu.com/source/madouziyuanzhan",
+      "api": "https://91md.me/api.php/provide/vod/",
+      "description": "麻豆资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 37495,
+      "rating": 4.2,
+      "tags": [
+        "精品",
+        "稳定",
+        "影视资源"
+      ],
+      "speed": "medium",
+      "responseTime": 779,
+      "todayUpdates": 25,
+      "health": {
+        "url": "https://91md.me",
+        "status_code": 200,
+        "response_time_ms": 727.65,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "黄色仓库资源",
+      "link": "https://hsckzy888.com",
+      "source_url": "https://www.ziyuanzu.com/source/huangsecangkuziyuan",
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "description": "黄色仓库资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 64442,
+      "rating": 4.2,
+      "tags": [
+        "热门",
+        "精品",
+        "稳定"
+      ],
+      "speed": "fast",
+      "responseTime": 317,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://hsckzy888.com",
+        "status_code": 200,
+        "response_time_ms": 179.86,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "艾旦资源站",
+      "link": "https://lovedan.net",
+      "source_url": "https://www.ziyuanzu.com/source/aidanziyuanzhan",
+      "api": "https://lovedan.net/api.php/provide/vod",
+      "description": "艾旦影视资源采集站，资源丰富",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 178304,
+      "rating": 4.2,
+      "tags": [
+        "影视资源",
+        "采集站"
+      ],
+      "speed": "slow",
+      "responseTime": 12895,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://lovedan.net",
+        "status_code": 403,
+        "response_time_ms": 138.6,
+        "is_alive": true,
+        "error": "HTTP 403 (在线但受限)"
+      }
+    },
+    {
+      "name": "大地资源站",
+      "link": "https://dadiapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/dadiziyuanzhan",
+      "api": "https://dadiapi.com/api.php",
+      "description": "大地资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 50000,
+      "rating": 4.1,
+      "tags": [
+        "极速",
+        "热门",
+        "影视资源"
+      ],
+      "speed": "medium",
+      "responseTime": 652,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://dadiapi.com",
+        "status_code": 403,
+        "response_time_ms": 286.08,
+        "is_alive": true,
+        "error": "在线（本地检测恢复，ziyuanzu 仍显示 down）"
+      }
+    },
+    {
+      "name": "小鸡资源站",
+      "link": "https://api.xiaojizy.live",
+      "source_url": "https://www.ziyuanzu.com/source/xiaojiziyuanzhan",
+      "api": "https://api.xiaojizy.live/provide/vod/",
+      "description": "小鸡资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 80640,
+      "rating": 4.1,
+      "tags": [
+        "稳定",
+        "综合",
+        "极速"
+      ],
+      "speed": "medium",
+      "responseTime": 669,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://api.xiaojizy.live",
+        "status_code": 200,
+        "response_time_ms": 298.52,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "湿乐园资源站",
+      "link": "https://xxavs.com",
+      "source_url": "https://www.ziyuanzu.com/source/shileyuanziyuanzhan",
+      "api": "https://xxavs.com/api.php/provide/vod/",
+      "description": "湿乐园采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 220238,
+      "rating": 4.1,
+      "tags": [
+        "综合",
+        "高清",
+        "热门"
+      ],
+      "speed": "medium",
+      "responseTime": 658,
+      "todayUpdates": 2,
+      "health": {
+        "url": "https://xxavs.com",
+        "status_code": 403,
+        "response_time_ms": 73.42,
+        "is_alive": true,
+        "error": "HTTP 403 (在线但受限)"
+      }
+    },
+    {
+      "name": "番号资源站",
+      "link": "http://fhapi9.com",
+      "source_url": "https://www.ziyuanzu.com/source/fanhaoziyuanzhan",
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "description": "番号资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 228651,
+      "rating": 4.1,
+      "tags": [
+        "综合",
+        "精品",
+        "极速"
+      ],
+      "speed": "medium",
+      "responseTime": 670,
+      "todayUpdates": 20,
+      "health": {
+        "url": "http://fhapi9.com",
+        "status_code": 403,
+        "response_time_ms": 242.67,
+        "is_alive": true,
+        "error": "HTTP 403 (在线但受限)"
+      }
+    },
+    {
+      "name": "越南资源站",
+      "link": "https://api.vnzyz.com",
+      "source_url": "https://www.ziyuanzu.com/source/yuenanziyuanzhan",
+      "api": "https://api.vnzyz.com/api.php/provide/vod/",
+      "description": "越南资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 13101,
+      "rating": 4.1,
+      "tags": [
+        "API",
+        "精品",
+        "新站"
+      ],
+      "speed": "fast",
+      "responseTime": 396,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://api.vnzyz.com",
+        "status_code": 200,
+        "response_time_ms": 559.69,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "爱坤资源站",
+      "link": "https://ikunzyapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/aikunziyuanzhan",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "description": "爱坤资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 66683,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "medium",
+      "responseTime": 682,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://ikunzyapi.com",
+        "status_code": 200,
+        "response_time_ms": 494.53,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "杏吧资源站",
+      "link": "https://json.xingba222.com",
+      "source_url": "https://www.ziyuanzu.com/source/xingbaziyuanzhan",
+      "api": "https://json.xingba222.com/api.php/provide/vod",
+      "description": "杏吧资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 109311,
+      "rating": 4,
+      "tags": [
+        "新站",
+        "稳定",
+        "热门"
+      ],
+      "speed": "medium",
+      "responseTime": 571,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://json.xingba222.com",
+        "status_code": 200,
+        "response_time_ms": 547.67,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "滴滴资源站",
+      "link": "https://api.ddapi.cc",
+      "source_url": "https://www.ziyuanzu.com/source/didiziyuanzhan",
+      "api": "https://api.ddapi.cc/api.php/provide/vod/",
+      "description": "滴滴资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 44118,
+      "rating": 4,
+      "tags": [
+        "精品",
+        "API",
+        "采集站"
+      ],
+      "speed": "fast",
+      "responseTime": 402,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://api.ddapi.cc",
+        "status_code": 403,
+        "response_time_ms": 164.01,
+        "is_alive": true,
+        "error": "HTTP 403 (在线但受限)"
+      }
+    },
+    {
+      "name": "番茄资源站",
+      "link": "https://fqzy.me",
+      "source_url": "https://www.ziyuanzu.com/source/fanjiaziyuanzhan",
+      "api": "https://fqzy.me/api.php/provide/vod/",
+      "description": "番茄资源采集站，提供影视资源API接口",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 110645,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "精品",
+        "极速"
+      ],
+      "speed": "medium",
+      "responseTime": 883,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://fqzy.me",
+        "status_code": 200,
+        "response_time_ms": 709.33,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "如意资源站",
+      "link": "https://api.ryzy.com",
+      "source_url": "https://www.ziyuanzu.com/source/ruyiziyuanzhan",
+      "api": "https://api.ryzy.com/api.php/provide/vod",
+      "description": "如意资源采集站，提供影视资源API接口",
+      "status": "down",
+      "uptime": "-",
+      "resource_count": 0,
+      "rating": 4,
+      "tags": [
+        "影视资源",
+        "采集站",
+        "API"
+      ],
+      "speed": "fast",
+      "responseTime": 460,
+      "todayUpdates": 0,
+      "health": {
+        "url": "https://api.ryzy.com",
+        "status_code": 200,
+        "response_time_ms": 442.84,
+        "is_alive": true,
+        "error": "在线（本地检测恢复，ziyuanzu 仍显示 down）"
+      }
+    },
+    {
+      "name": "搜av资源站",
+      "link": "https://api.souavzyw.net",
+      "source_url": "https://www.ziyuanzu.com/source/souavziyuanzhan",
+      "api": "https://api.souavzyw.net/api.php/provide/vod",
+      "description": "搜av资源采集站",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 125142,
+      "rating": 4,
+      "tags": [
+        "成人",
+        "采集站"
+      ],
+      "speed": "slow",
+      "responseTime": 2052,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://api.souavzyw.net",
+        "status_code": 200,
+        "response_time_ms": 964.34,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "白嫖资源站",
+      "link": "https://www.kxgav.com",
+      "source_url": "https://www.ziyuanzu.com/source/baipiaoziyuanzhan",
+      "api": "https://www.kxgav.com/api/json.php",
+      "description": "白嫖资源采集站",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 23459,
+      "rating": 4,
+      "tags": [
+        "成人",
+        "采集站"
+      ],
+      "speed": "slow",
+      "responseTime": 2146,
+      "todayUpdates": 12,
+      "health": {
+        "url": "https://www.kxgav.com",
+        "status_code": 200,
+        "response_time_ms": 386.25,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "美少女资源站",
+      "link": "https://www.msnii.com",
+      "source_url": "https://www.ziyuanzu.com/source/meishaonvziyuanzhan",
+      "api": "https://www.msnii.com/api/json.php",
+      "description": "美少女资源采集站",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 24752,
+      "rating": 4,
+      "tags": [
+        "成人",
+        "采集站"
+      ],
+      "speed": "slow",
+      "responseTime": 2481,
+      "todayUpdates": 12,
+      "health": {
+        "url": "https://www.msnii.com",
+        "status_code": 200,
+        "response_time_ms": 350.57,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "豆豆资源站",
+      "link": "https://api.douapi.cc",
+      "source_url": "https://www.ziyuanzu.com/source/doudouziyuanzhan",
+      "api": "https://api.douapi.cc/api.php/provide/vod",
+      "description": "豆豆资源采集站",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 54823,
+      "rating": 4,
+      "tags": [
+        "成人",
+        "采集站"
+      ],
+      "speed": "medium",
+      "responseTime": 1984,
+      "todayUpdates": 20,
+      "health": {
+        "url": "https://api.douapi.cc",
+        "status_code": 403,
+        "response_time_ms": 157.0,
+        "is_alive": true,
+        "error": "HTTP 403 (在线但受限)"
+      }
+    },
+    {
+      "name": "黄av资源站",
+      "link": "https://www.pgxdy.com",
+      "source_url": "https://www.ziyuanzu.com/source/huangavziyuanzhan",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "description": "黄av资源采集站",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 23625,
+      "rating": 4,
+      "tags": [
+        "成人",
+        "采集站"
+      ],
+      "speed": "slow",
+      "responseTime": 2164,
+      "todayUpdates": 12,
+      "health": {
+        "url": "https://www.pgxdy.com",
+        "status_code": 200,
+        "response_time_ms": 278.45,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "X水机资源站",
+      "link": "https://www.xrbsp.com",
+      "source_url": "https://www.ziyuanzu.com/source/xshuijiziyuanzhan",
+      "api": "https://www.xrbsp.com/api/json.php",
+      "description": "X水机资源采集站",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 23465,
+      "rating": 4,
+      "tags": [
+        "成人",
+        "采集站"
+      ],
+      "speed": "slow",
+      "responseTime": 2168,
+      "todayUpdates": 12,
+      "health": {
+        "url": "https://www.xrbsp.com",
+        "status_code": 200,
+        "response_time_ms": 438.07,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "香X儿资源站",
+      "link": "https://www.gdlsp.com",
+      "source_url": "https://www.ziyuanzu.com/source/xiangxerziyuanzhan",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "description": "香X儿资源采集站",
+      "status": "ok",
+      "uptime": "100%",
+      "resource_count": 23787,
+      "rating": 4,
+      "tags": [
+        "成人",
+        "采集站"
+      ],
+      "speed": "slow",
+      "responseTime": 2321,
+      "todayUpdates": 12,
+      "health": {
+        "url": "https://www.gdlsp.com",
+        "status_code": 200,
+        "response_time_ms": 411.89,
+        "is_alive": true,
+        "error": null
+      }
+    }
+  ]
+}
