@@ -39,14 +39,17 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r caijiTV/requirements.txt pypinyin
+        working-directory: caijiTV
 
       - name: Run monitor script
-        run: python caijiTV/monitor.py
+        run: python monitor.py
+        working-directory: caijiTV
 
       - name: Clean old history files
         run: |
-          cd caijiTV/docs/data
+          cd docs/data
           ls -t monitor_*.json 2>/dev/null | tail -n +6 | xargs rm -f 2>/dev/null || true
+        working-directory: caijiTV
 
       - name: Commit and push changes
         run: |
