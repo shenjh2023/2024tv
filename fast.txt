@@ -408,16 +408,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },   
-    {
-      "name": "咪咕",
-      "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "https://iptv-sources-1b1.pages.dev/epg/51zmt/{date}/{name}.json",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },   
-   
+      
     {
       "name": "267咪咕",
       "type": 0,
@@ -458,13 +449,22 @@
           {
             "name": "裤佬直播",
             "type": 0,
-            "url": "https://live.445569.xyz/live.m3u",
+            "url": "https://kultvall.13051305.xyz",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
             "timeout": 10
         },
-        
+  {
+            "name": "裤佬体育",
+            "type": 0,
+            "url": "https://kultvsport.13051305.xyz",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+               
 
   {
             "name": "jackTV需翻",
