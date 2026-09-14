@@ -2231,8 +2231,18 @@
 
 
 "lives": [
-  {
+{
       "name": "S1",
+      "type": 0,
+      "url": "https://ssstv.13051305.xyz/live.m3u",
+      "ua": "okhttp/3",
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },   
+
+  {
+      "name": "S2",
       "type": 0,
       "url": "https://267sixzb.13051305.xyz/live.m3u",
       "ua": "okhttp/3",
@@ -2240,8 +2250,9 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },   
+
     {
-      "name": "S2",
+      "name": "S3",
       "type": 0,
       "url": "https://267six.13051305.xyz/live.m3u",
       "ua": "okhttp/3",
