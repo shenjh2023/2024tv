@@ -31,14 +31,6 @@
 "filterable": 0
 },
 
-{ "key": "超多", 
-"name": "超多",
- "type": 3, 
-"api": "https://267sixall.13051305.xyz" ,
-"searchable": 1,
- "quickSearch": 1,
-"filterable": 0
-},
 
   {
       "key": "乐播资源站",
