@@ -1922,8 +1922,14 @@
       "homePage": "https://v.nxog.top/nostr/ouge2.html"
     },
 
-
-
+{ "key": "吃瓜", 
+"name": "🍉57吃瓜网",
+ "type": 3, 
+"api": "https://pan.szfx.top/down.php/9e279c961bceb59a7999404388ffa748.py" ,
+"searchable": 1,
+ "quickSearch": 1,
+"filterable": 0
+},
 
 {
       "key": "暴风资源站",
@@ -2234,26 +2240,6 @@
 {
       "name": "S1",
       "type": 0,
-      "url": "https://267six1.pages.dev/live.m3u",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },   
-{
-      "name": "S2",
-      "type": 0,
-      "url": "https://267six2.pages.dev/live.m3u",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },   
-
-
-{
-      "name": "S3",
-      "type": 0,
       "url": "https://ssstv.13051305.xyz/live.m3u",
       "ua": "okhttp/3",
       "playerType": 2,
@@ -2262,7 +2248,7 @@
     },   
 
   {
-      "name": "S4",
+      "name": "S2",
       "type": 0,
       "url": "https://267sixzb.13051305.xyz/live.m3u",
       "ua": "okhttp/3",
@@ -2272,7 +2258,7 @@
     },   
 
     {
-      "name": "S5",
+      "name": "S3",
       "type": 0,
       "url": "https://267six.13051305.xyz/live.m3u",
       "ua": "okhttp/3",
