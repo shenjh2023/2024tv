@@ -14,7 +14,7 @@
     },
     {
       "key": "豆瓣1",
-      "name": "📢公告❤更新0906❤",
+      "name": "📢SSS线路-需电信网络📢",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 1,
