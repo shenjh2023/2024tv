@@ -1411,20 +1411,11 @@
 
 
 
-   {
-      "key": "新极品资源站",
-      "name": "新极品资源站",
-      "type": 1,
-      "api": "https://jipinvip1.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
+  {
       "key": "暴风资源站",
       "name": "暴风资源站",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1433,7 +1424,7 @@
       "key": "360资源站",
       "name": "360资源站",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1442,7 +1433,7 @@
       "key": "豪华资源站",
       "name": "豪华资源站",
       "type": 1,
-      "api": "https://haohuazy.com/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://haohuazy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1451,7 +1442,7 @@
       "key": "无尽资源站",
       "name": "无尽资源站",
       "type": 1,
-      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://api.wujinapi.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1460,7 +1451,7 @@
       "key": "最大资源站",
       "name": "最大资源站",
       "type": 1,
-      "api": "http://zuidazy.me/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/http://zuidazy.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1469,7 +1460,7 @@
       "key": "牛牛资源",
       "name": "牛牛资源",
       "type": 1,
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://api.niuniuzy.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1478,7 +1469,7 @@
       "key": "红牛资源站",
       "name": "红牛资源站",
       "type": 1,
-      "api": "http://hongniuzy2.com/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/http://hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1487,7 +1478,7 @@
       "key": "魔都资源站",
       "name": "魔都资源站",
       "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://www.mdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1496,7 +1487,7 @@
       "key": "奶香香资源站",
       "name": "奶香香资源站",
       "type": 1,
-      "api": "https://naixxzy.com/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://naixxzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1505,7 +1496,7 @@
       "key": "辣椒资源站",
       "name": "辣椒资源站",
       "type": 1,
-      "api": "https://apilj.com/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://apilj.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1514,7 +1505,7 @@
       "key": "鸭鸭资源站",
       "name": "鸭鸭资源站",
       "type": 1,
-      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://cj.yayazy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1523,7 +1514,7 @@
       "key": "天涯影视资源站",
       "name": "天涯影视资源站",
       "type": 1,
-      "api": "https://tyyszyapi.com/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://tyyszyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1532,7 +1523,7 @@
       "key": "极速资源站",
       "name": "极速资源站",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1541,7 +1532,7 @@
       "key": "爱奇艺资源站",
       "name": "爱奇艺资源站",
       "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "api": "https://267proxy.13051305.xyz/https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1550,7 +1541,7 @@
       "key": "猫眼资源",
       "name": "猫眼资源",
       "type": 1,
-      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "api": "https://267proxy.13051305.xyz/https://api.maoyanapi.top/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1559,7 +1550,7 @@
       "key": "索尼采集站",
       "name": "索尼采集站",
       "type": 1,
-      "api": "https://suonizy.net/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://suonizy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1568,7 +1559,7 @@
       "key": "虎牙资源站",
       "name": "虎牙资源站",
       "type": 1,
-      "api": "https://huyazy.net/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://huyazy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1577,7 +1568,7 @@
       "key": "速播资源站",
       "name": "速播资源站",
       "type": 1,
-      "api": "https://subocj.com/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://subocj.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1586,7 +1577,7 @@
       "key": "金鹰资源站",
       "name": "金鹰资源站",
       "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://jyzyapi.com/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1595,7 +1586,7 @@
       "key": "非凡资源站",
       "name": "非凡资源站",
       "type": 1,
-      "api": "https://ffzy5.tv/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://ffzy5.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1604,7 +1595,43 @@
       "key": "飘零影院资源站",
       "name": "飘零影院资源站",
       "type": 1,
-      "api": "https://p2100.net/api.php/provide/vod/",
+      "api": "https://267proxy.13051305.xyz/https://p2100.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "百度云资源站",
+      "name": "百度云资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://api.apibdzy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+ {
+      "key": "光速资源站",
+      "name": "光速资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "茅台资源站",
+      "name": "茅台资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://mtzy5.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "豆瓣资源站",
+      "name": "豆瓣资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://dbzy.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
