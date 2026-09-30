@@ -2199,7 +2199,7 @@
 {
       "name": "S1",
       "type": 0,
-      "url": "https://267six1.pages.dev/live.m3u",
+      "url": "https://267six2.pages.dev/live.m3u",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -2209,7 +2209,7 @@
     {
       "name": "S2",
       "type": 0,
-      "url": "https://267six2.pages.dev/live.m3u",
+      "url": "https://267six1.pages.dev/live.m3u",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
