@@ -25,7 +25,7 @@
 { "key": "吃瓜", 
 "name": "🍉57吃瓜网",
  "type": 3, 
-"api": "https://267proxy.13051305.xyz/https://pan.szfx.top/down.php/9e279c961bceb59a7999404388ffa748.py" ,
+"api": "https://pan.szfx.top/down.php/9e279c961bceb59a7999404388ffa748.py" ,
 "searchable": 1,
  "quickSearch": 1,
 "filterable": 0
