@@ -22,9 +22,62 @@
       "ext": "https://aaa.v.nxog.top/m/公告?b=如果失效等候更新或者在线更新本地包防失效"
     },
 
-
-{"key":"看球","name":"⚽八八┃看球","type":3,"jar":"https://file.icve.com.cn/file_doc/795/103/C6E19D5100C98F677B21320044A1D030.jpg;md5;c6e19d5100c98f677b21320044a1d030","api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"超全","name":"⚽吃瓜┃看球","type":3,"jar":"https://file.icve.com.cn/file_doc/795/103/C6E19D5100C98F677B21320044A1D030.jpg;md5;c6e19d5100c98f677b21320044a1d030","api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
+ {
+            "key": "看球",
+            "name": "⚽八八┃看球",
+            "type": 3,
+            "jar":"https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "api": "csp_KanqiuGuard",
+            "timeout": 10,
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "多多",
+            "name": "🏀多多┃回放",
+            "type": 3,
+             "jar":"https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "api": "csp_DoubaoGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "吃瓜",
+            "name": "🏐吃瓜┃看球",
+            "type": 3,
+            "jar":"https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "api": "csp_LiveGzGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "alllive",
+            "name": "🎮一直播┃直播",
+            "type": 3,
+            "jar":"https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "api": "csp_AllliveGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "timeout": 15,
+            "playerType": "2",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
+        },
 
   
     {
