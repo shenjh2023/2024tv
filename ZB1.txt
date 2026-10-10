@@ -3,7 +3,7 @@
 
 267综合源,#group#
 
-🛰浙江,#genre#
+🛰电信网络用,#genre#
 
 凤凰中文,http://www.lvyjay.win:4022/udp/233.50.202.35:5140
 凤凰中文,http://www.zlizi.cn:4023/udp/239.76.246.134:1234
@@ -1139,7 +1139,7 @@ CCTV17,http://www.negative.top:50000/rtp/233.50.201.35:5140
 
 
 
-中国移动专用源,#genre#
+移动网络专用,#genre#
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
 CCTV2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8
 CCTV3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8
