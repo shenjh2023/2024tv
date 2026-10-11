@@ -5,33 +5,43 @@
 
 🛰电信网络用,#genre#
 
-凤凰中文,http://www.lvyjay.win:4022/udp/233.50.202.35:5140
-凤凰中文,http://www.zlizi.cn:4023/udp/239.76.246.134:1234
-凤凰中文,http://www.zlizi.cn:4023/udp/239.76.253.135:9000
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰中文,http://ccav.zone.id/php/fh.php?id=2
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰中文,https://cdn6.cc.cd/163189/fhzw
-凤凰中文,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+淘IPTV
+凤凰中文,http://125.123.141.122:44022/rtp/233.50.202.35:5140
+凤凰中文,http://125.125.134.120:8888/rtp/233.50.202.35:5140
+凤凰资讯,http://125.123.141.122:44022/rtp/233.50.202.36:5140
+凤凰资讯,http://125.125.134.120:8888/rtp/233.50.202.36:5140
 
-凤凰资讯,http://www.liangcl.top:8686/udp/233.50.202.36:5140
-凤凰资讯,http://www.lvyjay.win:4022/udp/233.50.202.36:5140
-凤凰资讯,http://www.zlizi.cn:4023/udp/239.76.253.134:9000
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰资讯,https://cdn6.cc.cd/163189/fhzx
+凤凰中文,http://125.123.141.122:44022/rtp/233.50.202.35:5140
+凤凰中文,http://36.25.232.63:8888/rtp/233.50.202.35:5140
+凤凰资讯,http://125.123.141.122:44022/rtp/233.50.202.36:5140
+凤凰资讯,http://36.25.232.63:8888/rtp/233.50.202.36:5140
 
 
-
-
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
-香港卫视,https://cdn.qd.je/163189/fhhk
-香港卫视,https://cdn6.cc.cd/163189/fhhk
+凤凰香港,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰香港,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+
+
+易发
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+
+
+267部署
+凤凰资讯,http://45.192.97.170:8880/play/66.m3u8
+凤凰中文,http://45.192.97.170:8880/play/67.m3u8
+凤凰香港,http://45.192.97.170:8880/play/68.m3u8
+香港卫视,http://45.192.97.170:8880/play/69.m3u8
+凤凰中文,http://45.192.97.170:8880/play/70.m3u8
+凤凰资讯,http://45.192.97.170:8880/play/71.m3u8
+凤凰香港,http://45.192.97.170:8880/play/72.m3u8
+
+
+凤凰中文,http://ccav.zone.id/php/fh.php?id=2
+凤凰资讯,http://www.liangcl.top:8686/udp/233.50.202.36:5140
+凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
+
 
 
 
@@ -702,6 +712,7 @@ CCTV17,http://36.25.232.63:8888/rtp/233.50.201.35:5140
 中国教育1,http://36.25.232.63:8888/rtp/233.50.201.75:5140
 中国教育4,http://125.123.141.122:44022/rtp/233.50.200.174:5140
 中国教育4,http://36.25.232.63:8888/rtp/233.50.200.174:5140
+
 凤凰中文,http://125.123.141.122:44022/rtp/233.50.202.35:5140
 凤凰中文,http://36.25.232.63:8888/rtp/233.50.202.35:5140
 凤凰资讯,http://125.123.141.122:44022/rtp/233.50.202.36:5140
