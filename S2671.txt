@@ -2258,17 +2258,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },   
-   {
-      "name": "S2综合",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/2025all.txt",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },    
-
-
+  
 {
       "name": "S2短剧",
       "type": 0,
@@ -2306,9 +2296,9 @@
       "epg": "https://iptv-sources-1b1.pages.dev/epg/51zmt/{date}/{name}.json",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    
+ 
     {
-      "name": "S6all",
+      "name": "S6综合all",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/2025all.txt",
       "ua": "okhttp/3",
