@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30 11:58:47",
+  "timestamp": "2026-10-30 17:58:38",
   "total": 12,
   "data": [
     {
@@ -101,7 +101,7 @@
       "health": {
         "url": "https://api.ryzy.com",
         "status_code": 432,
-        "response_time_ms": 830.09,
+        "response_time_ms": 738.36,
         "is_alive": false,
         "error": null
       }
