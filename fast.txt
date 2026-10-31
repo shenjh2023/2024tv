@@ -164,6 +164,72 @@
         ]
       }
     },
+    
+   {
+      "key": "s云播",
+      "name": "🥇s云播",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%5B4K%5D%E4%BA%91%E6%92%AD.py"
+    },
+    {
+      "key": "s剧下饭",
+      "name": "🥇s剧下饭",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%5B4K%5D%E5%89%A7%E4%B8%8B%E9%A5%AD.py"
+    },
+    {
+      "key": "s枫叶",
+      "name": "🥇s枫叶",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%5B4K%5D%E6%9E%AB%E5%8F%B6.py"
+    },
+    {
+      "key": "s河豚",
+      "name": "🥇s河豚",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%5B4K%5D%E6%B2%B3%E8%B1%9A.py"
+    },
+    {
+      "key": "s瓜子",
+      "name": "🥇s瓜子",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%5B4K%5D%E7%93%9C%E5%AD%90.py"
+    },
+    {
+      "key": "s努努影院",
+      "name": "🥇s努努影院",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%E5%8A%AA%E5%8A%AA%E5%BD%B1%E9%99%A2.py"
+    },
+    {
+      "key": "s大马猴",
+      "name": "🥇s大马猴",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%E5%A4%A7%E9%A9%AC%E7%8C%B4.py"
+    },
+    {
+      "key": "s小鸡看看",
+      "name": "🥇s小鸡看看",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%E5%B0%8F%E9%B8%A1%E7%9C%8B%E7%9C%8B.py"
+    },
+    {
+      "key": "s橘子视频",
+      "name": "🥇s橘子视频",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%E6%A9%98%E6%B1%81%E8%A7%86%E9%A2%91.py"
+    },
+    {
+      "key": "s硬核影院",
+      "name": "🥇s硬核影院",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%E7%A1%AC%E6%A0%B8%E5%BD%B1%E9%99%A2.py"
+    },
+
+
+
+ 
+    
     {
       "key": "热播影视",
       "name": "💡热播｜影视",
@@ -407,142 +473,12 @@
         "ua": "okhttp/3.10.0"
       }
     },
-    {
-      "key": "荐片123",
-      "name": "🥇荐片｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/荐片.js"
-    },
-    {
-      "key": "毒舌影视",
-      "name": "🥇毒舌｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/毒舌影视.js"
-    },
-    {
-      "key": "瓜子影视",
-      "name": "🥇瓜子｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
-      "changeable": 1
-    },
-    {
-      "key": "永1乐",
-      "name": "🥇永乐｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js"
-    },
-    {
-      "key": "金牌123",
-      "name": "🥇金牌｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/金牌影院.js"
-    },
-    {
-      "key": "独播库",
-      "name": "🥇播库┃影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js"
-    },
-    {
-      "key": "华数",
-      "name": "🥇华数｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/华数.py",
-      "changeable": 1
-    },
-    {
-      "key": "看剧影视",
-      "name": "🥇看剧丨影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py",
-      "ext": "http://43.248.117.123:4680"
-    },
-    {
-      "key": "猎手",
-      "name": "🥇猎手丨影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py"
-    },
-    {
-      "key": "央视",
-      "name": "🥇央视丨影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/央视.py"
-    },
-    {
-      "key": "py_文才",
-      "name": "🥇文才｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"
-      }
-    },
-    {
-      "key": "py_6v",
-      "name": "🥇四影｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/4Kvm.js",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "cat_剧迷网",
-      "name": "🥇剧迷｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/高清剧迷.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "changeable": 1
-    },
-    {
-      "key": "枫叶",
-      "name": "🥇枫叶丨影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/枫叶.py"
-    },
-    {
-      "key": "星河",
-      "name": "🥇星河┃影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/get.js",
-      "ext": {
-        "host": "http://110.42.67.130:1226",
-        "key": "kj37zs29q22jk96t",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "戒",
-      "name": "🥇视界┃影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/jys.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "电影港",
-      "name": "🎃电影｜磁力",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XYQHiker/电影港.json"
-    },
+    
+    
+    
+    
+    
+    
     {
       "key": "New6v",
       "name": "🎃New6V｜磁力",
