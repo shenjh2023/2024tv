@@ -630,6 +630,18 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%5B4K%5D%E7%93%9C%E5%AD%90.py"
     },
     {
+      "key": "s咕噜",
+      "name": "🥇s咕噜",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%5B4K%5D%E5%92%95%E5%99%9C.py"
+    },
+    {
+      "key": "s追影影院",
+      "name": "🥇s追影影院",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/py/%E8%BF%BD%E5%BD%B1%E5%BD%B1%E8%A7%86.py"
+    },
+    {
       "key": "s努努影院",
       "name": "🥇s努努影院",
       "type": 3,
