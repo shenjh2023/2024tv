@@ -2196,7 +2196,7 @@
 
 "lives": [
 {
-      "name": "S1综合",
+      "name": "S1合",
       "type": 0,
       "url": "https://3527.kstore.space/69%E7%A6%8F.txt",
       "ua": "okhttp/3",
