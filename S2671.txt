@@ -2196,22 +2196,13 @@
 
 "lives": [
         
-{
-      "name": "S1合",
-      "type": 0,
-      "url": "https://3527.kstore.space/69%E7%A6%8F.txt"
-    },   
   
 {
       "name": "S2短剧",
       "type": 0,
       "url": "https://ssstv.13051305.xyz/live.m3u"
   },   
-  {
-      "name": "S3短剧",
-      "type": 0,
-      "url": "https://267six1.pages.dev/live.m3u"
-       },   
+ 
   {
       "name": "S4中live",
       "type": 0,
@@ -2223,6 +2214,12 @@
       "type": 0,
       "url": "https://267six.13051305.xyz/live.m3u"
         },
+{
+      "name": "S1合",
+      "type": 0,
+      "url": "https://3527.kstore.space/69%E7%A6%8F.txt"
+    },   
+
  
     {
       "name": "S6综合all",
