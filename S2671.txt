@@ -2195,63 +2195,40 @@
 
 
 "lives": [
+        
 {
       "name": "S1合",
       "type": 0,
-      "url": "https://3527.kstore.space/69%E7%A6%8F.txt",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "url": "https://3527.kstore.space/69%E7%A6%8F.txt"
     },   
   
 {
       "name": "S2短剧",
       "type": 0,
-      "url": "https://ssstv.13051305.xyz/live.m3u",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },   
+      "url": "https://ssstv.13051305.xyz/live.m3u"
+  },   
   {
       "name": "S3短剧",
       "type": 0,
-      "url": "https://267six1.pages.dev/live.m3u",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },   
+      "url": "https://267six1.pages.dev/live.m3u"
+       },   
   {
       "name": "S4中live",
       "type": 0,
-      "url": "https://267sixzb.13051305.xyz/live.m3u",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },   
+      "url": "https://267sixzb.13051305.xyz/live.m3u"
+      },   
 
     {
       "name": "S5外live",
       "type": 0,
-      "url": "https://267six.13051305.xyz/live.m3u",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "https://iptv-sources-1b1.pages.dev/epg/51zmt/{date}/{name}.json",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+      "url": "https://267six.13051305.xyz/live.m3u"
+        },
  
     {
       "name": "S6综合all",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/2025all.txt",
-      "ua": "okhttp/3",
-      "playerType": 2,
-      "epg": "https://iptv-sources-1b1.pages.dev/epg/51zmt/{date}/{name}.json",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/2025all.txt"
+ }
    
     
         
