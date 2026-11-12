@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-11-11 23:56:10",
+  "timestamp": "2026-11-12 05:31:41",
   "total": 12,
   "data": [
     {
-      "name": "魔都资源站",
-      "link": "https://www.mdzyapi.com",
-      "source_url": "https://www.ziyuanzu.com/source/modouziyuanzhan",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-      "description": "魔都资源采集站，资源丰富稳定",
+      "name": "百花资源站",
+      "link": "https://bhziyuan.com",
+      "source_url": "https://www.ziyuanzu.com/source/baihuaziyuanzhan",
+      "api": "https://bhziyuan.com/api.php/provide/vod",
+      "description": "百花资源采集站，提供影视资源API接口",
       "status": "down",
-      "uptime": "50%",
-      "resource_count": 87456,
-      "rating": 4.5,
+      "uptime": "-",
+      "resource_count": 11523,
+      "rating": 4.3,
       "tags": [
-        "资源丰富",
-        "稳定",
-        "采集站"
+        "影视资源",
+        "热门",
+        "极速"
       ],
-      "speed": "slow",
-      "responseTime": 15001,
-      "todayUpdates": 17,
+      "speed": "medium",
+      "responseTime": 540,
+      "todayUpdates": 0,
       "health": {
-        "url": "https://www.mdzyapi.com",
+        "url": "https://bhziyuan.com",
         "status_code": null,
         "response_time_ms": null,
         "is_alive": false,
-        "error": "Timeout"
+        "error": "Connection Error"
       }
     },
     {
