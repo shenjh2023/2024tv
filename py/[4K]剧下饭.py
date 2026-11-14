@@ -3,6 +3,7 @@
 # 站点: http://manian.juxiafan.com/  (内置 8 个备用域名自动轮换)
 
 import json
+import re
 import time
 from base64 import b64encode
 from urllib.request import Request, urlopen
@@ -333,12 +334,68 @@ def _reco(host):
     except Exception:
         return []
 
+
+PLAY_LINE_ORDER = [
+    "4K", "至臻", "臻影", "鲸宝", "爱壹帆", "玫瑰", "咖啡4K", "2K", "蓝光", "1080", "超清", "HD", "高清", "VIP", "精品", "极速", "标清", "流畅",
+]
+
+def _clean_line_name(name):
+    if not name: return ""
+    clean = re.sub(r'[【\[\(（].*?[】\]）)]', '', str(name))
+    clean = re.sub(r'\(\d+\)$', '', clean)
+    clean = re.sub(r'\s*(?:HD|VIP|备用|推荐|极速|高清|标清|蓝光|超清|试看|抢先|预告|新版|旧版)\s*$', '', clean, flags=re.I)
+    return re.sub(r'\s+', ' ', clean).strip()
+
+def _line_rank(name, play_order=PLAY_LINE_ORDER):
+    clean = _clean_line_name(name)
+    low = clean.lower()
+    for i, kw in enumerate(play_order):
+        kl = kw.lower()
+        if low and (low == kl or low.startswith(kl) or kl in low):
+            return i
+    # 清洗后没命中名单时用原名再匹配一次: 纯画质名(如"蓝光""高清")会被
+    # 清洗削空、"腾讯极速"这类会被削掉画质后缀, 原版会把它们误排到最后
+    rl = str(name or "").lower()
+    if rl and rl != low:
+        for i, kw in enumerate(play_order):
+            kl = kw.lower()
+            if rl == kl or rl.startswith(kl) or kl in rl:
+                return i
+    if not clean: return 9999
+    up = clean.upper()
+    if any(x in clean for x in ('至臻', '臻影', '鲸宝', '爱壹帆')): return 100
+    if '4K' in up or '4k' in clean or '2160' in clean: return 200
+    if '2K' in up or '2k' in clean or '1440' in clean: return 240
+    if '蓝光' in clean: return 250
+    if any(x in clean for x in ('1080', '超清', 'UHD')): return 350
+    if any(x in up for x in ('HD', 'VIP')) or any(x in clean for x in ('高清', '精品', '极速', '金牌')): return 400
+    if '☆' in clean: return 500
+    if '自营' in clean: return 600
+    if any(x in clean for x in ('标清', '流畅', '普清')): return 700
+    return 4000
+
+
+_DETAIL_CACHE = {}
+
+
 def _fetch_detail(host, vid):
+    # 详情缓存 90 秒: 打开详情、点播放、连着切集都会重复拉同一份详情,
+    # 缓存后切集基本秒播 (播放解析 _play 也走这里)
+    key = (host, str(vid))
+    hit = _DETAIL_CACHE.get(key)
+    if hit and time.time() - hit[0] < 90:
+        return hit[1]
     resp = _post_form(host, "/api/v1/video/videoDetails", {"id": str(vid)})
     try:
-        return json.loads(resp).get("data") or {}
+        data = json.loads(resp).get("data") or {}
     except Exception:
-        return {}
+        data = {}
+    if data:
+        _DETAIL_CACHE[key] = (time.time(), data)
+        if len(_DETAIL_CACHE) > 30:
+            _DETAIL_CACHE.clear()
+            _DETAIL_CACHE[key] = (time.time(), data)
+    return data
 
 def _detail(host, vid):
     data = _fetch_detail(host, vid)
@@ -366,6 +423,8 @@ def _detail(host, vid):
         from_urllists.append("#".join(segs))
     if not from_urllists:
         return {"list": []}
+    paired = sorted(zip(from_names, from_urllists), key=lambda item: _line_rank(item[0], PLAY_LINE_ORDER))
+    from_names, from_urllists = [x[0] for x in paired], [x[1] for x in paired]
     play_from = "$$$".join(from_names)     # 多线路: 名字用 $$$ 分隔
     play_url = "$$$".join(from_urllists)   # 线路内集数用 # 分隔
     return {"list": [{
