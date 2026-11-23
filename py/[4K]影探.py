@@ -2,10 +2,10 @@
 # 影探4K —— FongMi 影视 / 鱼壳 webhtv 单文件 Python 源
 # 数据源：影探 CMS（cms.lyyytv.cn） + 放映室解析（fys.lyyytv.cn）
 #
+# 优化版：快速播放优先，分层降级，收窄 4K 判定
 # 关于「写着 4K 实际只有 1080P」：
 #   CMS 的 vod_remarks 与线路 code（4K(BD) / 4K(YD)）都是后台手填的文本标签，
-#   和文件真实分辨率没有关系。实测 4K 线路里确实混着 H.264 High / 1920x1080 的源，
-#   抽样 40 部约有 12% 是这种情况。本源只负责把真实地址取出来，不臆测分辨率。
+#   和文件真实分辨率没有关系。本源只负责把真实地址取出来，不臆测分辨率。
 
 import base64
 import json
@@ -157,14 +157,15 @@ def _b64(value):
 
 HOST = 'http://cms.lyyytv.cn'
 CMS_KEY = 'wP5bvxoc3yv7FoBQENFZuAF0EUYr4LTy'
-# 放映室解析：老的 parsesId=3 已下线（Parses.php:63 报 500），现存两条且互不通用
+# 放映室解析：老的 parsesId=3 已下线，现存两条且互不通用
 PARSE_API = 'http://fys.lyyytv.cn/api/index?appid=10001&videoUrl='
 PARSE_ID_WEB = 5     # 腾讯/爱奇艺/芒果/优酷/B站 页面地址
 PARSE_ID_4K = 6      # ym4kjx 下的 mp4/mkv 直链（站点自身 404，必须换链）
 DEC_PREFIX = 'https://baidu.con/'
 UA = 'okhttp/4.12.0'
-TIMEOUT = 20
-PARSE_ROUNDS = 2
+
+TIMEOUT = 8            # 原 20s → 8s，失败线路快速跳过
+PARSE_ROUNDS = 1       # 原 2 轮 → 1 轮，快速失败
 PLAY_TTL = 300
 
 # 筛选：只保留 nav 的 type_extend 里真实存在的键
@@ -214,22 +215,22 @@ def _is_stream(url):
 
 
 def _is_4k_source(url):
+    """只认明确的主机或路径特征，避免把普通直链误判为 4K。"""
     if not _http_url(url):
         return False
     host = (urllib.parse.urlparse(url).hostname or '').lower()
     if _4K_HOST_RE.search(host):
         return True
-    return _is_media(url) and not _is_stream(url)
+    path = urllib.parse.urlparse(url).path.lower()
+    return _is_media(url) and ('4k' in path or '2160' in path)
 
 
 # ------------------------------------------------------------ 真分辨率探测
-# CMS 只给文本标签，想要真实分辨率只能看文件头：
-#   直链全被 CDN 包了一层，首字节 1a45dfa3 = MKV（大量 .mp4 其实是 MKV 容器），
-#   否则按 MP4 sample entry 读 width/height。只取前 256KB，够用且不浪费流量。
+# CMS 只给文本标签，想要真实分辨率只能看文件头。只取前 48KB，够用且省流量。
 
 RES_TTL = 86400
-PROBE_BUDGET = 6          # 详情页为探测总共愿意等多久（秒），超时的线路直接不标
-_PROBE_BYTES = 49152      # 48KB：MKV 头部一般 5–30KB 就够，实测 40KB 与 256KB 结果一致
+PROBE_BUDGET = 3          # 详情页为探测总共愿意等多久（秒）
+_PROBE_BYTES = 49152      # 48KB
 _PROBE_SESSION = None
 
 
@@ -290,8 +291,12 @@ def _mkv_res(buf):
 def _probe_res(url):
     """返回 (宽, 高)，探不到就 (0, 0)。"""
     try:
-        r = _probe_session().get(url, headers={'Range': 'bytes=0-%d' % (_PROBE_BYTES - 1)},
-                                 timeout=4, stream=False)
+        r = _probe_session().get(
+            url,
+            headers={'Range': 'bytes=0-%d' % (_PROBE_BYTES - 1)},
+            timeout=3,
+            stream=False
+        )
         buf = r.content or b''
     except Exception:
         return 0, 0
@@ -305,8 +310,12 @@ def _probe_res(url):
 def _probe_line(raw):
     """4K 直链 → parsesId=6 换链 → 读文件头拿真实分辨率。"""
     try:
-        target = '%s%s&parsesId=%d' % (PARSE_API, urllib.parse.quote(raw, safe="!'()*"), PARSE_ID_4K)
-        body = _probe_session().get(target, timeout=6).text
+        target = '%s%s&parsesId=%d' % (
+            PARSE_API,
+            urllib.parse.quote(raw, safe="!'()*"),
+            PARSE_ID_4K
+        )
+        body = _probe_session().get(target, timeout=4).text
         real = _resolve_parse(body)
         if not _http_url(real):
             return 0, 0
@@ -401,8 +410,11 @@ class Spider(Spider):
         except Exception:
             pass
         try:
-            rsp = requests.get(url, headers={'User-Agent': UA, 'Accept-Encoding': 'identity'},
-                               timeout=timeout)
+            rsp = requests.get(
+                url,
+                headers={'User-Agent': UA, 'Accept-Encoding': 'identity'},
+                timeout=timeout
+            )
             if rsp.status_code == 200:
                 return rsp.text or ''
         except Exception:
@@ -455,7 +467,10 @@ class Spider(Spider):
             sep = entry.find('$')
             if sep <= 0 or not _text(entry[sep + 1:]):
                 continue
-            parts.append('%s$%s' % (_text(entry[:sep]), Spider._decrypt_lvdou(entry[sep + 1:])))
+            parts.append('%s$%s' % (
+                _text(entry[:sep]),
+                Spider._decrypt_lvdou(entry[sep + 1:])
+            ))
         return '#'.join(parts)
 
     @staticmethod
@@ -488,7 +503,7 @@ class Spider(Spider):
     # ------------------------------------------------------------ 壳接口
 
     def getName(self):
-        return '🎬 影探4K'
+        return ' 影探4K·速播版'
 
     def isVideoFormat(self, url):
         return _is_media(url)
@@ -577,9 +592,14 @@ class Spider(Spider):
             if isinstance(players, list) and players:
                 sources = players
             else:
-                sources = [{'name': froms[i] if i < len(froms) else '',
-                            'url': u, 'code': froms[i] if i < len(froms) else ''}
-                           for i, u in enumerate(_text(vod.get('vod_play_url')).split('$$$'))]
+                sources = [
+                    {
+                        'name': froms[i] if i < len(froms) else '',
+                        'url': u,
+                        'code': froms[i] if i < len(froms) else ''
+                    }
+                    for i, u in enumerate(_text(vod.get('vod_play_url')).split('$$$'))
+                ]
             lines = []
             urls = []
             raws = []
@@ -591,8 +611,6 @@ class Spider(Spider):
                     continue
                 code = _text(source.get('code'))
                 name = _text(source.get('name')) or code or ('线路%d' % (index + 1))
-                # 后台把 4K 写在 code 上、把「联通云/移动云」写在 name 上，
-                # 只显示 name 会让人以为没有 4K 线路，所以把 code 并进线路名。
                 label = ('%s %s' % (code, name)) if code and code.lower() not in name.lower() else name
                 first = url.split('#')[0]
                 first = first.split('$')[-1] if '$' in first else first
@@ -600,9 +618,8 @@ class Spider(Spider):
                 urls.append(url)
                 raws.append(first if _is_4k_source(first) else '')
 
-            # 4K 标签是后台手填的，混着 1080P 的源；这里读文件头把真实分辨率标出来，
-            # 高的排前面。只探前 3 条 4K，每条 7 秒封顶，失败就当没探到，不拖慢详情页。
-            picks = [(i, raws[i]) for i in range(len(raws)) if raws[i]][:3]
+            # 只探测前 2 条真 4K 源，预算 3 秒，超时直接放弃
+            picks = [(i, raws[i]) for i in range(len(raws)) if raws[i]][:2]
             res = {}
             todo = []
             for i, raw in picks:
@@ -612,14 +629,13 @@ class Spider(Spider):
                 else:
                     todo.append((i, raw))
             if todo:
-                pool = ThreadPoolExecutor(max_workers=min(3, len(todo)))
+                pool = ThreadPoolExecutor(max_workers=min(2, len(todo)))
                 try:
                     jobs = {pool.submit(_probe_line, raw): (i, raw) for i, raw in todo}
                     done, _pending = wait(jobs, timeout=PROBE_BUDGET)
                 except Exception:
                     jobs, done = {}, set()
                 finally:
-                    # 不等慢的那条：超时的线路这次不标，下次打开再试
                     pool.shutdown(wait=False)
                 for job in done:
                     i, raw = jobs[job]
@@ -669,15 +685,22 @@ class Spider(Spider):
         if cached:
             return {'parse': 0, 'url': cached, 'header': {'User-Agent': UA}}
 
+        url = ''
+        tag = ''
+
         if _is_4k_source(raw):
-            # 4K 线路在源站是 404 的裸直链，必须经 parsesId=6 换成移动云盘/华为云地址
+            # 先试专用 4K 解析；失败再试 Web 解析；仍失败且原始地址是媒体则兜底
             tag = '4K'
-            url = self._parse(raw, PARSE_ID_4K)
-            if not url:
-                tag = '4K-FAIL'
+            url = self._parse(raw, PARSE_ID_4K) or self._parse(raw, PARSE_ID_WEB)
+            if not url and _is_media(raw):
                 url = raw
+                tag = '4K-DIRECT'
         elif _is_stream(raw):
             tag = 'STREAM'
+            url = raw
+        elif _is_media(raw):
+            # 普通 mp4/mkv 直链：不做解析，直接播，速度最快
+            tag = 'DIRECT'
             url = raw
         else:
             tag = 'WEB'
@@ -689,11 +712,13 @@ class Spider(Spider):
         return {'parse': 0, 'url': url, 'header': {'User-Agent': UA}}
 
     def _parse(self, raw, parse_id):
-        target = '%s%s&parsesId=%d' % (PARSE_API, urllib.parse.quote(raw, safe="!'()*"), parse_id)
-        for rnd in range(PARSE_ROUNDS):
-            if rnd:
-                time.sleep(0.4 * rnd)
-            body = self._get(target, 25)
+        target = '%s%s&parsesId=%d' % (
+            PARSE_API,
+            urllib.parse.quote(raw, safe="!'()*"),
+            parse_id
+        )
+        for _rnd in range(PARSE_ROUNDS):
+            body = self._get(target, TIMEOUT)
             resolved = _resolve_parse(body)
             if resolved:
                 return resolved
